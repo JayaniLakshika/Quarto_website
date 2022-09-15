@@ -1,0 +1,12 @@
+---
+title: "Projects"
+editor: visual
+---
+
+## 2021
+
+### Computer Vision System For Automated Medicinal Plant Identification
+
+Medicinal plants are usually identified by practitioners based on years of experience through sensory or olfactory senses. The other method of recognizing these plants involves laboratory-based testing, which requires trained skills, data interpretation which is costly and time-intensive. Automatic ways to identify medicinal plants are useful especially those that are lacking experience in herbal recognition. There is no standard mechanism in identification of medicinal plants. Therefore, we introduce an automatic approach based on statistical machine learning to identify medicinal plants. We refer to our medicinal plant classification algorithm as MEDIPI : MEDIicinal Plant Identitication. Our classification algorithm operates on the features extracted from the image leaves.
+
+[website](https://thiyanga.netlify.app/project/medlea/)
