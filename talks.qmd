@@ -1,0 +1,32 @@
+---
+title: "Talks"
+---
+
+## Estadistica 2021
+
+Estadistica is the annual Statistics Day organized by the Statistics Society of University of Sri Jayewardenepura, Sri Lanka. As an undergraduate researcher, I got an opportunity to open up my research work and experience with the community.
+
+[GitHub](https://github.com/JayaniLakshika/Estadistica_2021)
+
+## Vx Tech Talk 2021
+
+[Vizuamatix (Pvt) Ltd.](https://www.vizuamatix.com/) is a software development company where I completed my research internship. I was able to share my experiences of undergraduate research with Vx team.
+
+[GitHub](https://github.com/JayaniLakshika/Vx_Tech_Talk_2021)
+
+## Conference Proceedings 2021
+
+### 17th Applied Statistics Conference, Solvenia September 2021
+
+-  [Research poster](https://akastrin.si/as2021/) and abstract publication, presentation with named Statistical machine learning for medicinal plant leaves classification.
+
+[![](poster.jpg)](https://www.youtube.com/watch?v=BSs_vXKRnxE)
+
+### Young Scientists' Conference on Multidisciplinary Research (YSCMR), 2021
+
+-   This is organised by the Young Scientists' Association of the National Institute of Fundamental Studies, Sri Lanka (NIFS-YSA) October 2021.
+
+-   Speed-talk presentation on Statistical machine learning for medicinal plant leaves classification.
+
+[![](conf2.jpg)](https://www.youtube.com/watch?v=mfP2LUbj0ig)
+
