@@ -1,0 +1,8 @@
+homog_policy:
+  title: "Computer-aided Interpretable Features for Leaf Image Classification"
+  authors:
+    - me
+    - Thiyanga S. Talagala
+  year: 2021
+  preprint: https://arxiv.org/abs/2106.08077
+  github: https://github.com/JayaniLakshika/Feature-Leaf
