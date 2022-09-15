@@ -1,0 +1,10 @@
+- title: "DSjobtracker"
+  description: |
+    R package containing information related to data science job advertisements. What skills and qualifications are required for data science related jobs?
+  github: https://github.com/thiyangt/DSjobtracker
+  package: https://cran.r-project.org/web/packages/DSjobtracker/index.html
+- title: "MedLEA"
+  description: |
+    The MedLEA package provides morphological and structural features of 471 medicinal plant leaves and 1099 leaf images of 31 species and 29-45 images per species.
+  github: https://github.com/SMART-Research/MedLEA
+  package: https://cran.r-project.org/web/packages/MedLEA/index.html
