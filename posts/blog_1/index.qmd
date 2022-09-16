@@ -1,0 +1,10 @@
+---
+title: "My First Blog Post"
+editor: visual
+---
+
+You can find my **first** project, which I have completed as a pert of the course **STA 474 2.0 Statistical Consultancy**, when I was doing my undergraduate degree. This was the first challenge that I have to face when I was in the second semester of my last year. I was never build a blog post by myself back then. This was a great experience for me. Finally, it's in the Statistical Consultancy Website of University of Sri Jayewardenepura, Sri Lanka (**SCS-USJ**).
+
+[![](pic1.png)](https://scs-fas-sjp.netlify.app/blog/post-3/)
+
+[![](pic2.png)](https://github.com/JayaniLakshika/My_First_Blog_Post)

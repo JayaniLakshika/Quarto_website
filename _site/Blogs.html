@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>JAYANI LAKSHIKA - Talks</title>
+<title>JAYANI LAKSHIKA - Posts</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,6 +25,8 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -55,7 +57,37 @@ ul.task-list{list-style: none;}
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -87,10 +119,10 @@ ul.task-list{list-style: none;}
     <a class="nav-link" href="./projects.html">Projects</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./talks.html" aria-current="page">Talks</a>
+    <a class="nav-link" href="./talks.html">Talks</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Blogs.html">Blog</a>
+    <a class="nav-link active" href="./Blogs.html" aria-current="page">Blog</a>
   </li>  
 </ul>
               <div class="quarto-toggle-container">
@@ -102,83 +134,71 @@ ul.task-list{list-style: none;}
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Posts</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#estadistica-2021" id="toc-estadistica-2021" class="nav-link active" data-scroll-target="#estadistica-2021">Estadistica 2021</a></li>
-  <li><a href="#vx-tech-talk-2021" id="toc-vx-tech-talk-2021" class="nav-link" data-scroll-target="#vx-tech-talk-2021">Vx Tech Talk 2021</a></li>
-  <li><a href="#conference-proceedings-2021" id="toc-conference-proceedings-2021" class="nav-link" data-scroll-target="#conference-proceedings-2021">Conference Proceedings 2021</a>
-  <ul class="collapse">
-  <li><a href="#th-applied-statistics-conference-solvenia-september-2021" id="toc-th-applied-statistics-conference-solvenia-september-2021" class="nav-link" data-scroll-target="#th-applied-statistics-conference-solvenia-september-2021">17th Applied Statistics Conference, Solvenia September 2021</a></li>
-  <li><a href="#young-scientists-conference-on-multidisciplinary-research-yscmr-2021" id="toc-young-scientists-conference-on-multidisciplinary-research-yscmr-2021" class="nav-link" data-scroll-target="#young-scientists-conference-on-multidisciplinary-research-yscmr-2021">Young Scientists’ Conference on Multidisciplinary Research (YSCMR), 2021</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Talks</h1>
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-    
-  </div>
-  
-
-</header>
-
-<section id="estadistica-2021" class="level2">
-<h2 class="anchored" data-anchor-id="estadistica-2021">Estadistica 2021</h2>
-<p>Estadistica is the annual Statistics Day organized by the Statistics Society of University of Sri Jayewardenepura, Sri Lanka. As an undergraduate researcher, I got an opportunity to open up my research work and experience with the community.</p>
-<p><a href="https://github.com/JayaniLakshika/Estadistica_2021">GitHub</a></p>
-</section>
-<section id="vx-tech-talk-2021" class="level2">
-<h2 class="anchored" data-anchor-id="vx-tech-talk-2021">Vx Tech Talk 2021</h2>
-<p><a href="https://www.vizuamatix.com/">Vizuamatix (Pvt) Ltd.</a> is a software development company where I completed my research internship. I was able to share my experiences of undergraduate research with Vx team.</p>
-<p><a href="https://github.com/JayaniLakshika/Vx_Tech_Talk_2021">GitHub</a></p>
-</section>
-<section id="conference-proceedings-2021" class="level2">
-<h2 class="anchored" data-anchor-id="conference-proceedings-2021">Conference Proceedings 2021</h2>
-<section id="th-applied-statistics-conference-solvenia-september-2021" class="level3">
-<h3 class="anchored" data-anchor-id="th-applied-statistics-conference-solvenia-september-2021">17th Applied Statistics Conference, Solvenia September 2021</h3>
-<ul>
-<li><a href="https://akastrin.si/as2021/">Research poster</a> and abstract publication, presentation with named Statistical machine learning for medicinal plant leaves classification.</li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.youtube.com/watch?v=BSs_vXKRnxE"><img src="poster.jpg" class="img-fluid figure-img"></a></p>
-</figure>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1663325944046" data-listing-reading-time-sort="0.41">
+<div class="thumbnail">
+<p><a href="./posts/blog_1/index.html"> <img src="./posts/blog_1/pic1.png" class="thumnail-image"> </a></p>
 </div>
-</section>
-<section id="young-scientists-conference-on-multidisciplinary-research-yscmr-2021" class="level3">
-<h3 class="anchored" data-anchor-id="young-scientists-conference-on-multidisciplinary-research-yscmr-2021">Young Scientists’ Conference on Multidisciplinary Research (YSCMR), 2021</h3>
-<ul>
-<li><p>This is organised by the Young Scientists’ Association of the National Institute of Fundamental Studies, Sri Lanka (NIFS-YSA) October 2021.</p></li>
-<li><p>Speed-talk presentation on Statistical machine learning for medicinal plant leaves classification.</p></li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.youtube.com/watch?v=mfP2LUbj0ig"><img src="conf2.jpg" class="img-fluid figure-img"></a></p>
-</figure>
+<div class="body">
+<a href="./posts/blog_1/index.html">
+<h3 class="no-anchor listing-title">
+My First Blog Post
+</h3>
+<div class="listing-subtitle">
+
 </div>
-
-
-</section>
-</section>
-
-</main> <!-- /main -->
+<div class="listing-description">
+You can find my <strong>first</strong> project, which I have completed as a pert of the course <strong>STA 474 2.0 Statistical Consultancy</strong>, when I was doing my undergraduate degree. This was the first challenge that I have to face when I was in the second semester of my last year. I was never build a blog post by myself back then. This was a great experience for me. Finally, it’s in the Statistical Consultancy Website of University of Sri Jayewardenepura, Sri Lanka (<strong>SCS-USJ</strong>).
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/blog_1/index.html"> </a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
