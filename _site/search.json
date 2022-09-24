@@ -21,6 +21,13 @@
     "text": "Research Interests\n\nData Visualization\nComputer Vision\nMachine Learning"
   },
   {
+    "objectID": "Blogs.html",
+    "href": "Blogs.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Functions\n\n\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "contacts.html",
     "href": "contacts.html",
     "title": "Contacts",
@@ -54,6 +61,13 @@
     "title": "Packages",
     "section": "",
     "text": "The MedLEA package provides morphological and structural features of 471 medicinal plant leaves and 1099 leaf images of 31 species and 29-45 images per species.\n\n        \n        Github\n     \n        \n        Package\n    \nDSjobtracker\nR package containing information related to data science job advertisements. What skills and qualifications are required for data science related jobs?\n\n        \n        Github\n     \n        \n        Package"
+  },
+  {
+    "objectID": "posts/blog_1/index.html",
+    "href": "posts/blog_1/index.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "You can find my first project, which I have completed as a pert of the course STA 474 2.0 Statistical Consultancy, when I was doing my undergraduate degree. This was the first challenge that I have to face when I was in the second semester of my last year. I was never build a blog post by myself back then. This was a great experience for me. Finally, it’s in the Statistical Consultancy Website of University of Sri Jayewardenepura, Sri Lanka (SCS-USJ)."
   },
   {
     "objectID": "projects.html",
@@ -91,17 +105,45 @@
     "text": "Conference Proceedings 2021\n\n17th Applied Statistics Conference, Solvenia September 2021\n\nResearch poster and abstract publication, presentation with named Statistical machine learning for medicinal plant leaves classification.\n\n\n\n\n\n\n\n\nYoung Scientists’ Conference on Multidisciplinary Research (YSCMR), 2021\n\nThis is organised by the Young Scientists’ Association of the National Institute of Fundamental Studies, Sri Lanka (NIFS-YSA) October 2021.\nSpeed-talk presentation on Statistical machine learning for medicinal plant leaves classification."
   },
   {
-    "objectID": "Blogs.html",
-    "href": "Blogs.html",
-    "title": "Posts",
+    "objectID": "posts/blog_2/r_markdown_file.html",
+    "href": "posts/blog_2/r_markdown_file.html",
+    "title": "R markdow file",
     "section": "",
-    "text": "No matching items"
+    "text": "x <- rnorm(100)\ny <- rnorm(100)\n\ndf <- data.frame(X = x, Y = y)"
   },
   {
-    "objectID": "posts/blog_1/index.html",
-    "href": "posts/blog_1/index.html",
-    "title": "My First Blog Post",
+    "objectID": "posts/blog_2/index.html",
+    "href": "posts/blog_2/index.html",
+    "title": "sweep() in R",
     "section": "",
-    "text": "You can find my first project, which I have completed as a pert of the course STA 474 2.0 Statistical Consultancy, when I was doing my undergraduate degree. This was the first challenge that I have to face when I was in the second semester of my last year. I was never build a blog post by myself back then. This was a great experience for me. Finally, it’s in the Statistical Consultancy Website of University of Sri Jayewardenepura, Sri Lanka (SCS-USJ)."
+    "text": "In this blog, I’m going to expain the functinality of a R function, sweep()."
+  },
+  {
+    "objectID": "talks.html#competitions-2021",
+    "href": "talks.html#competitions-2021",
+    "title": "Talks",
+    "section": "Competitions 2021",
+    "text": "Competitions 2021\n\nOCTAVE competition\nI was selected as one of the nine finalists and presented my undergraduate thesis in OCTAVE Advanced Analytics Symposium in 2021."
+  },
+  {
+    "objectID": "posts/blog_2/index.html#introduction",
+    "href": "posts/blog_2/index.html#introduction",
+    "title": "sweep() in R",
+    "section": "Introduction",
+    "text": "Introduction\nsweep() is a R function which is used to perform arithmetic operations (eg: + or -) for data matrix by row or column.\n\nFunction definition\n\nsweep(x, MARGIN, STATS, FUN = \"+\")\n\n\n\nDefinition of parameters\n\nx: data matrix.\nMARGIN: specifies typically whether the operation should be applied by row or by column. MARGIN = 1 operates by row; MARGIN = 2 operates by column.\nSTATS: Initialize the value that should be used for the operation (e.g. the value that should be used in addition or subtraction).\nFUN: The arithmetic operation that should be carried out (e.g. + or -)."
+  },
+  {
+    "objectID": "posts/blog_2/index.html#examples",
+    "href": "posts/blog_2/index.html#examples",
+    "title": "sweep() in R",
+    "section": "Examples",
+    "text": "Examples\nInitialize the data matrix\n\ndata_matrix <- matrix(0, nrow = 5, ncol = 3)                          \ndata_matrix   \n\n     [,1] [,2] [,3]\n[1,]    0    0    0\n[2,]    0    0    0\n[3,]    0    0    0\n[4,]    0    0    0\n[5,]    0    0    0\n\n\n\nExample 1: Add a value by row\n\n\ndata_example_1 <- sweep(x = data_matrix, MARGIN = 1, STATS = 3, FUN = \"+\") \ndata_example_1\n\n     [,1] [,2] [,3]\n[1,]    3    3    3\n[2,]    3    3    3\n[3,]    3    3    3\n[4,]    3    3    3\n[5,]    3    3    3\n\n\nIn here, we want to add the value, 3 for each element of the matrix by row. Therefore, MARGIN parameter should be 1, STATS should be 3, and the FUN should be +.\n\n\nExample 2: Substract a value by column\n\ndata_example_1 <- sweep(x = data_matrix, MARGIN = 2, STATS = -3, FUN = \"-\")\ndata_example_1\n\n     [,1] [,2] [,3]\n[1,]    3    3    3\n[2,]    3    3    3\n[3,]    3    3    3\n[4,]    3    3    3\n[5,]    3    3    3\n\n\nIn this example, the output is same as in Example 1, but the operation is different. That is, in here, the specific value, - is subtracted by each element of the matrix by column.\n\nLet’s see more complex example to understand what is happening.\n\n\nExample 3: Add set of values by column\n\ndata_example_3 <- sweep(x = data_matrix, MARGIN = 2, STATS = c(1, 3, 5), FUN = \"+\")\ndata_example_3\n\n     [,1] [,2] [,3]\n[1,]    1    3    5\n[2,]    1    3    5\n[3,]    1    3    5\n[4,]    1    3    5\n[5,]    1    3    5\n\n\nThis example shows how to perform column-wise operation for a matrix. In here, the value of the first element of STATS, 1 is added to all the elements of first column, the value of the second element of STATS, 3 is added to all the elements of second column, and so on.\nWhat if the number of elements in STATS parameter is less than the number of columns in the matrix.\n\n\nExample 4\n\ndata_example_4 <- sweep(x = data_matrix, MARGIN = 2, STATS = c(1, 3), FUN = \"+\")\n\nWarning in sweep(x = data_matrix, MARGIN = 2, STATS = c(1, 3), FUN = \"+\"): STATS\ndoes not recycle exactly across MARGIN\n\ndata_example_4\n\n     [,1] [,2] [,3]\n[1,]    1    3    1\n[2,]    3    1    3\n[3,]    1    3    1\n[4,]    3    1    3\n[5,]    1    3    1\n\n\nConsider the warning message that we are getting. But still, we are receiving an output. However, the operation recycled across the end of each column.\nUsually you should try to avoid this by specifying the length of STATS equal to the number of rows/columns."
+  },
+  {
+    "objectID": "posts/blog_2/index.html#example-4",
+    "href": "posts/blog_2/index.html#example-4",
+    "title": "sweep() in R",
+    "section": "Example 4",
+    "text": "Example 4\n\ndata_example_4 <- sweep(x = data_matrix, MARGIN = 2, STATS = c(1, 3), FUN = \"+\")\n\nWarning in sweep(x = data_matrix, MARGIN = 2, STATS = c(1, 3), FUN = \"+\"): STATS\ndoes not recycle exactly across MARGIN\n\ndata_example_4\n\n     [,1] [,2] [,3]\n[1,]    1    3    1\n[2,]    3    1    3\n[3,]    1    3    1\n[4,]    3    1    3\n[5,]    1    3    1\n\n\nConsider the warning message that we are getting. But still, we are receiving an output. However, the operation recycled across the end of each column.\nUsually you should try to avoid this by specifying the length of STATS equal to the number of rows/columns."
   }
 ]

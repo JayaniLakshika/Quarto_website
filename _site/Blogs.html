@@ -67,9 +67,9 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -152,9 +152,39 @@ ul.task-list{list-style: none;}
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<span style="font-weight: 600;">Subscribe</span>
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="http://cdn-images.mailchimp.com/embedcode/slim-10_7_dtp.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:170px;}
+    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    #mc-embedded-subscribe-form{margin-left:-5px;}
+</style>
+<div id="mc_embed_signup">
+<form action="<site_url>" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+    <div id="mc_embed_signup_scroll">
+
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required="">
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f718424fc5df77c22533bdaa6_a3c37fb57b" tabindex="-1" value=""></div>
+        <div class="optionalParent">
+            <div class="clear foot" style="margin-top: 10px;">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                <p class="brandingLogo"></p>
+            </div>
+        </div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
+</div></div>
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Functions">Functions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="General">General <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -173,7 +203,39 @@ ul.task-list{list-style: none;}
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1663325944046" data-listing-reading-time-sort="0.41">
+<div class="quarto-post image-right" data-index="0" data-categories="Functions" data-listing-date-sort="1663957800000" data-listing-file-modified-sort="1663987432576" data-listing-reading-time-sort="2.21">
+<div class="thumbnail">
+<p><a href="./posts/blog_2/index.html"> <img src="./posts/blog_2/blog2_img.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/blog_2/index.html">
+<h3 class="no-anchor listing-title">
+sweep() in R
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Functions'); return false;">
+Functions
+</div>
+</div>
+<a href="./posts/blog_2/index.html">
+<div class="listing-description">
+In this blog, I’m going to expain the functinality of a R function, <code>sweep()</code>.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/blog_2/index.html">
+<div class="listing-date">
+Sep 24, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="General" data-listing-date-sort="1663266600000" data-listing-file-modified-sort="1663987992089" data-listing-reading-time-sort="0.41">
 <div class="thumbnail">
 <p><a href="./posts/blog_1/index.html"> <img src="./posts/blog_1/pic1.png" class="thumnail-image"> </a></p>
 </div>
@@ -185,13 +247,24 @@ My First Blog Post
 <div class="listing-subtitle">
 
 </div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('General'); return false;">
+General
+</div>
+</div>
+<a href="./posts/blog_1/index.html">
 <div class="listing-description">
 You can find my <strong>first</strong> project, which I have completed as a pert of the course <strong>STA 474 2.0 Statistical Consultancy</strong>, when I was doing my undergraduate degree. This was the first challenge that I have to face when I was in the second semester of my last year. I was never build a blog post by myself back then. This was a great experience for me. Finally, it’s in the Statistical Consultancy Website of University of Sri Jayewardenepura, Sri Lanka (<strong>SCS-USJ</strong>).
 </div>
 </a>
 </div>
 <div class="metadata">
-<a href="./posts/blog_1/index.html"> </a>
+<a href="./posts/blog_1/index.html">
+<div class="listing-date">
+Sep 16, 2022
+</div>
+</a>
 </div>
 </div>
 </div>

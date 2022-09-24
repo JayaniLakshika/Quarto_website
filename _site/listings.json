@@ -1,13 +1,8 @@
 [
   {
-    "listing": "/blogs.html",
-    "items": [
-      "/posts/post_1/regression_with_dummy.html"
-    ]
-  },
-  {
     "listing": "/Blogs.html",
     "items": [
+      "/posts/blog_2/index.html",
       "/posts/blog_1/index.html"
     ]
   }

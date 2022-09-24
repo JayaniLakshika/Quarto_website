@@ -1,0 +1,87 @@
+---
+title: "sweep() in R"
+date: "2022-09-24"
+categories:
+  - Functions
+format: 
+  html:
+    code-fold: false
+    code-copy: true
+    highlight-style: github
+---
+
+In this blog, I'm going to expain the functinality of a R function, `sweep()`.
+
+![](blog2_img.jpg)
+
+## Introduction
+
+`sweep()` is a `R function` which is used to perform arithmetic operations (eg: `+` or `-`) for **data matrix** by row or column.
+
+### Function definition
+
+```{r, eval=FALSE}
+sweep(x, MARGIN, STATS, FUN = "+")
+```
+
+### Definition of parameters
+
+-   **x**: data matrix.
+-   **MARGIN**: specifies typically whether the operation should be applied by row or by column. MARGIN = 1 operates by `row`; MARGIN = 2 operates by `column`.
+-   **STATS**: Initialize the `value` that should be used for the operation (e.g. the value that should be used in addition or subtraction).
+-   **FUN**: The arithmetic `operation` that should be carried out (e.g. + or -).
+
+## Examples
+
+Initialize the data matrix
+
+```{r, message=FALSE, comment= NA, warning=FALSE}
+data_matrix <- matrix(0, nrow = 5, ncol = 3)                          
+data_matrix   
+```
+
+### Example 1: Add a value by row
+
+\label{example_1}
+
+```{r, message=FALSE, comment= NA, warning=FALSE}
+data_example_1 <- sweep(x = data_matrix, MARGIN = 1, STATS = 3, FUN = "+") 
+data_example_1
+```
+
+In here, we want to add the value, `3` for each element of the matrix by row. Therefore, **MARGIN** parameter should be 1, **STATS** should be 3, and the **FUN** should be `+`.
+
+### Example 2: Substract a value by column
+
+```{r, message=FALSE, comment= NA, warning=FALSE}
+data_example_1 <- sweep(x = data_matrix, MARGIN = 2, STATS = -3, FUN = "-")
+data_example_1
+```
+
+In this example, the output is same as in `Example 1`, but the operation is different. That is, in here, the specific value, `-` is subtracted by each element of the matrix by column.
+
+![](blog2_img2.jpg){width="30%"}
+
+Let's see more complex example to understand what is happening.
+
+### Example 3: Add set of values by column
+
+```{r, message=FALSE, comment= NA, warning=FALSE}
+data_example_3 <- sweep(x = data_matrix, MARGIN = 2, STATS = c(1, 3, 5), FUN = "+")
+data_example_3
+```
+
+This example shows how to perform column-wise operation for a matrix. In here, the value of the first element of STATS, `1` is added to all the elements of first column, the value of the second element of STATS, `3` is added to all the elements of second column, and so on.
+
+[**What if the number of elements in STATS parameter is less than the number of columns in the matrix.**]{.underline}
+
+### Example 4
+
+```{r}
+data_example_4 <- sweep(x = data_matrix, MARGIN = 2, STATS = c(1, 3), FUN = "+")
+data_example_4
+```
+
+Consider the warning message that we are getting. But still, we are receiving an output. However, the operation recycled across the end of each column. 
+
+Usually you should try to avoid this by specifying the length of STATS equal to the number of rows/columns.
