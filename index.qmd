@@ -27,6 +27,8 @@ about:
 
 I am a first year PhD student in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs) supervised by Professor [Dianne Cook](http://www.dicook.org/), Dr. [Michael Lydeamore](https://research.monash.edu/en/persons/michael-lydeamore), Dr. [Thiyanga S. Talagala](https://thiyanga.netlify.app/), and Dr. [Paul Harrison](https://research.monash.edu/en/persons/paul-harrison).
 
+I am part of [Monash NUMBATs](https://numbat.space/).
+
 ::: columns
 ::: {.column width="40%"}
 ## Interests
@@ -62,5 +64,3 @@ I am a first year PhD student in Department of Econometrics and Business Statist
 :::
 
 On this website you will find some of my work and interests in statistics.
-
-
