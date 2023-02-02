@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Jayani Lakshika",
     "section": "",
-    "text": "I am a first year PhD student in Department of Econometrics and Business Statistics at the Monash University, Australia supervised by Professor Dianne Cook, Dr. Michael Lydeamore, Dr. Thiyanga S. Talagala, and Dr. Paul Harrison.\nOn this website you will find some of my work and interests in statistics."
+    "text": "I am a first year PhD student in Department of Econometrics and Business Statistics at the Monash University, Australia supervised by Professor Dianne Cook, Dr. Michael Lydeamore, Dr. Thiyanga S. Talagala, and Dr. Paul Harrison.\nI am part of Monash NUMBATs.\nOn this website you will find some of my work and interests in statistics."
   },
   {
     "objectID": "index.html#interests",
@@ -60,7 +60,7 @@
     "href": "packages.html",
     "title": "Packages",
     "section": "",
-    "text": "The MedLEA package provides morphological and structural features of 471 medicinal plant leaves and 1099 leaf images of 31 species and 29-45 images per species.\n\n        \n        Github\n     \n        \n        Package\n    \nDSjobtracker\nR package containing information related to data science job advertisements. What skills and qualifications are required for data science related jobs?\n\n        \n        Github\n     \n        \n        Package"
+    "text": "MedLEA\nThe MedLEA package provides morphological and structural features of 471 medicinal plant leaves and 1099 leaf images of 31 species and 29-45 images per species.\n\n        \n        Github\n     \n        \n        Package\n    \nDSjobtracker\nR package containing information related to data science job advertisements. What skills and qualifications are required for data science related jobs?\n\n        \n        Github\n     \n        \n        Package"
   },
   {
     "objectID": "posts/blog_1/index.html",
@@ -81,7 +81,7 @@
     "href": "publications.html",
     "title": "JAYANI LAKSHIKA",
     "section": "",
-    "text": "2021\n\nJayani P. G. Lakshika and Thiyanga S. Talagala. (2021) \"Computer-aided Interpretable Features for Leaf Image Classification.\"\n        \n        Preprint\n     \n        \n        Github\n    \nAbstracts\n2021\n17th applied science abstract publication (Page 74)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF\n    \nYoung Scientists’ Conference on Multidisciplinary Research (YCMR)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF"
+    "text": "Research Papers\n2021\n\nJayani P. G. Lakshika and Thiyanga S. Talagala. (2021) \"Computer-aided Interpretable Features for Leaf Image Classification.\"\n        \n        Preprint\n     \n        \n        Github\n    \nAbstracts\n2021\n17th applied science abstract publication (Page 74)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF\n    \nYoung Scientists’ Conference on Multidisciplinary Research (YCMR)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF"
   },
   {
     "objectID": "talks.html",
