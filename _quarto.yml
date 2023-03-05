@@ -17,6 +17,8 @@ website:
         text: Talks
       - href: Blogs.qmd
         text: Blog
+      - href: Teaching.qmd
+        text: Teaching
 
 format:
   html:

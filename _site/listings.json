@@ -5,5 +5,11 @@
       "/posts/blog_2/index.html",
       "/posts/blog_1/index.html"
     ]
+  },
+  {
+    "listing": "/Teaching.html",
+    "items": [
+      "/teaching/teaching_1/index.html"
+    ]
   }
 ]

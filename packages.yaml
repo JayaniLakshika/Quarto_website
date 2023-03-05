@@ -1,3 +1,8 @@
+- title: "olympics"
+  description: |
+    R package that provides an interface to scrape Olympic data from https://olympics.com/
+  github: https://github.com/numbats/olympics
+  package: https://numbats.github.io/olympics/
 - title: "DSjobtracker"
   description: |
     R package containing information related to data science job advertisements. What skills and qualifications are required for data science related jobs?

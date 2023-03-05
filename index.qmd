@@ -27,7 +27,7 @@ about:
 
 I am a first year PhD student in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs) supervised by Professor [Dianne Cook](http://www.dicook.org/), Dr. [Michael Lydeamore](https://research.monash.edu/en/persons/michael-lydeamore), Dr. [Thiyanga S. Talagala](https://thiyanga.netlify.app/), and Dr. [Paul Harrison](https://research.monash.edu/en/persons/paul-harrison).
 
-I am part of [Monash NUMBATs](https://numbat.space/).
+I am part of [Monash NUMBATs](https://numbat.space/). Currently, I am working as a Teaching Associate in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs). 
 
 ::: columns
 ::: {.column width="40%"}
@@ -43,7 +43,7 @@ I am part of [Monash NUMBATs](https://numbat.space/).
 ::: {.column width="60%"}
 ## Education
 
-##### {{< fa graduation-cap >}} PhD in Statistics, Present
+##### {{< fa graduation-cap >}} PhD Candidate, Present
 
 ###### Monash University, Australia {style="color: gray"}
 
@@ -59,7 +59,7 @@ I am part of [Monash NUMBATs](https://numbat.space/).
 
 ##### {{< fa graduation-cap >}} Certificate in Business Accounting , 2016
 
-###### Charted Institute of Management Accounting (CIMA)
+###### Chartered Institute of Management Accountants (CIMA)
 :::
 :::
 

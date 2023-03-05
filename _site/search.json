@@ -25,7 +25,7 @@
     "href": "Blogs.html",
     "title": "Posts",
     "section": "",
-    "text": "Functions\n\n\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "sweep() in R\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contacts.html",
@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Jayani Lakshika",
     "section": "",
-    "text": "I am a first year PhD student in Department of Econometrics and Business Statistics at the Monash University, Australia supervised by Professor Dianne Cook, Dr. Michael Lydeamore, Dr. Thiyanga S. Talagala, and Dr. Paul Harrison.\nI am part of Monash NUMBATs.\nOn this website you will find some of my work and interests in statistics."
+    "text": "I am a first year PhD student in Department of Econometrics and Business Statistics at the Monash University, Australia supervised by Professor Dianne Cook, Dr. Michael Lydeamore, Dr. Thiyanga S. Talagala, and Dr. Paul Harrison.\nI am part of Monash NUMBATs. Currently, I am working as a Teaching Associate in Department of Econometrics and Business Statistics at the Monash University, Australia.\nOn this website you will find some of my work and interests in statistics."
   },
   {
     "objectID": "index.html#interests",
@@ -53,7 +53,7 @@
     "href": "index.html#education",
     "title": "Jayani Lakshika",
     "section": "Education",
-    "text": "Education\n\n PhD in Statistics, Present\n\nMonash University, Australia\n\n\n\n BSc (Hons) Special Degree in Statistics, 2020\n\nUniversity of Sri Jayewardenepura, Sri Lanka\n\n\n\n Diploma in Computer System Design (DCSD), 2017\n\nGold Medalist\n\n\nNational Institute of Business Management (NIBM), Sri Lanka\n\n\n\n Certificate in Business Accounting , 2016\n\nCharted Institute of Management Accounting (CIMA)"
+    "text": "Education\n\n PhD Candidate, Present\n\nMonash University, Australia\n\n\n\n BSc (Hons) Special Degree in Statistics, 2020\n\nUniversity of Sri Jayewardenepura, Sri Lanka\n\n\n\n Diploma in Computer System Design (DCSD), 2017\n\nGold Medalist\n\n\nNational Institute of Business Management (NIBM), Sri Lanka\n\n\n\n Certificate in Business Accounting , 2016\n\nChartered Institute of Management Accountants (CIMA)"
   },
   {
     "objectID": "packages.html",
@@ -152,5 +152,19 @@
     "title": "Talks",
     "section": "Estadistica 2021",
     "text": "Estadistica 2021\nEstadistica is the annual Statistics Day organized by the Statistics Society of University of Sri Jayewardenepura, Sri Lanka. As an undergraduate researcher, I got an opportunity to open up my research work and experience with the community.\nGitHub"
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "ETC3250: Introduction to machine learning\n\n\n\n\n\n\n\nMaterials\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/teaching_1/index.html",
+    "href": "teaching/teaching_1/index.html",
+    "title": "ETC3250: Introduction to machine learning",
+    "section": "",
+    "text": "You can find the additional materials regarding each tutorial which were created by me in here.\n\nTutorial 1\nTutorial 2"
   }
 ]
