@@ -25,7 +25,7 @@
     "href": "Blogs.html",
     "title": "Posts",
     "section": "",
-    "text": "sweep() in R\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "map() in R\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nsweep() in R\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contacts.html",
@@ -166,5 +166,26 @@
     "title": "ETC3250: Introduction to machine learning",
     "section": "",
     "text": "You can find the additional materials regarding each tutorial which were created by me in here.\n\nTutorial 1\nTutorial 2\nTutorial 3\nTutorial 4"
+  },
+  {
+    "objectID": "posts/blog_3/index.html",
+    "href": "posts/blog_3/index.html",
+    "title": "map() in R",
+    "section": "",
+    "text": "In this blog, I’m going to expain the functinality of a R function, map()."
+  },
+  {
+    "objectID": "posts/blog_3/index.html#introduction",
+    "href": "posts/blog_3/index.html#introduction",
+    "title": "map() in R",
+    "section": "Introduction",
+    "text": "Introduction\nmap() is a R function which is used to apply some function to each element in a vector or list and return a list as a result.\n\nFunction definition\n\nmap(.x, .f)\n\n\n\nDefinition of parameters\n\n.x: A list or atomic vector.\n.f: A function."
+  },
+  {
+    "objectID": "posts/blog_3/index.html#examples",
+    "href": "posts/blog_3/index.html#examples",
+    "title": "map() in R",
+    "section": "Examples",
+    "text": "Examples\n\nExample 1: Transform each value in a vector\n\nThe following code shows how to use the map() function to calculate the log (base 10) of each value in a vector:\n\nlibrary(purrr)\n\n# To define vector\ndata <- c(2, 4, 10, 15, 20)\n\n# To calculate log of each value in the vector\ndata %>%\n  map(function(x) log10(x))\n\n[[1]]\n[1] 0.30103\n\n[[2]]\n[1] 0.60206\n\n[[3]]\n[1] 1\n\n[[4]]\n[1] 1.176091\n\n[[5]]\n[1] 1.30103\n\n\n\nresult <- data %>%\n  map(function(x) log10(x))\n\nTo obtain the elements form the list:\n\nresult[[i]] ## i is the index of the list\n\n\nresult[[1]]\n\n[1] 0.30103\n\n\n\nresult[[5]]\n\n[1] 1.30103\n\n\n\n\nExample 2: Generate random numbers for a list of sample size\n\n\n# To define vector\nsample_size <- c(3, 5, 8, 10)\n\n# To calculate log of each value in the vector\nsample_size %>%\n  map(function(x) runif(x))\n\n[[1]]\n[1] 0.5507165 0.6605447 0.5039080\n\n[[2]]\n[1] 0.6460453 0.3206543 0.6660117 0.6693361 0.3418980\n\n[[3]]\n[1] 0.69832650 0.17346500 0.31170673 0.87641597 0.14575842 0.84594982 0.08483577\n[8] 0.11202054\n\n[[4]]\n [1] 0.84896572 0.31534920 0.14895456 0.17397529 0.90301873 0.60185231\n [7] 0.89401607 0.07080804 0.69821171 0.16162965\n\n\n\nresult_random <- sample_size %>%\n  map(function(x) runif(x))\n\nTo obtain the elements form the list:\n\nresult_random[[1]] ## To obtain first list\n\n[1] 0.5761594 0.2596212 0.4281455\n\n\n\nresult_random[[1]][2] ## To obtain second element of the first list\n\n[1] 0.2596212"
   }
 ]

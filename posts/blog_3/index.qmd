@@ -1,0 +1,97 @@
+---
+title: "map() in R"
+date: "2023-03-19"
+categories:
+  - Functions
+format: 
+  html:
+    code-fold: false
+    code-copy: true
+    highlight-style: github
+---
+
+In this blog, I'm going to expain the functinality of a R function, `map()`.
+
+![](blog3_img.jpg)
+
+## Introduction
+
+`map()` is a `R function` which is used to apply some function to each element in a **vector or list** and return a **list** as a result.
+
+### Function definition
+
+```{r, eval=FALSE}
+map(.x, .f)
+```
+
+### Definition of parameters
+
+-   **.x**: A list or atomic vector.
+-   **.f**: A function.
+
+## Examples
+
+### Example 1: Transform each value in a vector
+
+\label{example_1}
+
+The following code shows how to use the `map()` function to calculate the log (base 10) of each value in a vector:
+
+```{r}
+library(purrr)
+
+# To define vector
+data <- c(2, 4, 10, 15, 20)
+
+# To calculate log of each value in the vector
+data %>%
+  map(function(x) log10(x))
+```
+
+```{r}
+result <- data %>%
+  map(function(x) log10(x))
+```
+
+To obtain the elements form the list:
+
+```{r, eval=FALSE}
+result[[i]] ## i is the index of the list
+```
+
+```{r}
+result[[1]]
+```
+
+```{r}
+result[[5]]
+```
+
+### Example 2: Generate random numbers for a list of sample size
+
+\label{example_2}
+
+```{r}
+# To define vector
+sample_size <- c(3, 5, 8, 10)
+
+# To calculate log of each value in the vector
+sample_size %>%
+  map(function(x) runif(x))
+```
+
+```{r}
+result_random <- sample_size %>%
+  map(function(x) runif(x))
+```
+
+
+To obtain the elements form the list:
+
+```{r}
+result_random[[1]] ## To obtain first list
+```
+
+```{r}
+result_random[[1]][2] ## To obtain second element of the first list
+```
