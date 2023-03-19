@@ -1,6 +1,6 @@
 - title: "olympics"
   description: |
-    R package that provides an interface to scrape Olympic data from https://olympics.com/
+    R package that provides an interface to scrape Olympic data from https://olympics.com/.
   github: https://github.com/numbats/olympics
   package: https://numbats.github.io/olympics/
 - title: "DSjobtracker"

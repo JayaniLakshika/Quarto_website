@@ -1,5 +1,5 @@
 ---
-title: "Jayani Lakshika"
+title: "Jayani P.G. Lakshika"
 description: PhD student
 page-layout: full
 image: Jayani_pic.jpg
@@ -11,6 +11,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/JayaniLakshika
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=fgFmTZkAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
       href: www.linkedin.com/in/jayani-lakshika-9a0297162
@@ -27,7 +30,7 @@ about:
 
 I am a first year PhD student in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs) supervised by Professor [Dianne Cook](http://www.dicook.org/), Dr. [Michael Lydeamore](https://research.monash.edu/en/persons/michael-lydeamore), Dr. [Thiyanga S. Talagala](https://thiyanga.netlify.app/), and Dr. [Paul Harrison](https://research.monash.edu/en/persons/paul-harrison).
 
-I am part of [Monash NUMBATs](https://numbat.space/). Currently, I am working as a Teaching Associate in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs). 
+I am part of [Monash NUMBATs](https://numbat.space/). Currently, I am working as a Teaching Associate in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs).
 
 ::: columns
 ::: {.column width="40%"}
