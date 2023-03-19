@@ -14,3 +14,5 @@ You can find the **additional materials** regarding each tutorial which were cre
 2.  [Tutorial 2](https://github.com/JayaniLakshika/Teaching/blob/main/ETC3250/2023/Tutorial_2/add_material_tute2.pdf)
 
 3.  [Tutorial 3](https://github.com/JayaniLakshika/Teaching/blob/main/ETC3250/2023/Tutorial_3/add_material_tute3.pdf)
+
+4.  [Tutorial 4](https://github.com/JayaniLakshika/Teaching/blob/main/ETC3250/2023/Tutorial_4/add_material_tute4.pdf)
