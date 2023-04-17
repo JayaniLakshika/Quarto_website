@@ -21,4 +21,6 @@ You can find the **additional materials** regarding each tutorial which were cre
 
 6. [Tutorial 6](https://github.com/JayaniLakshika/Teaching/blob/main/ETC3250/2023/Tutorial_6/add_material_tute6.pdf)
 
+7. [Tutorial 7](https://github.com/JayaniLakshika/Teaching/blob/main/ETC3250/2023/Tutorial_7/add_material_tute7.pdf)
+
 **Note:** [Google sheet for code sharing](https://docs.google.com/document/d/1C6UfLDaukJpUP7Qgzpq03W_8Tf8qGXYIFU9zcAdSbV8/edit?usp=sharing)
