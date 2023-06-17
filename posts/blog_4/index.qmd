@@ -2,7 +2,7 @@
 title: "Discover the path to higher studies"
 date: "2023-06-17"
 categories:
-  - Functions
+  - General
 format: 
   html:
     code-fold: false
@@ -11,6 +11,8 @@ format:
 ---
 
 ## ![](download.jpeg){width="500"}
+
+What I found during my journey is as follows.
 
 ##   IELTS (International English Language Testing System)
 

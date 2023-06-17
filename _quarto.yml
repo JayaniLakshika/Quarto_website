@@ -23,8 +23,8 @@ website:
 format:
   html:
     theme:
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
+      light: default
+      dark: [default, theme-dark.scss]
     css: styles.css
     toc: true
 editor: visual
