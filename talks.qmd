@@ -2,9 +2,15 @@
 title: "Talks"
 ---
 
+## Higher studies webinar 2023  
+
+Discover the path to higher studies with insights from our trusted alumni at top universities!   
+
+![](stat_society_talk.JPG){width="400"}
+
 ## Monash NUMBATs Talk 2022
 
-[NUMBATs](https://numbat.space/) is the name for our research group, Non-Uniform Monash Business Analytics Team, in the Econometrics and Business Statistics Department of Monash University, Australia. As a first year PhD student, I got an opportunity talk about my undergraduate research project. 
+[NUMBATs](https://numbat.space/) is the name for our research group, Non-Uniform Monash Business Analytics Team, in the Econometrics and Business Statistics Department of Monash University, Australia. As a first year PhD student, I got an opportunity talk about my undergraduate research project.
 
 [GitHub](https://github.com/JayaniLakshika/NUMBAT_Talk_2022)
 

@@ -1,0 +1,75 @@
+---
+title: "Discover the path to higher studies"
+date: "2023-06-17"
+categories:
+  - Functions
+format: 
+  html:
+    code-fold: false
+    code-copy: true
+    highlight-style: github
+---
+
+## ![](download.jpeg){width="500"}
+
+##   IELTS (International English Language Testing System)
+
+1.  <https://ieltsliz.com/>
+
+2.  [Asad Yaqub](https://www.youtube.com/watch?app=desktop&v=eAr0jCQBeA8)
+
+3.  [English Speaking Success](https://www.youtube.com/watch?app=desktop&v=lITCDZGepmg)
+
+4.  [Raman IELTS](https://www.youtube.com/watch?app=desktop&v=1wWJLaVNIXQ)
+
+## Scholarships
+
+1.  [findaphd](https://www.findaphd.com/)
+
+2.  [QUT](https://www.qut.edu.au/study/fees-and-scholarships/scholarships/browse)
+
+3.  [studygreen](https://studygreen.info/the-university-of-sydney-dare-phd-scholarships-in-australia-2022/)
+
+4.  [DARE](https://darecentre.org.au/research/)
+
+## Universities I tried
+
+1.  Monash University, Australia
+
+2.  QUT, Australia
+
+3.  University of Sydney, Australia
+
+4.  Australian National University
+
+5.  The University of Queensland
+
+6.  [University of Highlands and Islands, Scotland (The Scottish Association for Marine Science (SAMS))](https://www.sams.ac.uk/study/postgraduate/sams-find-a-phd/artificial-intelligence-based-image-analysis-to-address-the-risk-from-marine-harmful-algal-blooms/)
+
+7.  University of Canterbury
+
+8.  University of Auckland, New Zealand
+
+9.  Massey University, New Zealand
+
+10. University of Portsmouth, England
+
+11. RMIT University, Australia
+
+12. Western Sydney University, Australia
+
+13. The University of Glasgow, Scotland
+
+14. The University of Liverpool, UK
+
+15. University of Melbourne, Australia
+
+16. The University of Manchester, England
+
+17. The University of New South Wales, Australia
+
+18. The London School of Economics and Political Science
+
+19. University of Adelaide, Australia
+
+20. Macquarie University, Australia

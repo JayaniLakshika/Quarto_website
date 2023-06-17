@@ -10,7 +10,7 @@ format:
     highlight-style: github
 ---
 
-In this blog, I'm going to expain the functinality of a R function, `map()`.
+In this blog, I'm going to explain the functionality of a R function, `map()`.
 
 ![](blog3_img.jpg)
 

@@ -25,7 +25,7 @@
     "href": "Blogs.html",
     "title": "Posts",
     "section": "",
-    "text": "map() in R\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nsweep() in R\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Discover the path to higher studies\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\nJun 17, 2023\n\n\n\n\n\n\n  \n\n\n\n\nmap() in R\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nsweep() in R\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contacts.html",
@@ -88,7 +88,7 @@
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "NUMBATs is the name for our research group, Non-Uniform Monash Business Analytics Team, in the Econometrics and Business Statistics Department of Monash University, Australia. As a first year PhD student, I got an opportunity talk about my undergraduate research project.\nGitHub"
+    "text": "Discover the path to higher studies with insights from our trusted alumni at top universities!"
   },
   {
     "objectID": "talks.html#vx-tech-talk-2021",
@@ -172,7 +172,7 @@
     "href": "posts/blog_3/index.html",
     "title": "map() in R",
     "section": "",
-    "text": "In this blog, I’m going to expain the functinality of a R function, map()."
+    "text": "In this blog, I’m going to explain the functionality of a R function, map()."
   },
   {
     "objectID": "posts/blog_3/index.html#introduction",
@@ -186,6 +186,55 @@
     "href": "posts/blog_3/index.html#examples",
     "title": "map() in R",
     "section": "Examples",
-    "text": "Examples\n\nExample 1: Transform each value in a vector\n\nThe following code shows how to use the map() function to calculate the log (base 10) of each value in a vector:\n\nlibrary(purrr)\n\n# To define vector\ndata <- c(2, 4, 10, 15, 20)\n\n# To calculate log of each value in the vector\ndata %>%\n  map(function(x) log10(x))\n\n[[1]]\n[1] 0.30103\n\n[[2]]\n[1] 0.60206\n\n[[3]]\n[1] 1\n\n[[4]]\n[1] 1.176091\n\n[[5]]\n[1] 1.30103\n\n\n\nresult <- data %>%\n  map(function(x) log10(x))\n\nTo obtain the elements form the list:\n\nresult[[i]] ## i is the index of the list\n\n\nresult[[1]]\n\n[1] 0.30103\n\n\n\nresult[[5]]\n\n[1] 1.30103\n\n\n\n\nExample 2: Generate random numbers for a list of sample size\n\n\n# To define vector\nsample_size <- c(3, 5, 8, 10)\n\n# To calculate log of each value in the vector\nsample_size %>%\n  map(function(x) runif(x))\n\n[[1]]\n[1] 0.5507165 0.6605447 0.5039080\n\n[[2]]\n[1] 0.6460453 0.3206543 0.6660117 0.6693361 0.3418980\n\n[[3]]\n[1] 0.69832650 0.17346500 0.31170673 0.87641597 0.14575842 0.84594982 0.08483577\n[8] 0.11202054\n\n[[4]]\n [1] 0.84896572 0.31534920 0.14895456 0.17397529 0.90301873 0.60185231\n [7] 0.89401607 0.07080804 0.69821171 0.16162965\n\n\n\nresult_random <- sample_size %>%\n  map(function(x) runif(x))\n\nTo obtain the elements form the list:\n\nresult_random[[1]] ## To obtain first list\n\n[1] 0.5761594 0.2596212 0.4281455\n\n\n\nresult_random[[1]][2] ## To obtain second element of the first list\n\n[1] 0.2596212"
+    "text": "Examples\n\nExample 1: Transform each value in a vector\n\nThe following code shows how to use the map() function to calculate the log (base 10) of each value in a vector:\n\nlibrary(purrr)\n\n# To define vector\ndata &lt;- c(2, 4, 10, 15, 20)\n\n# To calculate log of each value in the vector\ndata %&gt;%\n  map(function(x) log10(x))\n\n[[1]]\n[1] 0.30103\n\n[[2]]\n[1] 0.60206\n\n[[3]]\n[1] 1\n\n[[4]]\n[1] 1.176091\n\n[[5]]\n[1] 1.30103\n\n\n\nresult &lt;- data %&gt;%\n  map(function(x) log10(x))\n\nTo obtain the elements form the list:\n\nresult[[i]] ## i is the index of the list\n\n\nresult[[1]]\n\n[1] 0.30103\n\n\n\nresult[[5]]\n\n[1] 1.30103\n\n\n\n\nExample 2: Generate random numbers for a list of sample size\n\n\n# To define vector\nsample_size &lt;- c(3, 5, 8, 10)\n\n# To calculate log of each value in the vector\nsample_size %&gt;%\n  map(function(x) runif(x))\n\n[[1]]\n[1] 0.83657822 0.52427993 0.06325641\n\n[[2]]\n[1] 0.7281998 0.8435732 0.7056618 0.3041016 0.2060783\n\n[[3]]\n[1] 0.4010470 0.8529365 0.8437544 0.1792954 0.6787083 0.6724727 0.3594332\n[8] 0.8774093\n\n[[4]]\n [1] 0.807383182 0.508806102 0.549565474 0.917473407 0.189435094 0.278735327\n [7] 0.001623599 0.565823819 0.778334239 0.790809778\n\n\n\nresult_random &lt;- sample_size %&gt;%\n  map(function(x) runif(x))\n\nTo obtain the elements form the list:\n\nresult_random[[1]] ## To obtain first list\n\n[1] 0.07161259 0.81010021 0.53039259\n\n\n\nresult_random[[1]][2] ## To obtain second element of the first list\n\n[1] 0.8101002"
+  },
+  {
+    "objectID": "posts/blog_4/index.html",
+    "href": "posts/blog_4/index.html",
+    "title": "Discover the path to higher studies",
+    "section": "",
+    "text": "https://ieltsliz.com/\nAsad Yaqub\nEnglish Speaking Success\nRaman IELTS"
+  },
+  {
+    "objectID": "posts/blog_4/index.html#ielts-international-english-language-testing-system",
+    "href": "posts/blog_4/index.html#ielts-international-english-language-testing-system",
+    "title": "Discover the path to higher studies",
+    "section": "IELTS (International English Language Testing System)",
+    "text": "IELTS (International English Language Testing System)\n\nhttps://ieltsliz.com/\nAsad Yaqub\nEnglish Speaking Success\nRaman IELTS"
+  },
+  {
+    "objectID": "posts/blog_4/index.html#scholarships",
+    "href": "posts/blog_4/index.html#scholarships",
+    "title": "Discover the path to higher studies",
+    "section": "Scholarships",
+    "text": "Scholarships\n\nfindaphd\nQUT\nstudygreen\nDARE"
+  },
+  {
+    "objectID": "posts/blog_4/index.html#universities-i-tried",
+    "href": "posts/blog_4/index.html#universities-i-tried",
+    "title": "Discover the path to higher studies",
+    "section": "Universities I tried",
+    "text": "Universities I tried\n\nMonash University, Australia\nQUT, Australia\nUniversity of Sydney, Australia\nAustralian National University\nThe University of Queensland\nUniversity of Highlands and Islands, Scotland (The Scottish Association for Marine Science (SAMS))\nUniversity of Canterbury\nUniversity of Auckland, New Zealand\nMassey University, New Zealand\nUniversity of Portsmouth, England\nRMIT University, Australia\nWestern Sydney University, Australia\nThe University of Glasgow, Scotland\nThe University of Liverpool, UK\nUniversity of Melbourne, Australia\nThe University of Manchester, England\nThe University of New South Wales, Australia\nThe London School of Economics and Political Science\nUniversity of Adelaide, Australia\nMacquarie University, Australia"
+  },
+  {
+    "objectID": "talks.html#monash-numbats-talk-2022",
+    "href": "talks.html#monash-numbats-talk-2022",
+    "title": "Talks",
+    "section": "Monash NUMBATs Talk 2022",
+    "text": "Monash NUMBATs Talk 2022\nNUMBATs is the name for our research group, Non-Uniform Monash Business Analytics Team, in the Econometrics and Business Statistics Department of Monash University, Australia. As a first year PhD student, I got an opportunity talk about my undergraduate research project.\nGitHub"
+  },
+  {
+    "objectID": "projects.html#section",
+    "href": "projects.html#section",
+    "title": "Projects",
+    "section": "",
+    "text": "Medicinal plants are usually identified by practitioners based on years of experience through sensory or olfactory senses. The other method of recognizing these plants involves laboratory-based testing, which requires trained skills, data interpretation which is costly and time-intensive. Automatic ways to identify medicinal plants are useful especially those that are lacking experience in herbal recognition. There is no standard mechanism in identification of medicinal plants. Therefore, we introduce an automatic approach based on statistical machine learning to identify medicinal plants. We refer to our medicinal plant classification algorithm as MEDIPI : MEDIicinal Plant Identitication. Our classification algorithm operates on the features extracted from the image leaves.\nwebsite"
+  },
+  {
+    "objectID": "talks.html#higher-studies-webinar-2023",
+    "href": "talks.html#higher-studies-webinar-2023",
+    "title": "Talks",
+    "section": "",
+    "text": "Discover the path to higher studies with insights from our trusted alumni at top universities!"
   }
 ]
