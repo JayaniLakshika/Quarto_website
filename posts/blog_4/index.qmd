@@ -12,9 +12,52 @@ format:
 
 ## ![](download.jpeg){width="500"}
 
-What I found during my journey is as follows.
+## Where do I need to start?
 
-##   IELTS (International English Language Testing System)
+First, you must decide whether to do a **Master's** or a **Ph.D.** because it will depend on the country or university where you will apply. In this blog post, I am sharing my journey in applying for a **Ph.D.**
+
+Next, I searched the country that offered direct Ph.D. For example, Australia and New Zealand do have.
+
+After that, list down the universities according to their world and country rankings.
+
+At the same time, you need to consider your research interests. Sometimes it will take time to decide what they are. You can ask your lecturers, who always know what you are good at. It always helps to determine.
+
+Now you have universities and your research interests. Then, you can visit the university websites and find which department or school has researchers with the same research interests. For example, if you are a statistics student interested in Optimisation, you sometimes see a lecturer in the IT faculty. Therefore, there is no norm for applying for the specific faculty or the department (eg: Department of Statistics). Prepare a small Excel sheet with all the information.\
+\
+
+| Country | University | Department | Supervisor | Research interests | email address | IELTS or any of English test requirements | Time difference |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+|         |            |            |            |                    |               |                                           |                 |
+
+This information is beneficial when you are writing to supervisors. You don't need to go back and forth to find them again.
+
+## Procedures to apply
+
+During my applications, I followed the below. I got admission to Monash University from the second one.
+
+1.  Project based
+
+Here, universities and supervisors publish their current projects on their websites. I already link some of them in the following section. You can apply for them based on your interests and skills. Most of them I observed were industry-related ones. It is a good approach to combine industry and academia.
+
+2.  Directly writing to supervisors
+
+In this procedure, after you create your list. You can directly write to your supervisors. After getting the acceptance, the other steps will start.
+
+## What you need to have when writing to a supervisor or applying for a project
+
+1.  **Cover letter**
+
+2.  **CV**
+
+3.  **Transcripts**
+
+4.  Thesis or publications (if you have any)
+
+5.  English Test result sheet (sometimes you don't need to have this in the initial stage)
+
+Please note that these all should be in an **academic** format. Also, when addressing emails, don't use Sir/Madam. You can use the supervisor's title (eg: Prof., A/Prof., Dr.,)
+
+## Links I referred during my IELTS (International English Language Testing System)
 
 1.  <https://ieltsliz.com/>
 
@@ -24,7 +67,7 @@ What I found during my journey is as follows.
 
 4.  [Raman IELTS](https://www.youtube.com/watch?app=desktop&v=1wWJLaVNIXQ)
 
-## Scholarships
+## Links you can follow for scholarships
 
 1.  [findaphd](https://www.findaphd.com/)
 
