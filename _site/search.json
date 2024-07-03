@@ -25,7 +25,7 @@
     "href": "Blogs.html",
     "title": "Posts",
     "section": "",
-    "text": "Discover the path to higher studies\n\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n\nJun 17, 2023\n\n\n\n\n\n\n  \n\n\n\n\nmap() in R\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nsweep() in R\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Discover the path to higher studies\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nJun 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nmap() in R\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nsweep() in R\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contacts.html",
@@ -39,21 +39,21 @@
     "href": "index.html",
     "title": "Jayani P.G. Lakshika",
     "section": "",
-    "text": "I am a first year PhD student in Department of Econometrics and Business Statistics at the Monash University, Australia supervised by Professor Dianne Cook, Dr. Michael Lydeamore, Dr. Thiyanga S. Talagala, and Dr. Paul Harrison.\nI am part of Monash NUMBATs. Currently, I am working as a Teaching Associate in Department of Econometrics and Business Statistics at the Monash University, Australia.\nOn this website you will find some of my work and interests in statistics."
+    "text": "I am a second year PhD student in Department of Econometrics and Business Statistics at the Monash University, Australia supervised by Professor Dianne Cook, Dr. Michael Lydeamore, Dr. Thiyanga S. Talagala, and Dr. Paul Harrison.\nI am part of Monash NUMBATs. Currently, I am working as a Teaching Associate in Department of Econometrics and Business Statistics at the Monash University, Australia.\nOn this website you will find some of my work and interests in statistics."
   },
   {
     "objectID": "index.html#interests",
     "href": "index.html#interests",
     "title": "Jayani P.G. Lakshika",
     "section": "Interests",
-    "text": "Interests\n\nData Visualization\nComputer Vision\nMachine Learning"
+    "text": "Interests\n\nHigh-dimensional data visualization\nComputer vision\nMachine learning\nExperimental design"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Jayani P.G. Lakshika",
     "section": "Education",
-    "text": "Education\n\n PhD Candidate, Present\n\nMonash University, Australia\n\n\n\n BSc (Hons) Special Degree in Statistics, 2020\n\nUniversity of Sri Jayewardenepura, Sri Lanka\n\n\n\n Diploma in Computer System Design (DCSD), 2017\n\nGold Medalist\n\n\nNational Institute of Business Management (NIBM), Sri Lanka\n\n\n\n Certificate in Business Accounting , 2016\n\nChartered Institute of Management Accountants (CIMA)"
+    "text": "Education\n\n PhD student, Present\n\nMonash University, Australia\n\n\n\n BSc (Hons) Special Degree in Statistics, 2020\n\nUniversity of Sri Jayewardenepura, Sri Lanka\n\n\n\n Diploma in Computer System Design (DCSD), 2017\n\nGold Medalist\n\n\nNational Institute of Business Management (NIBM), Sri Lanka\n\n\n\n Certificate in Business Accounting , 2016\n\nChartered Institute of Management Accountants (CIMA)"
   },
   {
     "objectID": "packages.html",
@@ -81,7 +81,7 @@
     "href": "publications.html",
     "title": "JAYANI LAKSHIKA",
     "section": "",
-    "text": "Research Papers\n2021\n\nJayani P. G. Lakshika and Thiyanga S. Talagala. (2021) \"Computer-aided Interpretable Features for Leaf Image Classification.\"\n        \n        Preprint\n     \n        \n        Github\n    \nAbstracts\n2021\n17th applied science abstract publication (Page 74)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF\n    \nYoung Scientists’ Conference on Multidisciplinary Research (YCMR)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF"
+    "text": "Research Papers\n2021\nJayani P. G. Lakshika and Thiyanga S. Talagala. (2021) \"Computer-aided Interpretable Features for Leaf Image Classification.\"\n        \n        Preprint\n     \n        \n        Github\n    \nAbstracts\n2021\n17th applied science abstract publication (Page 74)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF\n    \nYoung Scientists’ Conference on Multidisciplinary Research (YCMR)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF"
   },
   {
     "objectID": "talks.html",
@@ -102,7 +102,7 @@
     "href": "talks.html#conference-proceedings-2021",
     "title": "Talks",
     "section": "Conference Proceedings 2021",
-    "text": "Conference Proceedings 2021\n\n17th Applied Statistics Conference, Solvenia September 2021\n\nResearch poster and abstract publication, presentation with named Statistical machine learning for medicinal plant leaves classification.\n\n\n\n\n\n\n\n\nYoung Scientists’ Conference on Multidisciplinary Research (YSCMR), 2021\n\nThis is organised by the Young Scientists’ Association of the National Institute of Fundamental Studies, Sri Lanka (NIFS-YSA) October 2021.\nSpeed-talk presentation on Statistical machine learning for medicinal plant leaves classification."
+    "text": "Conference Proceedings 2021\n\n17th Applied Statistics Conference, Solvenia September 2021\n\nResearch poster and abstract publication, presentation with named Statistical machine learning for medicinal plant leaves classification.\n\n\n\n\nYoung Scientists’ Conference on Multidisciplinary Research (YSCMR), 2021\n\nThis is organised by the Young Scientists’ Association of the National Institute of Fundamental Studies, Sri Lanka (NIFS-YSA) October 2021.\nSpeed-talk presentation on Statistical machine learning for medicinal plant leaves classification."
   },
   {
     "objectID": "posts/blog_2/r_markdown_file.html",
@@ -158,7 +158,7 @@
     "href": "Teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "ETC3250: Introduction to machine learning\n\n\n\n\n\n\n\nMaterials\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "ETC3250: Introduction to machine learning\n\n\n\n\n\n\nMaterials\n\n\n\n\n\n\n\n\n\nFeb 28, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/teaching_1/index.html",

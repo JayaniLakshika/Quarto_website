@@ -28,7 +28,7 @@ about:
       href: https://dochub.com/jayanilakshika76/gYzM7mBwDdBjNNPwqJ6EoO/jayani-cv-new-pdf?dt=z4MN1p1_1vFsHfk5YuaG
 ---
 
-I am a first year PhD student in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs) supervised by Professor [Dianne Cook](http://www.dicook.org/), Dr. [Michael Lydeamore](https://research.monash.edu/en/persons/michael-lydeamore), Dr. [Thiyanga S. Talagala](https://thiyanga.netlify.app/), and Dr. [Paul Harrison](https://research.monash.edu/en/persons/paul-harrison).
+I am a second year PhD student in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs) supervised by Professor [Dianne Cook](http://www.dicook.org/), Dr. [Michael Lydeamore](https://research.monash.edu/en/persons/michael-lydeamore), Dr. [Thiyanga S. Talagala](https://thiyanga.netlify.app/), and Dr. [Paul Harrison](https://research.monash.edu/en/persons/paul-harrison).
 
 I am part of [Monash NUMBATs](https://numbat.space/). Currently, I am working as a Teaching Associate in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs).
 
@@ -36,17 +36,19 @@ I am part of [Monash NUMBATs](https://numbat.space/). Currently, I am working as
 ::: {.column width="40%"}
 ## Interests
 
--   Data Visualization
+-   High-dimensional data visualization
 
--   Computer Vision
+-   Computer vision
 
--   Machine Learning
+-   Machine learning
+
+-   Experimental design
 :::
 
 ::: {.column width="60%"}
 ## Education
 
-##### {{< fa graduation-cap >}} PhD Candidate, Present
+##### {{< fa graduation-cap >}} PhD student, Present
 
 ###### Monash University, Australia {style="color: gray"}
 
