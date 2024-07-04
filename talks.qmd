@@ -2,6 +2,12 @@
 title: "Talks"
 ---
 
+## useR 2024 (Salzburg, Austria) 
+
+My first international conference.
+
+![](useR_flyer.jpeg){width="400" fig-align="center"}
+
 ## Faculty of BusEco Three Minute Thesis (3MT) competition 2024
 
 My first *3-minute* talk experience. As a higher degree research student, this was my opportunity to raise my profile, practice my presentation skills and communicate my research to the broader community in three minutes.
