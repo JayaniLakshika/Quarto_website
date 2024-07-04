@@ -1,6 +1,9 @@
 ---
-title: "Jayani P.G. Lakshika"
-description: PhD student
+pagetitle: "Jayani P.G. Lakshika"
+title: |
+    <p class="banner banner-title"> Hi </p>
+    <p class="banner banner-text"> I'm Jayani. Welcome to my site <i class="fa-solid fa-dog"></i> </p>
+title-block-banner: true
 page-layout: full
 image: Jayani_pic.jpg
 about:

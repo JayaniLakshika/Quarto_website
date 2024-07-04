@@ -16,3 +16,30 @@ a:not([class]):hover {
   color: #2455CE;
   text-decoration: none;
 }
+
+
+/* banner */
+.quarto-title-banner {
+  padding: 3em 0;
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)),
+    url('banner_img.jpeg');
+  background-position: center;
+  background-size: cover;
+}
+
+.banner-title {
+  font-size: 54px;
+  margin-bottom: 10px;
+}
+.banner-text {
+  font-size: 27px;
+  margin-bottom: 20px;
+}
+.banner {
+  font-family: 'Montserrat', sans-serif;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+  font-weight: 400;
+  color: #fff;
+}
+
