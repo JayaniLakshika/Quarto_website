@@ -5,7 +5,6 @@ page-layout: full
 image: Jayani_pic.jpg
 about:
   template: trestles
-  image-width: 10em
   image-shape: round
   links:
     - icon: github
@@ -24,7 +23,7 @@ about:
       text: Email
       href: mailto:jayanilakshika76@gmail.com
     - icon: person-lines-fill
-      text: Resume
+      text: CV
       href: https://dochub.com/jayanilakshika76/gYzM7mBwDdBjNNPwqJ6EoO/jayani-cv-new-pdf?dt=z4MN1p1_1vFsHfk5YuaG
 ---
 
