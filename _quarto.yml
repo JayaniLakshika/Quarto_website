@@ -29,5 +29,6 @@ format:
       dark: [lumen, theme-dark.scss]
     css: styles.css
     toc: true
+    backgroundcolor: "#deebf7"
 editor: visual
 
