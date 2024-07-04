@@ -2,7 +2,7 @@
 title: "Talks"
 ---
 
-## useR 2024 (Salzburg, Austria) 
+## useR! 2024 (Salzburg, Austria) 
 
 My first international conference.
 
