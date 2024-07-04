@@ -3,6 +3,9 @@ project:
 
 website:
   title: "JAYANI LAKSHIKA"
+  page-footer:
+    background: "#4292c6"
+    right: "© 2021-2024, Jayani P.G. Lakshika"
   navbar:
     left:
       - href: index.qmd
