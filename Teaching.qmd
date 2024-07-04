@@ -1,14 +1,30 @@
 ---
 title: "Teaching"
-margin-header: subscribe.html
-editor: visual
-listing:
-  contents: teaching
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: true
-page-layout: full
-title-block-banner: true
 ---
+
+# ETC5510 - Introduction to data analysis
+
+[Handbook entry](https://handbook.monash.edu/2024/units/ETC5510?year=2024)
+
+- Semester 2 2024
+
+# ETC5521 - Exploratory data analysis
+
+[Handbook entry](https://handbook.monash.edu/2023/units/etc5521?year=2023)
+
+- Semester 2 2023
+
+# ETC3250 - Introduction to machine learning
+
+[Handbook entry](https://handbook.monash.edu/2024/units/ETC3250)
+
+- Semester 1 2024
+- Semester 1 2023
+
+# ETC5250 - Introduction to machine learning
+
+[Handbook entry](https://handbook.monash.edu/2023/units/ETC5250?year=2024)
+
+- Semester 1 2024
+- Semester 1 2023
+

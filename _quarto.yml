@@ -15,10 +15,12 @@ website:
         text: Projects
       - href: talks.qmd
         text: Talks
+      - href: teaching.qmd
+        text: Teaching
       - href: Blogs.qmd
         text: Blog
-      - href: Teaching.qmd
-        text: Teaching
+      - href: Materials.qmd
+        text: Materials
 
 format:
   html:
