@@ -79,9 +79,9 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Jayani Lakshika",
+    "title": "Publications",
     "section": "",
-    "text": "Research Papers\n2021\nJayani P. G. Lakshika and Thiyanga S. Talagala. (2021) \"Computer-aided Interpretable Features for Leaf Image Classification.\"\n        \n        Preprint\n     \n        \n        Github\n    \nAbstracts\n2021\n17th applied science abstract publication (Page 74)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF\n    \nYoung Scientists’ Conference on Multidisciplinary Research (YCMR)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF"
+    "text": "title\nyear\njournal\n\n\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nNational Institute of Fundamental Studies\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nStatistical Society of Slovenia\n\n\nComputer-aided Interpretable Features for Leaf Image Classification\n2021\nArXiv"
   },
   {
     "objectID": "talks.html",
@@ -354,7 +354,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "ETC5510 - Introduction to data analysis\nHandbook entry\n\nSemester 2 2024\n\n\n\nETC5521 - Exploratory data analysis\nHandbook entry\n\nSemester 2 2023\n\n\n\nETC3250 - Introduction to machine learning\nHandbook entry\n\nSemester 1 2024\nSemester 1 2023\n\n\n\nETC5250 - Introduction to machine learning\nHandbook entry\n\nSemester 1 2024\nSemester 1 2023"
+    "text": "ETC5510 - Introduction to data analysis\nHandbook entry\n\nSemester 2 2024\n\n\n\nETC5521 - Exploratory data analysis\nHandbook entry\n\nSemester 2 2023\n\n\n\nETC3250 - Introduction to machine learning\nHandbook entry\n\nSemester 1 2024\nSemester 1 2023\n\n\n\nETC5250 - Introduction to machine learning\nHandbook entry\n\nSemester 1 2024\nSemester 1 2023\n\n\n\nSTA 326 2.0 R Programming\nHandbook entry\n\nSemester 1 2022\n\n\n\nSTA 213 2.0 Inferential Statistics\nHandbook entry\n\nSemester 1 2022\n\n\n\nSTA 214 1.0 Nonparametric Statistics\nHandbook entry\n\nSemester 1 2022\n\n\n\nSTA 215 2.0 Sampling techniques\nHandbook entry\n\nSemester 1 2022\n\n\n\nSTA 115 1.0 Elements of Sampling\nHandbook entry\n\nSemester 1 2022\n\n\n\nSTA 113 2.0 Descriptive Statistics\nHandbook entry\n\nSemester 1 2022\n\n\n\nSTA 114 2.0 Probability and Distribution Theory I\nHandbook entry\n\nSemester 1 2022\n\n\n\nSTA 224 2.0 Regression Analysis\nHandbook entry\n\nSemester 2 2021\n\n\n\nSTA 225 2.0 Design of Experiments\nHandbook entry\n\nSemester 2 2021\n\n\n\nSTA 226 1.0 Data Analysis II\nHandbook entry\n\nSemester 2 2021\n\n\n\nSTA 123 2.0 Probability and Distribution Theory II\nHandbook entry\n\nSemester 2 2021\n\n\n\nSTA 124 2.0 Data Analysis I\nHandbook entry\n\nSemester 2 2021\n\n\n\nSTA 125 1.0 Statistical Communication\nHandbook entry\n\nSemester 2 2021"
   },
   {
     "objectID": "talks.html#user-2024-salzburg-austria",
@@ -404,5 +404,19 @@
     "title": "R packages",
     "section": "GitHub",
     "text": "GitHub\n\n\npackagedateversiontitlehexstickerDSjobtracker2020-12-150.1.1What Skills and Qualifications are Required for Data Science Related Jobs?airpurifyr2024-05-310.0.1A clean interface to the OpenAQ Air Quality Data APIolympics2023-02-280.0.1Olympic data from olympic.com"
+  },
+  {
+    "objectID": "pub_n.html",
+    "href": "pub_n.html",
+    "title": "Publications",
+    "section": "",
+    "text": "title\nyear\njournal\n\n\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nNational Institute of Fundamental Studies\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nStatistical Society of Slovenia\n\n\nComputer-aided Interpretable Features for Leaf Image Classification\n2021\nArXiv"
+  },
+  {
+    "objectID": "publications_old.html",
+    "href": "publications_old.html",
+    "title": "Jayani Lakshika",
+    "section": "",
+    "text": "Research Papers\n\n2021\nJayani P. G. Lakshika and Thiyanga S. Talagala. (2021) \"Computer-aided Interpretable Features for Leaf Image Classification.\"\n        \n        Preprint\n     \n        \n        Github\n    \n\nAbstracts\n2021\n\n17th applied science abstract publication (Page 74)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF\n    \nYoung Scientists’ Conference on Multidisciplinary Research (YCMR)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF"
   }
 ]

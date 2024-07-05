@@ -1,130 +1,44 @@
 ---
-title: ""
-echo: false
-jupyter: python3
-section-divs: false
-keep-md: true
+title: "Publications"
 ---
 
-```{python}
-import yaml
-from IPython.display import display, Markdown, HTML
 
-def readable_list(_s):
-  if len(_s) < 3:
-    return ' and '.join(map(str, _s))
-  *a, b = _s
-  return f"{', '.join(map(str, a))}, and {b}"
+```{r}
+#| echo: false
+#| message: false
+#| eval: false
 
-def button(url, str, icon):
-    icon_base = icon[:2]
-    return f"""<a class="btn btn-outline-dark btn-sm", href="{url}" target="_blank" rel="noopener noreferrer">
-        <i class="{icon_base} {icon}" role='img' aria-label='{str}'></i>
-        {str}
-    </a>"""
-
-
-
-yaml_data = yaml.safe_load(open("papers.yaml"))
-pub_strs = {"pubs": {}, "wps": {}}
-for _, data in yaml_data.items():
-    title_str = data["title"]
-    authors = data.get("authors", ["me"])
-    authors = [aut if aut != "me" else "<strong>Jayani P. G. Lakshika</strong>" for aut in authors]
-    author_str = readable_list(authors)
-    year_str = data["year"]
-
-    buttons = []
-    preprint = data.get("preprint")
-    if preprint is not None:
-        buttons.append(button(preprint, "Preprint", "bi-file-earmark-pdf"))
-
-    github = data.get("github")
-    if github is not None:
-        buttons.append(button(github, "Github", "bi-github"))
-
-    pub_url = data.get("published_url")
-    venue = data.get("venue")
-    working_paper = pub_url is None
-    
-    pub_str = f'{author_str}. ({year_str}) "{title_str}."'
-
-    if venue is not None:
-        pub_str += f" <em>{venue}</em>"
-
-    if working_paper:
-        if year_str not in pub_strs["wps"]:
-            pub_strs["wps"][year_str] = []
-        pub_strs["wps"][year_str].append(
-            "<li class='list-group-item'>" + pub_str + "<br>" + " ".join(buttons) + "</li>"
-        )
-    else:
-        if year_str not in pub_strs["pubs"]:
-            pub_strs["pubs"][year_str] = []
-        buttons.append(button(pub_url, "Published", "ai-archive"))
-        pub_strs["pubs"][year_str].append(
-            "<li class='list-group-item'>" + pub_str + "<br>" + " ".join(buttons) + "</li>"
-        )
+library(rorcid)
+library(dplyr)
+b <- works("0000-0002-6265-6481")
+pubs <- tibble(title = b$title.title.value, 
+               year = b$`publication-date.year.value`,
+               journal = b$`journal-title.value`,
+               doi = b$url.value) |>
+  arrange(desc(year))
+save(pubs, file="pubs.rda")
 ```
 
-````{=html}
-<!--## Published
-
-```{python}
-#| label: "published-year"
-#| id: "published-year"
-#| output: asis
-for year in sorted(pub_strs["pubs"].keys(), reverse=True):
-    display(Markdown(f"### {year}" + "{#" + f"published-{year}" + "}"))
-    display(HTML(
-        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["pubs"][year]) + "</ul>"
-    ))
-```
--->
-````
-
-## Research Papers
-
-```{python}
-#| label: "not-published-year"
-#| id: "not-published-year"
-#| output: asis
-for year in sorted(pub_strs["wps"].keys(), reverse=True):
-    display(Markdown(f"### {year}" + "{#" + f"not-published-{year}" + "}"))
-    display(HTML(
-        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["wps"][year]) + "</ul>"
-    ))
-```
-
-## Abstracts
-
-### 2021
-
-```{python}
-#| label: "software"
-#| id: "software"
-#| output: asis
-import yaml
-from IPython.display import display, Markdown, HTML
-
-def button(url, str, icon):
-    icon_base = icon[:2]
-    return f"""<a class="btn btn-outline-dark btn-sm", href="{url}" target="_blank" rel="noopener noreferrer">
-        <i class="{icon_base} {icon}" role='img' aria-label='{str}'></i>
-        {str}
-    </a>"""
-
-yaml_data = yaml.safe_load(open("abstract.yaml"))
-
-for data in yaml_data[::-1]:
-    authors = data.get("authors", ["me"])
-    authors = [aut if aut != "me" else "<strong>Jayani P. G. Lakshika</strong>" for aut in authors]
-    author_str = readable_list(authors)
-    display(Markdown("### " + data["title"]))
-    display(Markdown(author_str))
-    buttons = []
-    if "PDF" in data:
-        buttons.append(button(data['PDF'], "PDF", "bi-file-earmark-pdf"))
-
-    display(HTML(" ".join(buttons)))
+```{r}
+#| echo: false
+#| message: false
+#library(knitr)
+#library(kableExtra)
+library(dplyr)
+library(glue)
+library(gt)
+load("pubs.rda")
+pubs <- pubs |>
+  mutate(titlelink = glue("[{title}]({doi})"))
+#kable(pubs)
+pubs |> 
+  select(titlelink, year, journal) |>
+  gt() |>
+  gt::fmt_markdown(columns = titlelink) |>
+  cols_label(titlelink = "title") |> 
+  gt::cols_width(titlelink ~ px(600),
+                 year ~ px(50),
+                 journal ~ px(200)) |>
+  cols_align("left")
+  
 ```

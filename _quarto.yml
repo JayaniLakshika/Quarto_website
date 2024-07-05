@@ -7,6 +7,7 @@ website:
     background: "#4292c6"
     right: "© 2021-2024, Jayani P.G. Lakshika"
   navbar:
+    background: "#69A1D6"
     left:
       - href: index.qmd
         text: Home
