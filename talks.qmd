@@ -2,45 +2,45 @@
 title: "Talks"
 ---
 
-## useR! 2024 (Salzburg, Austria) 
+## useR! 2024 (Salzburg, Austria)
 
 My first international conference.
 
-![](useR_flyer.jpeg){width="400" fig-align="center"}
+![](figures/useR_flyer.jpeg){width="400" fig-align="center"}
 
 ## Faculty of BusEco Three Minute Thesis (3MT) competition 2024
 
 My first *3-minute* talk experience. As a higher degree research student, this was my opportunity to raise my profile, practice my presentation skills and communicate my research to the broader community in three minutes.
 
-![](3MT_presentation.jpg){width="300" fig-align="center"}
+![](figures/3MT_presentation.jpg){width="300" fig-align="center"}
 
 ## Victorian branch of the Australian and New Zealand Industrial and Applied Mathematics Society (VicANZIAM) 2024 (RMIT university, Melbourne, Australia)
 
 This is a one-day meeting of the Australian and New Zealand Industrial and Applied Mathematics Society. I presented a research poster with a lightning talk.
 
-![](poster_quollr.jpg){width="300" fig-align="center"}
+![](figures/poster_quollr.jpg){width="300" fig-align="center"}
 
 ## Bioinformatics Seminar 2024
 
-![](bioinformatics_talk.jpeg){width="300" fig-align="center"}
+![](figures/bioinformatics_talk.jpeg){width="300" fig-align="center"}
 
 ## Australian Statistical Conference (ASC 2023) (Wollongon, Australia)
 
 My *first session talk* was titled **With non-linear dimension reduction, when can you believe what you see?**.
 
-![](asa_talk.jpg){width="300" fig-align="center"}
+![](figures/asa_talk.jpg){width="300" fig-align="center"}
 
 ## $12^{th}$ -Conference of the Asian Regional Section of the International Association for Statistical Computing (IASC-ARS 2023) (Wollongon, Australia)
 
 I gave my *first invited talk* on **Viewing the model from non-linear dimension reduction in high-dimensional data space**.
 
-![](iasc_talk.jpg){width="300" fig-align="center"}
+![](figures/iasc_talk.jpg){width="300" fig-align="center"}
 
 ## Higher studies webinar 2023
 
 Discover the path to higher studies with insights from our trusted alumni at top universities!
 
-![](stat_society_talk.JPG){width="300" fig-align="center"}
+![](figures/stat_society_talk.JPG){width="300" fig-align="center"}
 
 ## Monash NUMBATs Talk 2022
 
@@ -64,7 +64,7 @@ Estadistica is the annual Statistics Day organized by the Statistics Society of 
 
 -   [Research poster](https://akastrin.si/as2021/) and abstract publication, presentation with named Statistical machine learning for medicinal plant leaves classification.
 
-[![](poster.jpg){width="300" fig-align="center"}](https://www.youtube.com/watch?v=BSs_vXKRnxE)
+[![](figures/poster.jpg){width="300" fig-align="center"}](https://www.youtube.com/watch?v=BSs_vXKRnxE)
 
 ## Young Scientists' Conference on Multidisciplinary Research (YSCMR), 2021 (virtual)
 
@@ -72,10 +72,10 @@ Estadistica is the annual Statistics Day organized by the Statistics Society of 
 
 -   Speed-talk presentation on Statistical machine learning for medicinal plant leaves classification.
 
-[![](conf2.jpg){width="300" fig-align="center"}](https://www.youtube.com/watch?v=mfP2LUbj0ig)
+[![](figures/conf2.jpg){width="300" fig-align="center"}](https://www.youtube.com/watch?v=mfP2LUbj0ig)
 
 ### OCTAVE competition 2021 (virtual)
 
 I was selected as one of the nine finalists and presented my undergraduate thesis in OCTAVE Advanced Analytics Symposium in 2021.
 
-[![](octave.jpg){width="300" fig-align="center"}](https://www.youtube.com/watch?v=mHnbQK599ps)
+[![](figures/octave.jpg){width="300" fig-align="center"}](https://www.youtube.com/watch?v=mHnbQK599ps)

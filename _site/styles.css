@@ -23,7 +23,7 @@ a:not([class]):hover {
   padding: 3em 0;
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)),
-    url('banner_img.jpeg');
+    url('figures/banner_img.jpeg');
   background-position: center;
   background-size: cover;
 }
