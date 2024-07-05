@@ -18,7 +18,7 @@ about:
       href: https://scholar.google.com/citations?user=fgFmTZkAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/jayani-lakshika-9a0297162
+      href: www.linkedin.com/in/jayani-lakshika-9a0297162/
     - icon: twitter
       text: Twitter
       href: https://twitter.com/LakshikaJayani

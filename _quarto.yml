@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: packages.qmd
+      - href: software.qmd
         text: Software
       - href: publications.qmd
         text: Publications

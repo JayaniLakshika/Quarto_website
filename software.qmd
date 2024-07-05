@@ -1,0 +1,106 @@
+---
+title: "R packages"
+---
+
+## CRAN 
+
+```{r}
+#| echo: false
+#| message: false
+library(tidyverse)
+library(tsibble)
+library(lubridate)
+library(pkgsearch)
+library(pkgmeta)
+
+# Functions for getting downloads
+find_cran_packages <- function(name) {
+  pkgsearch::ps(name, size = 100) %>%
+    filter(purrr::map_lgl(
+      package_data, ~ grepl(name, .x$Author, fixed = TRUE)
+    )) %>%
+    select(package) %>%
+    pull(package)
+}
+
+# Monthly download counts from packages in <x>
+cran_downloads <- function(x) {
+  # Compute monthly download counts
+  down <- cranlogs::cran_downloads(x, from = "2020-01-01") %>%
+    as_tibble() %>%
+    mutate(month = tsibble::yearmonth(date)) %>%
+    group_by(month) %>%
+    summarise(count = sum(count), package = x)
+  # Strip out initial zeros
+  first_nonzero <- down %>%
+    filter(count > 0) %>%
+    head(1)
+  if (NROW(first_nonzero) > 0) {
+    filter(down, month >= first_nonzero$month)
+  } else {
+    first_nonzero
+  }
+}
+
+packages <- c(    
+  find_cran_packages("Jayani P.G. Lakshika"),
+  find_cran_packages("Jayani P. G.")
+)
+
+pkg_data <- pkgmeta:::get_meta_cran(packages, 
+                                    include_downloads=TRUE) |>
+  rename(released = first_download, last_update = date) |>
+  mutate(hexsticker = paste0("hexstickers/", package, ".png"))
+
+#save(pkg_data, file = "software.rda")
+```
+
+```{r}
+#| echo: false
+#| message: false
+library(dplyr)
+library(flextable)
+
+#load("software.rda")
+pkg_data <- pkg_data |>
+  #mutate(pkglink = glue("[{package}]({url})")) |>
+  arrange(desc(last_update))
+
+pkg_data <- pkg_data |>
+  #mutate(pkglink = glue("[{package}]({url})")) |> 
+  select(package, released, last_update, version, title, #authors, 
+         downloads, hexsticker, url) |>
+  flextable(cwidth = 2) 
+
+colformat_image(pkg_data, j = "hexsticker", width = 1, height = 1)|>
+  compose(j = 1, value = as_paragraph( hyperlink_text(x = package, url = url))) |>
+    delete_columns(j = c("url")) 
+
+```
+
+## GitHub
+
+```{r}
+#| echo: false
+#| message: false
+
+github <- c("JayaniLakshika/DSjobtracker", 
+            "numbats/airpurifyr",
+            "numbats/olympics")
+
+cran_github <- pkgmeta::get_meta(
+  cran_author = "Jayani", include_downloads = TRUE,
+  start = as.character(lubridate::ymd(Sys.Date() - 91)),
+  github_repos = github
+) %>%
+  as_tibble() |>
+  mutate(hexsticker = paste0("hexstickers/", package, ".png")) |>
+  filter(is.na(downloads)) |> 
+  select(package, date, version, title, hexsticker, url) |> 
+  flextable(cwidth = 2)
+
+colformat_image(cran_github, j = "hexsticker", width = 1, height = 1)|>
+  compose(j = 1, value = as_paragraph( hyperlink_text(x = package, url = url))) |>
+    delete_columns(j = c("url")) 
+
+```
