@@ -2,38 +2,39 @@
 title: "R packages"
 ---
 
-## CRAN 
+## CRAN
 
 ```{r}
 #| echo: false
 #| message: false
-library(tidyverse)
-library(tsibble)
-library(lubridate)
-library(pkgsearch)
+
+library(flextable)
+library(officer)
+library(dplyr)
 library(pkgmeta)
+library(lubridate)
 
 # Functions for getting downloads
 find_cran_packages <- function(name) {
-  pkgsearch::ps(name, size = 100) %>%
+  pkgsearch::ps(name, size = 100) |>
     filter(purrr::map_lgl(
       package_data, ~ grepl(name, .x$Author, fixed = TRUE)
-    )) %>%
-    select(package) %>%
+    )) |>
+    select(package) |>
     pull(package)
 }
 
 # Monthly download counts from packages in <x>
 cran_downloads <- function(x) {
   # Compute monthly download counts
-  down <- cranlogs::cran_downloads(x, from = "2020-01-01") %>%
-    as_tibble() %>%
-    mutate(month = tsibble::yearmonth(date)) %>%
-    group_by(month) %>%
+  down <- cranlogs::cran_downloads(x, from = "2020-01-01") |>
+    as_tibble() |>
+    mutate(month = tsibble::yearmonth(date)) |>
+    group_by(month) |>
     summarise(count = sum(count), package = x)
   # Strip out initial zeros
-  first_nonzero <- down %>%
-    filter(count > 0) %>%
+  first_nonzero <- down |>
+    filter(count > 0) |>
     head(1)
   if (NROW(first_nonzero) > 0) {
     filter(down, month >= first_nonzero$month)
@@ -58,8 +59,6 @@ pkg_data <- pkgmeta:::get_meta_cran(packages,
 ```{r}
 #| echo: false
 #| message: false
-library(dplyr)
-library(flextable)
 
 #load("software.rda")
 pkg_data <- pkg_data |>
@@ -73,7 +72,7 @@ pkg_data <- pkg_data |>
   flextable(cwidth = 2) 
 
 colformat_image(pkg_data, j = "hexsticker", width = 1, height = 1)|>
-  compose(j = 1, value = as_paragraph( hyperlink_text(x = package, url = url))) |>
+  compose(j = 1, value = as_paragraph( hyperlink_text(x = package, url = url, props = fp_text(color = "#376C98")))) |>
     delete_columns(j = c("url")) 
 
 ```
@@ -84,23 +83,37 @@ colformat_image(pkg_data, j = "hexsticker", width = 1, height = 1)|>
 #| echo: false
 #| message: false
 
+# Example GitHub repositories
 github <- c("JayaniLakshika/DSjobtracker", 
             "numbats/airpurifyr",
             "numbats/olympics")
 
+# Get metadata
 cran_github <- pkgmeta::get_meta(
   cran_author = "Jayani", include_downloads = TRUE,
   start = as.character(lubridate::ymd(Sys.Date() - 91)),
   github_repos = github
-) %>%
+) |>
   as_tibble() |>
   mutate(hexsticker = paste0("hexstickers/", package, ".png")) |>
-  filter(is.na(downloads)) |> 
-  select(package, date, version, title, hexsticker, url) |> 
-  flextable(cwidth = 2)
+  filter(is.na(downloads)) |>
+  select(package, date, version, title, hexsticker, url)
 
-colformat_image(cran_github, j = "hexsticker", width = 1, height = 1)|>
-  compose(j = 1, value = as_paragraph( hyperlink_text(x = package, url = url))) |>
-    delete_columns(j = c("url")) 
+# Create a flextable
+ft <- flextable(cran_github, cwidth = 2)
+
+# Apply clickable hyperlinks to package column
+ft <- compose(ft, j = "package", value = as_paragraph(
+  hyperlink_text(x = cran_github$package, url = cran_github$url, props = fp_text(color = "#376C98"))
+))
+
+# Remove the url column if not needed
+ft <- delete_columns(ft, j = "url")
+
+# Format hexsticker column to display images
+ft <- colformat_image(ft, j = "hexsticker", width = 1, height = 1)
+
+# Print the flextable
+ft
 
 ```
