@@ -19,6 +19,8 @@ website:
         text: Projects
       - href: talks.qmd
         text: Talks
+      - href: visiting.qmd
+        text: Visiting
       - href: teaching.qmd
         text: Teaching
       - href: Blogs.qmd
