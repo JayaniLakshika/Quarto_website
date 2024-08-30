@@ -2,6 +2,12 @@
 title: "Talks"
 ---
 
+## ECSSC2021 (Hobart, Austria)
+
+Early Career & Student Statisticians Conference 2024
+
+![](figures/ECSS2024_presenting.png){width="400" fig-align="center"}
+
 ## useR! 2024 (Salzburg, Austria)
 
 My first international conference.

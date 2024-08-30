@@ -39,14 +39,14 @@
     "href": "index.html",
     "title": "\nHi\n\n\nI’m Jayani. Welcome to my site \n",
     "section": "",
-    "text": "I am a second year PhD student in Department of Econometrics and Business Statistics at the Monash University, Australia supervised by Professor Dianne Cook, Dr. Michael Lydeamore, Dr. Thiyanga S. Talagala, and Dr. Paul Harrison.\nI am part of Monash NUMBATs. Currently, I am also working as a Teaching Associate in Department of Econometrics and Business Statistics at the Monash University, Australia.\nOn this website you will find some of my work and interests in statistics."
+    "text": "I am a third year PhD student in Department of Econometrics and Business Statistics at the Monash University, Australia supervised by Professor Dianne Cook, Dr. Michael Lydeamore, Dr. Thiyanga S. Talagala, and Dr. Paul Harrison.\nI am part of Monash NUMBATs. Currently, I am also working as a Teaching Associate in Department of Econometrics and Business Statistics at the Monash University, Australia.\nOn this website you will find some of my work and interests in statistics."
   },
   {
     "objectID": "index.html#interests",
     "href": "index.html#interests",
     "title": "\nHi\n\n\nI’m Jayani. Welcome to my site \n",
     "section": "Interests",
-    "text": "Interests\n\nHigh-dimensional data visualization\nComputer vision\nMachine learning\nExperimental design"
+    "text": "Interests\n\nHigh-dimensional data visualization\nDimension reduction\nComputer vision\nMachine learning\nExperimental design"
   },
   {
     "objectID": "index.html#education",
@@ -88,7 +88,7 @@
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "My first international conference."
+    "text": "Early Career & Student Statisticians Conference 2024"
   },
   {
     "objectID": "talks.html#vx-tech-talk-2021",
@@ -360,8 +360,8 @@
     "objectID": "talks.html#user-2024-salzburg-austria",
     "href": "talks.html#user-2024-salzburg-austria",
     "title": "Talks",
-    "section": "",
-    "text": "My first international conference."
+    "section": "useR! 2024 (Salzburg, Austria)",
+    "text": "useR! 2024 (Salzburg, Austria)\nMy first international conference."
   },
   {
     "objectID": "soft_test.html",
@@ -418,5 +418,12 @@
     "title": "Jayani Lakshika",
     "section": "",
     "text": "Research Papers\n\n2021\nJayani P. G. Lakshika and Thiyanga S. Talagala. (2021) \"Computer-aided Interpretable Features for Leaf Image Classification.\"\n        \n        Preprint\n     \n        \n        Github\n    \n\nAbstracts\n2021\n\n17th applied science abstract publication (Page 74)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF\n    \nYoung Scientists’ Conference on Multidisciplinary Research (YCMR)\nJayani P. G. Lakshika and Thiyanga S. Talagala\n\n        \n        PDF"
+  },
+  {
+    "objectID": "talks.html#ecssc2021-hobart-austria",
+    "href": "talks.html#ecssc2021-hobart-austria",
+    "title": "Talks",
+    "section": "",
+    "text": "Early Career & Student Statisticians Conference 2024"
   }
 ]
