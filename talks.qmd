@@ -12,7 +12,20 @@ Early Career & Student Statisticians Conference 2024
 
 My first international conference.
 
-![](figures/useR_flyer.jpeg){width="400" fig-align="center"}
+::: {.columns}
+
+::: {.column width="45%"}
+![](figures/useR_flyer.jpeg){width="350" height="225"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="50%"}
+![](figures/useR2024_presenting.JPG){width="300"}
+:::
+:::
+
 
 ## Faculty of BusEco Three Minute Thesis (3MT) competition 2024
 
