@@ -48,6 +48,7 @@ format-links: [pdf]
 .cols {display: flex;}
 </style>
 ```
+
 ```{r}
 #| echo: false
 #| message: false
@@ -68,16 +69,18 @@ Monash University, Australia
 Email: jayani.piyadigamage\@monash.edu, jayanilakshika76\@gmail.com
 :::
 
-```{=html}
-<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
-```
-
-```{r}
-#| echo: false
-aos::use_aos()
-```
 
 :::{data-aos="fade-up" data-aos-duration="2000" data-aos-anchor-placement="center-bottom"}
+
+<!-- ```{=html} -->
+<!-- <script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script> -->
+<!-- ``` -->
+
+<!-- ```{r} -->
+<!-- #| echo: false -->
+<!-- aos::use_aos() -->
+<!-- ``` -->
+
 ## {{<fa briefcase>}} Appointments Held
 
 ::: {.cols data-latex=""}
@@ -417,25 +420,60 @@ cat(paste0(formatted), sep = "\n")
 
 ## {{<fa award>}} Awards
 
-<!-- ::: {.cols data-latex=""} -->
-<!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
-<!-- **University of Melbourne Faculty of Engineering and Information Technology Excellence Award in Interdisciplinary Research** -->
-<!-- ::: -->
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**Monash Business School Prestigious International Conference Award**\
+Monash University, Australia
+:::
 
-<!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
-<!-- 2021 -->
-<!-- ::: -->
-<!-- ::: -->
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2024
+:::
+:::
 
-<!-- ::: {.cols data-latex=""} -->
-<!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
-<!-- **IPAA Spirit of Service Awards** -- Finalist -->
-<!-- ::: -->
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**Co-Funded Graduate Research Scholarship, Monash Business School**\
+Monash University, Australia
+:::
 
-<!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
-<!-- 2021 -->
-<!-- ::: -->
-<!-- ::: -->
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2022 --- 2026
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**Diploma in Computer System Design (DCSD)** --- Gold medalist\
+National Institute of Business Management (NIBM), Sri Lanka
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2017
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**OCTAVE competition** --- Finalists\
+Research abstract competition organized by OCTAVE company, Sri Lanka
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2021
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**Stat Circle quiz competition** --- Winners\
+Team member of the winners at inter university quiz competition organized by the Stat Circle Faculty of Science, University of Colombo, Sri Lanka
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2018
+:::
+:::
 
 ## {{<fa comments>}} Academic Service & Community Engagment
 
@@ -645,6 +683,17 @@ cat(paste0(formatted), sep = "\n")
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-2021--
+2022--
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**Statistics society**\
+University of Sri Jayewardenepura (USJ), Sri Lanka
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2017--2022
 :::
 :::
