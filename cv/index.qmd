@@ -232,7 +232,7 @@ a <- resp |>
 cat(paste0("- ", a), sep="\n")
 ```
 
-## {{<fa money-bill>}} Funding
+<!-- ## {{<fa money-bill>}} Funding -->
 
 <!-- Almost all of this funding was obtained in partnership with large, collaborative teams. -->
 
@@ -477,15 +477,38 @@ Team member of the winners at inter university quiz competition organized by the
 
 ## {{<fa comments>}} Academic Service & Community Engagment
 
-<!-- ::: {.cols data-latex=""} -->
-<!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
-<!-- **Equity, Diversity & Social Inclusion Committee** Department representative -->
-<!-- ::: -->
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**UseR! 2024 Session Chair**\
+Conference in Salzburg, Austria
+:::
 
-<!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
-<!-- 2024 -- -->
-<!-- ::: -->
-<!-- ::: -->
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2024 
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**ASC Session Chair**\
+Australian Statistical Conference in Wollongong, Australia
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2023 
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**Statistical Consultancy Service** --- Department representative\
+University of Sri Jayewardenepura (USJ), Sri Lanka
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2020 
+:::
+:::
 
 <!-- ::: {.cols data-latex=""} -->
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
