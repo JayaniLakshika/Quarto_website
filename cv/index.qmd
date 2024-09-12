@@ -501,6 +501,17 @@ Australian Statistical Conference in Wollongong, Australia
 
 ::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
+**WOMBAT tutorials** --- Helper\
+Monash University, Australia
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2022 
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
 **Statistical Consultancy Service** --- Department representative\
 University of Sri Jayewardenepura (USJ), Sri Lanka
 :::
