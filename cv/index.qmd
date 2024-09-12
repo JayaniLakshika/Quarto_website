@@ -330,8 +330,8 @@ Society (VicANZIAM) 2024 (RMIT university, Melbourne, Australia)", 2024,
 Association for Statistical Computing (IASC-ARS 2023) (Wollongon, Australia)", 2023,
 "Higher studies webinar", "Invited speaker", "University of Sri Jayewardenepura (USJ), Sri Lanka", 2023,
 "Computer Vision System for Automated Medicinal Plant Identification", "Invited speaker", "NUMBATs meeting, Monash University, Australia", 2022,
-"Computer Vision System for Automated Medicinal Plant Identification", "Invited speaker", "Estadistica 2021, the Annual Statistics Day organized by the Statistics Society of University of Sri Jayewardenepura, Sri Lanka", 2021,
-"Computer Vision System for Automated Medicinal Plant Identification", "Invited speaker", "Vx Tech Talk 2021, Vizuamatix Pvt. Ltd, Sri lanka", 2021,
+"Computer Vision System for Automated Medicinal Plant Identification", "[Invited speaker](https://github.com/JayaniLakshika/Estadistica_2021.git)", "Estadistica 2021, the Annual Statistics Day organized by the Statistics Society of University of Sri Jayewardenepura, Sri Lanka", 2021,
+"Computer Vision System for Automated Medicinal Plant Identification", "[Invited speaker](https://github.com/JayaniLakshika/Vx_Tech_Talk_2021.git)", "Vx Tech Talk 2021, Vizuamatix Pvt. Ltd, Sri lanka", 2021,
 "Statistical machine learning for medicinal plant leaves classification", "[Presentation](https://www.youtube.com/watch?v=BSs_vXKRnxE)", "17th Applied Statistics Conference, Solvenia", 2021,
 "Statistical machine learning for medicinal plant leaves classification", "[Speed-talk](https://www.youtube.com/watch?v=mfP2LUbj0ig)", "Young Scientists' Conference on Multidisciplinary Research (YSCMR 2021) which is organised by the Young Scientists' Association of the National Institute of Fundamental Studies,
 Sri Lanka (NIFS-YSA)", 2021
@@ -643,7 +643,7 @@ National Institute of Business Management (NIBM), Sri Lanka
 
 ::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-**OCTAVE competition** --- Finalists\
+[**OCTAVE competition**](https://www.youtube.com/watch?v=mHnbQK599ps) --- Finalists\
 Research abstract competition organized by OCTAVE company, Sri Lanka
 :::
 
@@ -654,7 +654,7 @@ Research abstract competition organized by OCTAVE company, Sri Lanka
 
 ::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-**Stat Circle quiz competition** --- Winners\
+[**Stat Circle quiz competition**](https://cmb.ac.lk/stat-day-2018-decision-making-through-quality-data/) --- Winners\
 Team member of the winners at inter university quiz competition organized by the Stat Circle Faculty of Science, University of Colombo, Sri Lanka
 :::
 
@@ -700,7 +700,7 @@ Monash University, Australia
 
 ::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-**Statistical Consultancy Service** --- Department representative\
+[**Statistical Consultancy Service**](https://scs-fas-sjp.netlify.app/) --- Department representative\
 University of Sri Jayewardenepura (USJ), Sri Lanka
 :::
 
