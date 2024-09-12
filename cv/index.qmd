@@ -340,6 +340,20 @@ formatted <- lapply(1:nrow(presentations), function(i) {
 cat(paste0(formatted), sep = "\n")
 ```
 
+## {{<fa eye>}} Visiting
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**A/Prof. Ursula Laa**\
+At the University of Natural Resources and Life Sciences, Vienna (BOKU University), accompanied by Prof. Di Cook, Prof. Eun-Kyung Lee, and A/Prof. Natalia da Silva (one week)
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+July 2024
+:::
+
+:::
+
 ## {{<fa cube>}} R packages
 
 ::: {.cols data-latex=""}
