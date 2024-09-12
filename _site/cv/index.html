@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 <link rel="stylesheet" href="../assets/cv.css">
@@ -150,7 +179,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications"><i class="fa-solid fa-book" aria-label="book"></i> Publications</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications"><i class="fa-solid fa-book" aria-label="book"></i> Publications</a>
+  <ul class="collapse">
+  <li><a href="#papers" id="toc-papers" class="nav-link" data-scroll-target="#papers">Papers</a></li>
+  <li><a href="#conference-proceedings" id="toc-conference-proceedings" class="nav-link" data-scroll-target="#conference-proceedings">Conference proceedings</a></li>
+  </ul></li>
   <li><a href="#conference-presentations-and-contributed-talks" id="toc-conference-presentations-and-contributed-talks" class="nav-link" data-scroll-target="#conference-presentations-and-contributed-talks"><i class="bi bi-chat-quote"></i> Conference presentations and contributed talks</a></li>
   <li><a href="#visiting" id="toc-visiting" class="nav-link" data-scroll-target="#visiting"><i class="fa-solid fa-eye" aria-label="eye"></i> Visiting</a></li>
   <li><a href="#r-packages" id="toc-r-packages" class="nav-link" data-scroll-target="#r-packages"><i class="fa-solid fa-cube" aria-label="cube"></i> R packages</a></li>
@@ -316,8 +349,31 @@ Industrial training as a fulfillment of the degree B.Sc. (Honours) in Statistics
 </div>
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications"><i class="fa-solid fa-book" aria-label="book"></i> Publications</h2>
+<section id="papers" class="level3">
+<h3 class="anchored" data-anchor-id="papers">Papers</h3>
+<p>Lakshika, J. P., &amp; Talagala, T. S. (2021). Computer-aided Interpretable Features for Leaf Image Classification. arXiv preprint <a href="https://arxiv.org/abs/2106.08077">arXiv:2106.08077</a></p>
+</section>
+<section id="conference-proceedings" class="level3">
+<h3 class="anchored" data-anchor-id="conference-proceedings">Conference proceedings</h3>
+<div class="cols">
+<div class="col">
+<p>Young Scientists’ Conference on Multidisciplinary Research (YCMR) abstract publication <a href="https://drive.google.com/file/d/1-IjgZa75zDf97-PA4Gmj5lsyRUCmE3R5/view?usp=sharing">(ISSN 2815-0260)</a></p>
+</div>
+<div class="rightcol flushright">
+<p>October 2021</p>
+</div>
+</div>
+<div class="cols">
+<div class="col">
+<p><span class="math inline">\(17^{th}\)</span> applied science abstract publication <a href="https://akastrin.si/as-book-2021-prelim.pdf">(Page 74)</a></p>
+</div>
+<div class="rightcol flushright">
+<p>September 2021</p>
+</div>
+</div>
 <!-- ##  Funding -->
 <!-- Almost all of this funding was obtained in partnership with large, collaborative teams. -->
+</section>
 </section>
 <section id="conference-presentations-and-contributed-talks" class="level2">
 <h2 class="anchored" data-anchor-id="conference-presentations-and-contributed-talks"><i class="bi bi-chat-quote"></i> Conference presentations and contributed talks</h2>

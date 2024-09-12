@@ -191,6 +191,32 @@ January --- June 2020
 
 ## {{<fa book>}} Publications
 
+### Papers
+
+Lakshika, J. P., \& Talagala, T. S. (2021). Computer-aided Interpretable Features for Leaf Image Classification. arXiv preprint [arXiv:2106.08077](https://arxiv.org/abs/2106.08077)
+
+### Conference proceedings
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+Young Scientists’ Conference on Multidisciplinary Research (YCMR) abstract publication [(ISSN 2815-0260)](https://drive.google.com/file/d/1-IjgZa75zDf97-PA4Gmj5lsyRUCmE3R5/view?usp=sharing)
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+October 2021 
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+$17^{th}$ applied science abstract publication [(Page 74)](https://akastrin.si/as-book-2021-prelim.pdf)
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+September 2021 
+:::
+:::
+
 ```{r}
 #| echo: false
 #| results: asis

@@ -2,7 +2,6 @@
 title: "Publications"
 ---
 
-
 ```{r}
 #| echo: false
 #| message: false
