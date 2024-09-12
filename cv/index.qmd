@@ -295,7 +295,13 @@ presentations <- tribble(
     "Visualise your fitted non-linear dimension reduction model in the high-dimensional data space", NA, "Victorian branch of the Australian and New Zealand Industrial and Applied Mathematics
 Society (VicANZIAM) 2024 (RMIT university, Melbourne, Australia)", 2024,
 "Visualize your fitted non-linear dimension reduction model in the high-dimensional data space", "Invited speaker", "Bioinformatics Seminar, Monash University, Australia", 2024,
-"With non-linear dimension reduction, when can you believe what you see?", NA, "Australian Statistical Conference (ASC 2023) (Wollongon, Australia)", 2023
+"With non-linear dimension reduction, when can you believe what you see?", NA, "Australian Statistical Conference (ASC 2023) (Wollongon, Australia)", 2023,
+"Viewing the model from a non-linear dimension reduction in the high-dimensional data space", "Invited speaker", "12th-Conference of the Asian Regional Section of the International
+Association for Statistical Computing (IASC-ARS 2023) (Wollongon, Australia)", 2023,
+"Higher studies webinar", "Invited speaker", "University of Sri Jayewardenepura (USJ), Sri Lanka", 2023,
+"Computer Vision System for Automated Medicinal Plant Identification", "Invited speaker", "NUMBATs meeting, Monash University, Australia", 2022,
+"Computer Vision System for Automated Medicinal Plant Identification", "Invited speaker", "Estadistica 2021, the Annual Statistics Day organized by the Statistics Society of University of Sri Jayewardenepura, Sri Lanka", 2021,
+"Computer Vision System for Automated Medicinal Plant Identification", "Invited speaker", "Vx Tech Talk 2021, Vizuamatix Pvt. Ltd, Sri lanka", 2021
 )
 
 format_presentation <- function(presentation) {
