@@ -67,6 +67,9 @@ Department of Econometrics and Business Statistics\
 Monash University, Australia
 
 Email: jayani.piyadigamage\@monash.edu, jayanilakshika76\@gmail.com
+Website: (https://jayanilakshika.netlify.app/)[https://jayanilakshika.netlify.app/]
+GitHub: (https://github.com/JayaniLakshika)[https://github.com/JayaniLakshika]
+LinkedIn: (https://www.linkedin.com/in/jayani-lakshika-9a0297162)[https://www.linkedin.com/in/jayani-lakshika-9a0297162]
 :::
 
 
@@ -200,6 +203,7 @@ Lakshika, J. P., \& Talagala, T. S. (2021). Computer-aided Interpretable Feature
 ::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 Young Scientists’ Conference on Multidisciplinary Research (YCMR) abstract publication [(ISSN 2815-0260)](https://drive.google.com/file/d/1-IjgZa75zDf97-PA4Gmj5lsyRUCmE3R5/view?usp=sharing)
+
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
@@ -209,7 +213,7 @@ October 2021
 
 ::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-$17^{th}$ applied science abstract publication [(Page 74)](https://akastrin.si/as-book-2021-prelim.pdf)
+$17^{th}$ applied science research poster and abstract publication [(Page 74)](https://akastrin.si/as-book-2021-prelim.pdf)
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
