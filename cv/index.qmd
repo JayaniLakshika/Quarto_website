@@ -301,7 +301,10 @@ Association for Statistical Computing (IASC-ARS 2023) (Wollongon, Australia)", 2
 "Higher studies webinar", "Invited speaker", "University of Sri Jayewardenepura (USJ), Sri Lanka", 2023,
 "Computer Vision System for Automated Medicinal Plant Identification", "Invited speaker", "NUMBATs meeting, Monash University, Australia", 2022,
 "Computer Vision System for Automated Medicinal Plant Identification", "Invited speaker", "Estadistica 2021, the Annual Statistics Day organized by the Statistics Society of University of Sri Jayewardenepura, Sri Lanka", 2021,
-"Computer Vision System for Automated Medicinal Plant Identification", "Invited speaker", "Vx Tech Talk 2021, Vizuamatix Pvt. Ltd, Sri lanka", 2021
+"Computer Vision System for Automated Medicinal Plant Identification", "Invited speaker", "Vx Tech Talk 2021, Vizuamatix Pvt. Ltd, Sri lanka", 2021,
+"Statistical machine learning for medicinal plant leaves classification", NA, "17th Applied Statistics Conference, Solvenia", 2021,
+"Statistical machine learning for medicinal plant leaves classification", "Speed-talk", "Young Scientists' Conference on Multidisciplinary Research (YSCMR 2021) which is organised by the Young Scientists' Association of the National Institute of Fundamental Studies,
+Sri Lanka (NIFS-YSA)", 2021
 )
 
 format_presentation <- function(presentation) {
