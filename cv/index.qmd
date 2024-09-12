@@ -81,6 +81,54 @@ Email: jayani.piyadigamage\@monash.edu, jayanilakshika76\@gmail.com
 <!-- aos::use_aos() -->
 <!-- ``` -->
 
+## {{<fa graduation-cap>}} Education
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**PhD candidate - Statistics**\
+Faculty of Business & Economics, Monash University, Australia\
+Thesis title: Interactive and Dynamic Graphics for Studying Non-linear Dimension Reduction Models of High-dimensional Data
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+July 2022 --- 
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**B.Sc. (Honours) in Statistics**\
+University of Sri Jayewardenepura (USJ), Sri Lanka\
+Thesis title: Computer Vision System For Automated Medicinal Plant Identification
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+January 2017 --- December 2020
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**Diploma in Computer System Design (DCSD)**\
+National Institute of Business Management (NIBM), Sri Lanka\
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+March 2016 --- March 2017
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**Certificate in Business Accounting**\
+Chartered Institute of Management Accountants (CIMA), Sri Lanka\
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+December 2015 --- September 2016
+:::
+:::
+
 ## {{<fa briefcase>}} Appointments Held
 
 ::: {.cols data-latex=""}
@@ -138,54 +186,6 @@ January --- June 2020
 :::
 :::
 
-:::
-
-## {{<fa graduation-cap>}} Education
-
-::: {.cols data-latex=""}
-::: {.col data-latex="{0.85\\textwidth}"}
-**PhD candidate - Statistics**\
-Faculty of Business & Economics, Monash University, Australia\
-Thesis title: Interactive and Dynamic Graphics for Studying Non-linear Dimension Reduction Models of High-dimensional Data
-:::
-
-::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-July 2022 --- 
-:::
-:::
-
-::: {.cols data-latex=""}
-::: {.col data-latex="{0.85\\textwidth}"}
-**B.Sc. (Honours) in Statistics**\
-University of Sri Jayewardenepura (USJ), Sri Lanka\
-Thesis title: Computer Vision System For Automated Medicinal Plant Identification
-:::
-
-::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-January 2017 --- December 2020
-:::
-:::
-
-::: {.cols data-latex=""}
-::: {.col data-latex="{0.85\\textwidth}"}
-**Diploma in Computer System Design (DCSD)**\
-National Institute of Business Management (NIBM), Sri Lanka\
-:::
-
-::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-March 2016 --- March 2017
-:::
-:::
-
-::: {.cols data-latex=""}
-::: {.col data-latex="{0.85\\textwidth}"}
-**Certificate in Business Accounting**\
-Chartered Institute of Management Accountants (CIMA), Sri Lanka\
-:::
-
-::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-December 2015 --- September 2016
-:::
 :::
 
 
@@ -351,6 +351,44 @@ formatted <- lapply(1:nrow(presentations), function(i) {
 
 cat(paste0(formatted), sep = "\n")
 ```
+
+## {{<fa cube>}} R packages
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**airpurifyr**: Provide an interface to scrape air quality data from \url{https://openaq.org/}
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**cardinalR**: Collection of data structures.
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**quollr**: Tool to visualise how non-linear dimension reduction warps your data
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**olympics**: Provide an interface to scrape Olympic data from \url{https://olympics.com/}
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**MedLEA**: Software which contains information about medicinal plants in Sri Lanka
+:::
+:::
+
+::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**DSjobtracker**: Software which contains what skills and qualifications are required for data science related jobs
+:::
+:::
 
 ## {{<fa school>}} Teaching
 
