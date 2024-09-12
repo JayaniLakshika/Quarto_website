@@ -287,35 +287,15 @@ cat(paste0(formatted), sep = "\n")
 
 ```{r}
 #| echo: false
-#| eval: false
 
 presentations <- tribble(
     ~title, ~extra, ~event, ~year,
-    "Networks of networks in infectious diseases modelling", "Panelist", "Infectious Diseases Modelling Conference", 2024,
-    "Generating synthetic contact matrices using open-source data", NA, "Australia and New Zealand Industrial Applied Mathematics Conference", 2024,
-    "Data-Driven Insights into Healthcare Challenges: Two Case Studies", "Invited Speaker", "Universitätsklinikum Freiburg Seminar Series", 2023,
-    "Data-Driven Insights into Healthcare Challenges: Two Case Studies", NA, "UNSW Australia Statistics & Data Science Seminar", 2023,
-    "Burden of healthcare associated infections in Australia", NA, "Australia and New Zealand Industrial Applied Mathematics Conference", 2022,
-    "Exponential Random Graph Models and CPE transmission", "Invited Speaker", "Melbourne Mathematical Biology Seminar Series", 2021,
-    "Mathematical modelling for COVID-19 in Victoria, Australia", "Invited Speaker", "Math for Industry Forum, Vietnam", 2021,
-    "The associations between transmission of CPE and ward connectivity: a network analysis", NA, "Australasian Society for Infectious Diseases Annual Scientific Meeting", 2021,
-    "The burden of healthcare acquired infections in Australian public hospitals", NA, "Australasian Society for Infectious Diseases Annual Scientific Meeting", 2021,
-    "Decision Making and Mathematical Biology - Victoria's usage of COVID-19 modelling", "Invited Speaker", "Mathematical Biology Special Interest Group Workshop", 2021,
-    "Modelling between-household effective contact and the elimination of COVID-19 in Melbourne, Australia", NA, "Australia and New Zealand Industrial Applied Mathematics Conference", 2021,
-    "Mathematical modelling and Victoria's response to COVID-19", "Invited Speaker", "Victorian ANZIAM Branch Meeting", 2020, 
-    "Australia's experience and the role of modelling in its responses to COVID-19", "Invited Speaker", "Usher Institute COVID-19 Webinar", 2020,
-    "Estimating epidemiological quantities for skin sores in remote Australian communities using interval-censored data", NA, "Australia and New Zealand Industrial Applied Mathematics Conference", 2019,
-    "Estimating epidemiological quantities for skin sores in remote Australian communities using interval-censored data", NA, "NSW--ACT ANZIAM Branch Meeting", 2018,
-    "Coupled models of Group A Streptococcus and Scabies: How likely is eradication?", NA, "PRISM International Conference", 2018,
-    "Investigating the dynamics of coupled epidemiological transmission models with application to Group A Streptococcus and Scabies", NA, "Society for Mathematical Biology Annual Meeting", 2018,
-    "Investigating the dynamics of coupled models with applications to Group A Streptococcus and Scabies", NA, "Australia and New Zealand Industrial Applied Mathematics Conference", 2018,
-    "Quantifying the age of first infection with skin sores in five remote Australian Aboriginal communities", NA, "Lancefield International Symposium on Streptococci and Streptococcal Diseases", 2017,
-    "Investigating the dynamics of coupled models with applications to Group A Streptococcus and Scabies", NA, "PRISM Annual Knowledge Transfer and Training Conference", 2017,
-    "Constructing mathematical models of Group A Streptococcus and Scabies in remote Australian Indigenous communities", "Invited Speaker", "Zeeman Institute Seminar Series ", 2017,
-    "Developing a model for the transmission and treatment dynamics of scabies infections a high prevalence setting", NA, "Melbourne-Manchester Joint Workshop", 2017,
-    "Developing a model for the transmission of Group A Streptococcus", NA, "Australia and New Zealand Industrial Applied Mathematics Conference", 2017,
-    "Determining the age of first infection from incomplete data", NA, "Modelling Emerging Infections and Neglected Tropical Diseases Workshop", 2016,
-    "Investigating Intervention Intervals for Scabies Infections", NA, "Australia and New Zealand Industrial Applied Mathematics Conference", 2016
+    "Visualise your fitted non-linear reduction model in high-dimensional space", NA, "UseR! 2024, Salzburg, Austria", 2024,
+    "Visualising how non-linear dimension reduction warps your data", NA, "Faculty of BusEco Three Minute Thesis (3MT) competition, Monash University, Australia", 2024,
+    "Visualise your fitted non-linear dimension reduction model in the high-dimensional data space", NA, "Victorian branch of the Australian and New Zealand Industrial and Applied Mathematics
+Society (VicANZIAM) 2024 (RMIT university, Melbourne, Australia)", 2024,
+"Visualize your fitted non-linear dimension reduction model in the high-dimensional data space", "Invited speaker", "Bioinformatics Seminar, Monash University, Australia", 2024,
+"With non-linear dimension reduction, when can you believe what you see?", NA, "Australian Statistical Conference (ASC 2023) (Wollongon, Australia)", 2023
 )
 
 format_presentation <- function(presentation) {
@@ -343,7 +323,6 @@ format_presentation <- function(presentation) {
 ```{r}
 #| echo: false
 #| results: asis
-#| eval: false
 
 formatted <- lapply(1:nrow(presentations), function(i) {
     format_presentation(presentations[i,])
