@@ -66,10 +66,10 @@ Piyadi Gamage Jayani Lakshika\
 Department of Econometrics and Business Statistics\
 Monash University, Australia
 
-Email: jayani.piyadigamage\@monash.edu, jayanilakshika76\@gmail.com
-Website: (https://jayanilakshika.netlify.app/)[https://jayanilakshika.netlify.app/]
-GitHub: (https://github.com/JayaniLakshika)[https://github.com/JayaniLakshika]
-LinkedIn: (https://www.linkedin.com/in/jayani-lakshika-9a0297162)[https://www.linkedin.com/in/jayani-lakshika-9a0297162]
+Email: jayani.piyadigamage\@monash.edu, jayanilakshika76\@gmail.com\
+Website: https://jayanilakshika.netlify.app/\
+GitHub: https://github.com/JayaniLakshika\
+LinkedIn: https://www.linkedin.com/in/jayani-lakshika-9a0297162
 :::
 
 
