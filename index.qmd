@@ -28,19 +28,19 @@ I am a third year PhD student in Department of Econometrics and Business Statist
 
 I am part of [Monash NUMBATs](https://numbat.space/). Currently, I am also working as a Teaching Associate in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs).
 
-::: columns
+::::: columns
 ::: {.column width="40%"}
 ## Interests
 
-- High-dimensional data visualization
+-   High-dimensional data visualization
 
-- Dimension reduction 
+-   Dimension reduction
 
-- Computer vision
+-   Computer vision
 
-- Machine learning
+-   Machine learning
 
-- Experimental design
+-   Experimental design
 :::
 
 ::: {.column width="60%"}
@@ -64,6 +64,6 @@ I am part of [Monash NUMBATs](https://numbat.space/). Currently, I am also worki
 
 ###### Chartered Institute of Management Accountants (CIMA)
 :::
-:::
+:::::
 
 On this website you will find some of my work and interests in statistics.

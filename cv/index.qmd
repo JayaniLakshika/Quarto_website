@@ -72,21 +72,24 @@ GitHub: https://github.com/JayaniLakshika\
 LinkedIn: https://www.linkedin.com/in/jayani-lakshika-9a0297162
 :::
 
-
-:::{data-aos="fade-up" data-aos-duration="2000" data-aos-anchor-placement="center-bottom"}
-
+:::::::::::::::::::::::::::::: {data-aos="fade-up" data-aos-duration="2000" data-aos-anchor-placement="center-bottom"}
 <!-- ```{=html} -->
+
 <!-- <script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script> -->
+
 <!-- ``` -->
 
 <!-- ```{r} -->
+
 <!-- #| echo: false -->
+
 <!-- aos::use_aos() -->
+
 <!-- ``` -->
 
 ## {{<fa graduation-cap>}} Education
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **PhD candidate - Statistics**\
 Faculty of Business & Economics, Monash University, Australia\
@@ -94,11 +97,11 @@ Thesis title: Interactive and Dynamic Graphics for Studying Non-linear Dimension
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-July 2022 --- 
+July 2022 ---
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **B.Sc. (Honours) in Statistics**\
 University of Sri Jayewardenepura (USJ), Sri Lanka\
@@ -108,9 +111,9 @@ Thesis title: Computer Vision System For Automated Medicinal Plant Identificatio
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 January 2017 --- December 2020
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Diploma in Computer System Design (DCSD)**\
 National Institute of Business Management (NIBM), Sri Lanka\
@@ -119,9 +122,9 @@ National Institute of Business Management (NIBM), Sri Lanka\
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 March 2016 --- March 2017
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Certificate in Business Accounting**\
 Chartered Institute of Management Accountants (CIMA), Sri Lanka\
@@ -130,32 +133,33 @@ Chartered Institute of Management Accountants (CIMA), Sri Lanka\
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 December 2015 --- September 2016
 :::
-:::
+:::::
 
 ## {{<fa briefcase>}} Appointments Held
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Teaching Associate**\
 Department of Econometrics and Business Statistics, Monash University, Australia
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-January 2023 --- 
+January 2023 ---
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Teaching Assistant (Temporary Instructor)**\
 University of Sri Jayewardenepura (USJ), Sri Lanka
 :::
+
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 July 2021 --- July 2022
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Associate Data Analyst**\
 Vizuamatix (Pvt) Ltd, Sri Lanka
@@ -164,9 +168,9 @@ Vizuamatix (Pvt) Ltd, Sri Lanka
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 January --- November 2021
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Trainee Data Analyst**\
 Vizuamatix (Pvt) Ltd, Sri Lanka
@@ -175,9 +179,9 @@ Vizuamatix (Pvt) Ltd, Sri Lanka
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 July---December 2020
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Research Internship**\
 Vizuamatix (Pvt) Ltd, Sri Lanka\
@@ -187,39 +191,36 @@ Industrial training as a fulfillment of the degree B.Sc. (Honours) in Statistics
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 January --- June 2020
 :::
-:::
-
-:::
-
+:::::
+::::::::::::::::::::::::::::::
 
 ## {{<fa book>}} Publications
 
 ### Papers
 
-Lakshika, J. P., \& Talagala, T. S. (2021). Computer-aided Interpretable Features for Leaf Image Classification. arXiv preprint [arXiv:2106.08077](https://arxiv.org/abs/2106.08077)
+Lakshika, J. P., & Talagala, T. S. (2021). Computer-aided Interpretable Features for Leaf Image Classification. arXiv preprint [arXiv:2106.08077](https://arxiv.org/abs/2106.08077)
 
 ### Conference proceedings
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 Young Scientists’ Conference on Multidisciplinary Research (YCMR) abstract publication [(ISSN 2815-0260)](https://drive.google.com/file/d/1-IjgZa75zDf97-PA4Gmj5lsyRUCmE3R5/view?usp=sharing)
-
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-October 2021 
+October 2021
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 $17^{th}$ applied science research poster and abstract publication [(Page 74)](https://akastrin.si/as-book-2021-prelim.pdf)
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-September 2021 
+September 2021
 :::
-:::
+:::::
 
 ```{r}
 #| echo: false
@@ -372,7 +373,7 @@ cat(paste0(formatted), sep = "\n")
 
 ## {{<fa eye>}} Visiting
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **A/Prof. Ursula Laa**\
 At the University of Natural Resources and Life Sciences, Vienna (BOKU University), accompanied by Prof. Di Cook, Prof. Eun-Kyung Lee, and A/Prof. Natalia da Silva (one week)
@@ -381,52 +382,62 @@ At the University of Natural Resources and Life Sciences, Vienna (BOKU Universit
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 July 2024
 :::
+:::::
 
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**Prof. Heike Hofmann, A/Prof. Susan Vanderplas, and Dr. Michelle Graham**\
+At the University of Nebraska, Lincoln, USA (six weeks)
 :::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+October-December 2024
+:::
+:::::
 
 ## {{<fa cube>}} R packages
 
-::: {.cols data-latex=""}
+:::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **airpurifyr**: Provide an interface to scrape air quality data from \url{https://openaq.org/}
 :::
-:::
+::::
 
-::: {.cols data-latex=""}
+:::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **cardinalR**: Collection of data structures.
 :::
-:::
+::::
 
-::: {.cols data-latex=""}
+:::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **quollr**: Tool to visualise how non-linear dimension reduction warps your data
 :::
-:::
+::::
 
-::: {.cols data-latex=""}
+:::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **olympics**: Provide an interface to scrape Olympic data from \url{https://olympics.com/}
 :::
-:::
+::::
 
-::: {.cols data-latex=""}
+:::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **MedLEA**: Software which contains information about medicinal plants in Sri Lanka
 :::
-:::
+::::
 
-::: {.cols data-latex=""}
+:::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **DSjobtracker**: Software which contains what skills and qualifications are required for data science related jobs
 :::
-:::
+::::
 
 ## {{<fa school>}} Teaching
 
 ### Tutor
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[ETC5510\] **Introduction to data analysis**
 :::
@@ -434,9 +445,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2024
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[ETC1010\] **Introduction to data analysis**
 :::
@@ -444,9 +455,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2024
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[ETC3250\] **Introduction to machine learning**
 :::
@@ -454,9 +465,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2023 --- 2024
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[ETC5250\] **Introduction to machine learning**
 :::
@@ -464,9 +475,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2023 --- 2024
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[ETC5521\] **Exploratory data analysis**
 :::
@@ -474,9 +485,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2023
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 326 2.0\] **R Programming**
 :::
@@ -484,9 +495,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2022
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 213 2.0\] **Inferential Statistics**
 :::
@@ -494,9 +505,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2022
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 214 1.0\] **Nonparametric Statistics**
 :::
@@ -504,9 +515,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2022
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 215 2.0\] **Sampling techniques**
 :::
@@ -514,9 +525,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2022
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 115 1.0\] **Elements of Sampling**
 :::
@@ -524,9 +535,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2022
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 113 2.0\] **Descriptive Statistics**
 :::
@@ -534,9 +545,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2022
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 114 2.0\] **Probability and Distribution Theory I**
 :::
@@ -544,9 +555,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2022
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 224 2.0\] **Regression Analysis**
 :::
@@ -554,9 +565,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2021
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 225 2.0\] **Design of Experiments**
 :::
@@ -564,9 +575,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2021
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 226 1.0\] **Data Analysis II**
 :::
@@ -574,9 +585,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2021
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 123 2.0\] **Probability and Distribution Theory II**
 :::
@@ -584,9 +595,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2021
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 124 2.0\] **Data Analysis I**
 :::
@@ -594,9 +605,9 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2021
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 \[STA 125 1.0\] **Statistical Communication**
 :::
@@ -604,11 +615,11 @@ July 2024
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2021
 :::
-:::
+:::::
 
 ## {{<fa award>}} Awards
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Monash Business School Prestigious International Conference Award**\
 Monash University, Australia
@@ -617,9 +628,9 @@ Monash University, Australia
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2024
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Co-Funded Graduate Research Scholarship, Monash Business School**\
 Monash University, Australia
@@ -628,9 +639,9 @@ Monash University, Australia
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2022 --- 2026
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Diploma in Computer System Design (DCSD)** --- Gold medalist\
 National Institute of Business Management (NIBM), Sri Lanka
@@ -639,9 +650,9 @@ National Institute of Business Management (NIBM), Sri Lanka
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2017
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 [**OCTAVE competition**](https://www.youtube.com/watch?v=mHnbQK599ps) --- Finalists\
 Research abstract competition organized by OCTAVE company, Sri Lanka
@@ -650,9 +661,9 @@ Research abstract competition organized by OCTAVE company, Sri Lanka
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2021
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 [**Stat Circle quiz competition**](https://cmb.ac.lk/stat-day-2018-decision-making-through-quality-data/) --- Winners\
 Team member of the winners at inter university quiz competition organized by the Stat Circle Faculty of Science, University of Colombo, Sri Lanka
@@ -661,235 +672,347 @@ Team member of the winners at inter university quiz competition organized by the
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2018
 :::
-:::
+:::::
 
 ## {{<fa comments>}} Academic Service & Community Engagment
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **UseR! 2024 Session Chair**\
 Conference in Salzburg, Austria
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-2024 
+2024
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **ASC Session Chair**\
 Australian Statistical Conference in Wollongong, Australia
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-2023 
+2023
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **WOMBAT tutorials** --- Helper\
 Monash University, Australia
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-2022 
+2022
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 [**Statistical Consultancy Service**](https://scs-fas-sjp.netlify.app/) --- Department representative\
 University of Sri Jayewardenepura (USJ), Sri Lanka
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-2020 
+2020
 :::
-:::
+:::::
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **SPECTRUM Annual Meeting** Organising committee -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2024 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **SPARK Short Course in Mathematical Diseases Modelling** --- OUCRU\ -->
+
 <!-- Facilitator -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2023 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **Maths in Industry Study Group** --- NSW Health\ -->
+
 <!-- Moderator -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2023 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **WOMBAT Communicating with Data Workshop**\ -->
+
 <!-- Organising Committee -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2023 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **Australian and New Zealand Industrial and Applied Mathematics Executive Committee**\ -->
+
 <!-- Treasurer -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2022-- -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **Australian and New Zealand Industrial and Applied Mathematics Executive Committee**\ -->
+
 <!-- Early Career Representative -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2021--2022 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **SPECTRUM-SPARK Early Career Researcher Committee**\ -->
+
 <!-- Chair -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2022-- -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **SPARK Short Course in Mathematical Diseases Modelling** -- Mahidol University\ -->
+
 <!-- Facilitator -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2022 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **Research Tools Workshop in R**\ -->
+
 <!-- Facilitator -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2022 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **Mathematical Biology Special Interest Group**\ -->
+
 <!-- Treasurer -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2019--2022 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **ANZIAM 2021 Conference**\ -->
+
 <!-- Organising Committee (Treasurer) -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2020--2021 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **Computational Biology Research Initiative** -- The University of Melbourne\ -->
+
 <!-- Postgraduate Representative -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2017 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **Computational Biology Postgraduate Sports Group** -- The University of Melbourne\ -->
+
 <!-- Secretary -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2017--2018 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **Maths in Industry Study Group**\ -->
+
 <!-- Participant -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2017, 2018, 2019 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **The ConocoPhilips Science Experience** -- The University of Melbourne\ -->
+
 <!-- Activity Organiser -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2016--2018 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ::: {.cols data-latex=""} -->
+
 <!-- ::: {.col data-latex="{0.85\\textwidth}"} -->
+
 <!-- **Mathematicians in Schools** -- CSIRO\ -->
+
 <!-- Project Supervisor/Mentor -->
+
 <!-- ::: -->
 
 <!-- ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"} -->
+
 <!-- 2016--2018 -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- **Reviewer**\ -->
+
 <!-- PLoS Comptuational Biology; Scientific Reports; Journal of Applied Mathematics; Journal of Statistical Software; Epidemiology & Infection; Mathematics; Medial Journal of Australia; International Tropical Health; Journal of Antimicrobial Resistance; The R Journal -->
 
 ## {{<fa users>}} Professional Memberships
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Statistical Society of Australias (SSA)**\
 :::
@@ -897,9 +1020,9 @@ University of Sri Jayewardenepura (USJ), Sri Lanka
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2022--
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **R-Ladies Melbourne**
 :::
@@ -907,9 +1030,9 @@ University of Sri Jayewardenepura (USJ), Sri Lanka
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2022--
 :::
-:::
+:::::
 
-::: {.cols data-latex=""}
+::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **Statistics society**\
 University of Sri Jayewardenepura (USJ), Sri Lanka
@@ -918,4 +1041,4 @@ University of Sri Jayewardenepura (USJ), Sri Lanka
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
 2017--2022
 :::
-:::
+:::::
