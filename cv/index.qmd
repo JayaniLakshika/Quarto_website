@@ -473,7 +473,7 @@ October-December 2024
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-2023 --- 2024
+2023 --- 2025
 :::
 :::::
 
