@@ -4,7 +4,7 @@ title: "Talks"
 
 ## UNO Data Science Club, 2024 (Omaha, USA)
 
-During my visit to the USA, I had the privilege of presenting our latest development of the high-d-vis algorithm on **November 22, 2024**, at the Data Science Club, University of Omaha (UNO).  
+During my visit to the USA, I had the privilege of presenting our latest development of the high-d-vis algorithm on **November 22, 2024**, at the Data Science Club, University of Nebraska, Omaha (UNO).
 
 I am sincerely grateful to A/Prof. Md Mahbubul Majumder and the Data Science Club for the kind invitation and the opportunity to share my work with such an engaging and enthusiastic audience. This experience allowed me to connect with fellow data science enthusiasts and exchange ideas on cutting-edge developments in the field.
 
@@ -12,9 +12,9 @@ I am sincerely grateful to A/Prof. Md Mahbubul Majumder and the Data Science Clu
 
 ![](figures/uno_presentation.png){width="300" fig-align="center"}
 
-## Graphics Group Presentation, 2024 (Nebraska, USA)  
+## Graphics Group Presentation, 2024 (Nebraska, USA)
 
-During my visit to the USA, I had the privilege of presenting our latest development of the high-d-vis algorithm on **November 13, 2024**, at the Graphics Group seminar. You can find details about the session [here](https://isu-graphicsgroup.github.io/gg-blog/posts/2024-Fall/2024-11-13-quollr/).  
+During my visit to the USA, I had the privilege of presenting our latest development of the high-d-vis algorithm on **November 13, 2024**, at the Graphics Group seminar. You can find details about the session [here](https://isu-graphicsgroup.github.io/gg-blog/posts/2024-Fall/2024-11-13-quollr/).
 
 I am deeply grateful to Prof. Heike Hofmann and Yuhang (Tom) Lin for inviting me to share my work with the group. It was an excellent opportunity to engage in meaningful discussions and receive valuable feedback from a community passionate about data visualization and analytics.
 
@@ -24,8 +24,7 @@ I am deeply grateful to Prof. Heike Hofmann and Yuhang (Tom) Lin for inviting me
 
 My first international conference.
 
-::: {.columns}
-
+:::::: columns
 ::: {.column width="45%"}
 ![](figures/useR_flyer.jpeg){width="350" height="225"}
 :::
@@ -36,8 +35,7 @@ My first international conference.
 ::: {.column width="50%"}
 ![](figures/useR2024_presenting.JPG){width="300"}
 :::
-:::
-
+::::::
 
 ## Faculty of BusEco Three Minute Thesis (3MT) competition 2024
 

@@ -320,7 +320,9 @@ cat(paste0(formatted), sep = "\n")
 #| echo: false
 
 presentations <- tribble(
-    ~title, ~extra, ~event, ~year,
+    ~title, ~extra, ~event, ~year, 
+    "Visualise your fitted non-linear reduction model in high-dimensional space", NA, "Data Science Club, University of Nebraska, Omaha (UNO), USA", 2024, 
+    "Visualise your fitted non-linear reduction model in high-dimensional space", NA, "Graphics Group, University of Nebraska, Licoln (UNL), USA", 2024,
     "Visualise your fitted non-linear reduction model in high-dimensional space", NA, "UseR! 2024, Salzburg, Austria", 2024,
     "Visualising how non-linear dimension reduction warps your data", NA, "Faculty of BusEco Three Minute Thesis (3MT) competition, Monash University, Australia", 2024,
     "Visualise your fitted non-linear dimension reduction model in the high-dimensional data space", NA, "Victorian branch of the Australian and New Zealand Industrial and Applied Mathematics
