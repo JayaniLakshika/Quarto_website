@@ -25,22 +25,23 @@ title: "Teaching"
 
 [Handbook entry](https://handbook.monash.edu/2023/units/ETC5250?year=2024)
 
+-   Semester 1 2025
 -   Semester 1 2024
 -   Semester 1 2023
 
-# STA 326 2.0 R Programming 
+# STA 326 2.0 R Programming
 
 [Handbook entry](https://science.sjp.ac.lk/wp-content/uploads/2023/06/Prospectus-2021-2022-Revised-optimized.pdf)
 
 -   Semester 1 2022
 
-# STA 213 2.0	Inferential Statistics
+# STA 213 2.0 Inferential Statistics
 
 [Handbook entry](https://science.sjp.ac.lk/wp-content/uploads/2023/06/Prospectus-2021-2022-Revised-optimized.pdf)
 
 -   Semester 1 2022
 
-# STA 214 1.0	Nonparametric Statistics
+# STA 214 1.0 Nonparametric Statistics
 
 [Handbook entry](https://science.sjp.ac.lk/wp-content/uploads/2023/06/Prospectus-2021-2022-Revised-optimized.pdf)
 
@@ -52,13 +53,13 @@ title: "Teaching"
 
 -   Semester 1 2022
 
-# STA 115 1.0	Elements of Sampling
+# STA 115 1.0 Elements of Sampling
 
 [Handbook entry](https://science.sjp.ac.lk/wp-content/uploads/2023/06/Prospectus-2021-2022-Revised-optimized.pdf)
 
 -   Semester 1 2022
 
-# STA 113 2.0	Descriptive Statistics
+# STA 113 2.0 Descriptive Statistics
 
 [Handbook entry](https://science.sjp.ac.lk/wp-content/uploads/2023/06/Prospectus-2021-2022-Revised-optimized.pdf)
 
@@ -70,37 +71,37 @@ title: "Teaching"
 
 -   Semester 1 2022
 
-# STA 224 2.0	Regression Analysis
+# STA 224 2.0 Regression Analysis
 
 [Handbook entry](https://science.sjp.ac.lk/wp-content/uploads/2023/06/Prospectus-2021-2022-Revised-optimized.pdf)
 
 -   Semester 2 2021
 
-# STA 225 2.0	Design of Experiments
+# STA 225 2.0 Design of Experiments
 
 [Handbook entry](https://science.sjp.ac.lk/wp-content/uploads/2023/06/Prospectus-2021-2022-Revised-optimized.pdf)
 
 -   Semester 2 2021
 
-# STA 226 1.0	Data Analysis II
+# STA 226 1.0 Data Analysis II
 
 [Handbook entry](https://science.sjp.ac.lk/wp-content/uploads/2023/06/Prospectus-2021-2022-Revised-optimized.pdf)
 
 -   Semester 2 2021
 
-# STA 123 2.0	Probability and Distribution Theory II
+# STA 123 2.0 Probability and Distribution Theory II
 
 [Handbook entry](https://science.sjp.ac.lk/wp-content/uploads/2023/06/Prospectus-2021-2022-Revised-optimized.pdf)
 
 -   Semester 2 2021
 
-# STA 124 2.0	Data Analysis I	
+# STA 124 2.0 Data Analysis I
 
 [Handbook entry](https://science.sjp.ac.lk/wp-content/uploads/2023/06/Prospectus-2021-2022-Revised-optimized.pdf)
 
 -   Semester 2 2021
 
-# STA 125 1.0	Statistical Communication
+# STA 125 1.0 Statistical Communication
 
 [Handbook entry](https://science.sjp.ac.lk/wp-content/uploads/2023/06/Prospectus-2021-2022-Revised-optimized.pdf)
 
