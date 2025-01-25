@@ -689,6 +689,17 @@ Team member of the winners at inter university quiz competition organized by the
 
 ::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
+**NUMBATs seminar organizer**\
+Monash University, Austria
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+Semester 1, 2025
+:::
+:::::
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
 **UseR! 2024 Session Chair**\
 Conference in Salzburg, Austria
 :::
