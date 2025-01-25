@@ -621,6 +621,17 @@ October-December 2024
 
 ::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
+**PhD external experience fund**\
+Monash University, Australia
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2024
+:::
+:::::
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
 **Monash Business School Prestigious International Conference Award**\
 Monash University, Australia
 :::
