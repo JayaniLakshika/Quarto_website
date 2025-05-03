@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.54">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,12 +35,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-60122cb5d4d89780a4527fb817f5d310.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-af29b685f34f740843dda54891d6e322.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -147,9 +147,15 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2021</a>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2025</a></li>
+  <li><a href="#visualise-non-linear-dimension-reductions-as-models-in-a-high-dimensional-data-space" id="toc-visualise-non-linear-dimension-reductions-as-models-in-a-high-dimensional-data-space" class="nav-link" data-scroll-target="#visualise-non-linear-dimension-reductions-as-models-in-a-high-dimensional-data-space">Visualise non-linear dimension reductions as models in a high-dimensional data space</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2022</a>
   <ul class="collapse">
   <li><a href="#computer-vision-system-for-automated-medicinal-plant-identification" id="toc-computer-vision-system-for-automated-medicinal-plant-identification" class="nav-link" data-scroll-target="#computer-vision-system-for-automated-medicinal-plant-identification">Computer Vision System For Automated Medicinal Plant Identification</a></li>
+  </ul></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2021</a>
+  <ul class="collapse">
+  <li><a href="#computer-aided-interpretable-features-for-leaf-image-classification" id="toc-computer-aided-interpretable-features-for-leaf-image-classification" class="nav-link" data-scroll-target="#computer-aided-interpretable-features-for-leaf-image-classification">Computer-aided Interpretable Features for Leaf Image Classification</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -177,11 +183,25 @@ ul.task-list li input[type="checkbox"] {
 
 
 <section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section">2021</h2>
+<h2 class="anchored" data-anchor-id="section">2025</h2>
+</section>
+<section id="visualise-non-linear-dimension-reductions-as-models-in-a-high-dimensional-data-space" class="level2">
+<h2 class="anchored" data-anchor-id="visualise-non-linear-dimension-reductions-as-models-in-a-high-dimensional-data-space">Visualise non-linear dimension reductions as models in a high-dimensional data space</h2>
+<p>Non-linear dimension reduction (NLDR) techniques such as t-SNE and UMAP provide a low-dimensional representation of high-dimensional data by applying a non-linear transformation. NLDR often exaggerates random patterns, sometimes due to the samples observed. However, NLDR views have an important role in data analysis because, if done well, they provide a concise visual (and conceptual) summary of high-dimensional distributions. The NLDR methods and (hyper)parameter choices can create wildly different representations, making it difficult to decide which is best, or whether any or all are accurate or misleading. To help assess the NLDR and decide on which, if any, is the most reasonable representation of the structure(s) present in the high-dimensional data, we have developed an algorithm to show the 2D NLDR model in the high-dimensional space, viewed with a tour. The algorithm hexagonally bins the data in the NLDR view and triangulates the bin centroids to create the wireframe. The high-dimensional representation is generated by mapping the centroids to high-dimensional points by averaging the values of observations belonging to each bin. The corresponding lines connected in the NLDR view also connect the corresponding high-dimensional points. The resulting model representation is overlaid on the high-dimensional data and viewed using a tour, a movie of linear projections. From this, one can see if the model fits everywhere, or better in some subspaces, or completely mismatches the data. Also, we can see how different methods may have similar summaries or quirks. The process is what Wickham et al.&nbsp;(2015) coined as viewing the “model in the data space,” and the NLDR view would be considered viewing the “data in the (NLDR) model space”. This work will interest analysts in understanding the complexity of high-dimensional data, especially in bioinformatics and ecology, where NLDR is prevalent. The algorithm is available via the R package <code>quollr</code>.</p>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">2022</h2>
 <section id="computer-vision-system-for-automated-medicinal-plant-identification" class="level3">
 <h3 class="anchored" data-anchor-id="computer-vision-system-for-automated-medicinal-plant-identification">Computer Vision System For Automated Medicinal Plant Identification</h3>
 <p>Medicinal plants are usually identified by practitioners based on years of experience through sensory or olfactory senses. The other method of recognizing these plants involves laboratory-based testing, which requires trained skills, data interpretation which is costly and time-intensive. Automatic ways to identify medicinal plants are useful especially those that are lacking experience in herbal recognition. There is no standard mechanism in identification of medicinal plants. Therefore, we introduce an automatic approach based on statistical machine learning to identify medicinal plants. We refer to our medicinal plant classification algorithm as MEDIPI : MEDIicinal Plant Identitication. Our classification algorithm operates on the features extracted from the image leaves.</p>
 <p><a href="https://thiyanga.netlify.app/project/medlea/">website</a></p>
+</section>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2021</h2>
+<section id="computer-aided-interpretable-features-for-leaf-image-classification" class="level3">
+<h3 class="anchored" data-anchor-id="computer-aided-interpretable-features-for-leaf-image-classification">Computer-aided Interpretable Features for Leaf Image Classification</h3>
+<p>Plant species identification is time consuming, costly, and requires lots of efforts, and expertise knowledge. In recent, many researchers use deep learning methods to classify plants directly using plant images. While deep learning models have achieved a great success, the lack of interpretability limit their widespread application. To overcome this, we explore the use of interpretable, measurable and computer-aided features extracted from plant leaf images. Image processing is one of the most challenging, and crucial steps in feature-extraction. The purpose of image processing is to improve the leaf image by removing undesired distortion. The main image processing steps of our algorithm involves: i) Convert original image to RGB (Red-Green-Blue) image, ii) Gray scaling, iii) Gaussian smoothing, iv) Binary thresholding, v) Remove stalk, vi) Closing holes, and vii) Resize image. The next step after image processing is to extract features from plant leaf images. We introduced 52 computationally efficient features to classify plant species. These features are mainly classified into four groups as: i) shape-based features, ii) color-based features, iii) texture-based features, and iv) scagnostic features. Length, width, area, texture correlation, monotonicity and scagnostics are to name few of them. We explore the ability of features to discriminate the classes of interest under supervised learning and unsupervised learning settings. For that, supervised dimensionality reduction technique, Linear Discriminant Analysis (LDA), and unsupervised dimensionality reduction technique, Principal Component Analysis (PCA) are used to convert and visualize the images from digital-image space to feature space. The results show that the features are sufficient to discriminate the classes of interest under both supervised and unsupervised learning settings.</p>
 
 
 </section>
@@ -414,8 +434,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -526,7 +544,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
