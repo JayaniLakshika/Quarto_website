@@ -403,37 +403,37 @@ July 2024
 
 :::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-**airpurifyr**: Provide an interface to scrape air quality data from \url{https://openaq.org/}
+[**airpurifyr**](https://github.com/numbats/airpurifyr): Provide an interface to scrape air quality data from \url{https://openaq.org/}
 :::
 ::::
 
 :::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-**cardinalR**: Collection of data structures.
+[**cardinalR**](https://github.com/JayaniLakshika/cardinalR): Collection of data structures.
 :::
 ::::
 
 :::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-**quollr**: Tool to visualise how non-linear dimension reduction warps your data
+[**quollr**](https://github.com/JayaniLakshika/quollr): Tool to visualise how non-linear dimension reduction warps your data
 :::
 ::::
 
 :::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-**olympics**: Provide an interface to scrape Olympic data from \url{https://olympics.com/}
+[**olympics**](https://github.com/numbats/olympics): Provide an interface to scrape Olympic data from \url{https://olympics.com/}
 :::
 ::::
 
 :::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-**MedLEA**: Software which contains information about medicinal plants in Sri Lanka
+[**MedLEA**](https://github.com/SMART-Research/MedLEA): Software which contains information about medicinal plants in Sri Lanka
 :::
 ::::
 
 :::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-**DSjobtracker**: Software which contains what skills and qualifications are required for data science related jobs
+[**DSjobtracker**](https://github.com/thiyangt/DSjobtracker): Software which contains what skills and qualifications are required for data science related jobs
 :::
 ::::
 
@@ -1068,3 +1068,27 @@ University of Sri Jayewardenepura (USJ), Sri Lanka
 2017--2022
 :::
 :::::
+
+## {{<fa user-tie>}} References
+
+:::::: {.columns}
+::: {.column width="50%"}
+**Prof. Dianne Cook**  
+[dicook@monash.edu](mailto:dicook@monash.edu)  
+[https://www.dicook.org/](https://www.dicook.org/)  
+Professor  
+Department of Econometrics and Business Statistics  
+Faculty of Business and Economics  
+Monash University, Australia
+:::
+
+::: {.column width="50%"}
+**Dr. Thiyanga S. Talagala**  
+[ttalagala@sjp.ac.lk](mailto:ttalagala@sjp.ac.lk)  
+[https://thiyanga.netlify.com](https://thiyanga.netlify.com)  
+Senior Lecturer  
+Department of Statistics  
+Faculty of Applied Sciences  
+University of Sri Jayewardenepura, Sri Lanka
+:::
+::::::
