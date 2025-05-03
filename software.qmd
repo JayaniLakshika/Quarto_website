@@ -45,7 +45,8 @@ cran_downloads <- function(x) {
 
 packages <- c(    
   find_cran_packages("Jayani P.G. Lakshika"),
-  find_cran_packages("Jayani P. G.")
+  find_cran_packages("Jayani P. G."),
+  find_cran_packages("Jayani P. Gamage")
 )
 
 pkg_data <- pkgmeta:::get_meta_cran(packages, 
