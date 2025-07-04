@@ -25,7 +25,7 @@
     "href": "Blogs.html",
     "title": "Posts",
     "section": "",
-    "text": "Discover the path to higher studies\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nJun 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nmap() in R\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nsweep() in R\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Discover the path to higher studies\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nJun 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nmap() in R\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nsweep() in R\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contacts.html",
@@ -81,7 +81,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "title\nyear\njournal\n\n\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nNational Institute of Fundamental Studies\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nStatistical Society of Slovenia\n\n\nComputer-aided Interpretable Features for Leaf Image Classification\n2021\nArXiv"
+    "text": "title\nyear\njournal\n\n\n\n\nStop Lying to Me: New Visual Tools to Choose the Most Honest Nonlinear Dimension Reduction\n2025\nArXiv\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nNational Institute of Fundamental Studies\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nStatistical Society of Slovenia\n\n\nComputer-aided Interpretable Features for Leaf Image Classification\n2021\nArXiv"
   },
   {
     "objectID": "talks.html",
@@ -347,7 +347,7 @@
     "href": "Materials.html",
     "title": "Teaching materials",
     "section": "",
-    "text": "ETC3250: Introduction to machine learning\n\n\n\n\n\n\nMaterials\n\n\n\n\n\n\n\n\n\nFeb 28, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "ETC3250: Introduction to machine learning\n\n\n\nMaterials\n\n\n\n\n\n\n\n\n\nFeb 28, 2023\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching.html",
@@ -564,7 +564,7 @@
     "href": "cv/index.html#publications",
     "title": "Curriculum Vitae",
     "section": " Publications",
-    "text": "Publications\n\nPapers\nLakshika, J. P., & Talagala, T. S. (2021). Computer-aided Interpretable Features for Leaf Image Classification. arXiv preprint arXiv:2106.08077\n\n\nConference proceedings\n\n\nYoung Scientists’ Conference on Multidisciplinary Research (YCMR) abstract publication (ISSN 2815-0260)\n\n\nOctober 2021\n\n\n\n\n\\(17^{th}\\) applied science research poster and abstract publication (Page 74)\n\n\nSeptember 2021"
+    "text": "Publications\n\nPapers\nGamage, J. P., Cook, D., Harrison, P., & Lydeamore, M. (2025). Stop Lying to Me: New Visual Tools to Choose the Most Honest Nonlinear Dimension Reduction. arXiv preprint arXiv:2506.22051\nLakshika, J. P., & Talagala, T. S. (2021). Computer-aided Interpretable Features for Leaf Image Classification. arXiv preprint arXiv:2106.08077\n\n\nConference proceedings\n\n\nYoung Scientists’ Conference on Multidisciplinary Research (YCMR) abstract publication (ISSN 2815-0260)\n\n\nOctober 2021\n\n\n\n\n\\(17^{th}\\) applied science research poster and abstract publication (Page 74)\n\n\nSeptember 2021"
   },
   {
     "objectID": "cv/index.html#funding",
