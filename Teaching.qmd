@@ -2,6 +2,18 @@
 title: "Teaching"
 ---
 
+# ETC2420 - Statistical thinking
+
+[Handbook entry](https://handbook.monash.edu/2025/units/ETC2420?year=2025)
+
+-   Semester 2 2025
+
+# ETC5242 - Statistical thinking
+
+[Handbook entry](https://handbook.monash.edu/2025/units/ETC5242?year=2025)
+
+-   Semester 2 2025
+
 # ETC5510 - Introduction to data analysis
 
 [Handbook entry](https://handbook.monash.edu/2024/units/ETC5510?year=2024)
