@@ -2,6 +2,14 @@
 title: "Talks"
 ---
 
+## Joint Statistical Meetings (JSM), 2025 (Nashville, USA)
+
+I attended my first JSM conference and had the opportunity to present both a lightning talk and an electronic poster (E-poster). My presentation, titled **Visualise your fitted non-linear dimension reduction model in the high-dimensional data space**, focused on enhancing the interpretability of NLDR methods through visual diagnostics. It was a rewarding experience to share my work and engage with the wider statistical community.
+
+![](figures/jsm2025.png){width="500" height="400" fig-align="center"}
+
+[Presentation](https://jayani-jsm2025.netlify.app/)
+
 ## UNO Data Science Club, 2024 (Omaha, USA)
 
 During my visit to the USA, I had the privilege of presenting our latest development of the high-d-vis algorithm on **November 22, 2024**, at the Data Science Club, University of Nebraska, Omaha (UNO).
@@ -22,20 +30,22 @@ I am deeply grateful to Prof. Heike Hofmann and Yuhang (Tom) Lin for inviting me
 
 ## useR! 2024 (Salzburg, Austria)
 
-My first international conference.
+This was my first international conference, where I had the opportunity to give a talk on my R package, quollr. Presenting at useR! 2024 was an exciting experience, allowing me to share my work with the global R community and receive valuable feedback from fellow developers and users.
 
 :::::: columns
 ::: {.column width="45%"}
-![](figures/useR_flyer.jpeg){width="350" height="225"}
+![](figures/useR_flyer.jpeg){width="350" height="200"}
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="50%"}
-![](figures/useR2024_presenting.JPG){width="300"}
+![](figures/useR2024_presenting.JPG){width="300" height="200"}
 :::
 ::::::
+
+[Presentation](https://jayani-user2024.netlify.app/)
 
 ## Faculty of BusEco Three Minute Thesis (3MT) competition 2024
 
@@ -63,7 +73,7 @@ My *first session talk* was titled **With non-linear dimension reduction, when c
 
 I gave my *first invited talk* on **Viewing the model from non-linear dimension reduction in high-dimensional data space**.
 
-![](figures/iasc_talk.jpg){width="300" fig-align="center"}
+![](figures/iasc_talk.jpg){width="250" fig-align="center"}
 
 ## Higher studies webinar 2023
 
