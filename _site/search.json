@@ -88,7 +88,7 @@
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "I attended my first JSM conference and had the opportunity to present both a lightning talk and an electronic poster (E-poster). My presentation, titled Visualise your fitted non-linear dimension reduction model in the high-dimensional data space, focused on developing a method and software to visualise how NLDR warps the data. It was a rewarding experience to share my work and engage with the wider statistical community.\n\n\n\n\n\nPresentation"
+    "text": "At useR! 2025 (Duke University, Durham, North Carolina, USA), I presented Generating interesting high-dimensional data structures. High-dimensional datasets—where each observation is described by many features can contain intricate shapes such as nonlinear manifolds, clusters, and sparse patterns. Using mathematical functions and statistical distributions, we can create a wide range of structures, from spirals and donuts to complex curved surfaces. These synthetic datasets are invaluable for testing and improving dimensionality reduction, clustering, and visualisation methods. My talk will showcase techniques for generating such data and introduce the cardinalR package, which organises a rich collection of functions and examples.\n\n\n\n\n\nPresentation"
   },
   {
     "objectID": "talks.html#vx-tech-talk-2021",
@@ -696,7 +696,21 @@
     "objectID": "talks.html#joint-statistical-meetings-jsm-2025-nashville-usa",
     "href": "talks.html#joint-statistical-meetings-jsm-2025-nashville-usa",
     "title": "Talks",
+    "section": "Joint Statistical Meetings (JSM), 2025 (Nashville, USA)",
+    "text": "Joint Statistical Meetings (JSM), 2025 (Nashville, USA)\nI attended my first JSM conference and had the opportunity to present both a lightning talk and an electronic poster (E-poster). My presentation, titled Visualise your fitted non-linear dimension reduction model in the high-dimensional data space, focused on developing a method and software to visualise how NLDR warps the data. It was a rewarding experience to share my work and engage with the wider statistical community.\n\n\n\n\n\nPresentation"
+  },
+  {
+    "objectID": "talks.html#user-2025-duke-university-durham-north-carolina-usa",
+    "href": "talks.html#user-2025-duke-university-durham-north-carolina-usa",
+    "title": "Talks",
     "section": "",
-    "text": "I attended my first JSM conference and had the opportunity to present both a lightning talk and an electronic poster (E-poster). My presentation, titled Visualise your fitted non-linear dimension reduction model in the high-dimensional data space, focused on developing a method and software to visualise how NLDR warps the data. It was a rewarding experience to share my work and engage with the wider statistical community.\n\n\n\n\n\nPresentation"
+    "text": "Presentation"
+  },
+  {
+    "objectID": "talks.html#user-2025-north-carolina-usa",
+    "href": "talks.html#user-2025-north-carolina-usa",
+    "title": "Talks",
+    "section": "",
+    "text": "At useR! 2025 (Duke University, Durham, North Carolina, USA), I presented Generating interesting high-dimensional data structures. High-dimensional datasets—where each observation is described by many features can contain intricate shapes such as nonlinear manifolds, clusters, and sparse patterns. Using mathematical functions and statistical distributions, we can create a wide range of structures, from spirals and donuts to complex curved surfaces. These synthetic datasets are invaluable for testing and improving dimensionality reduction, clustering, and visualisation methods. My talk will showcase techniques for generating such data and introduce the cardinalR package, which organises a rich collection of functions and examples.\n\n\n\n\n\nPresentation"
   }
 ]

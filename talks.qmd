@@ -2,6 +2,14 @@
 title: "Talks"
 ---
 
+## useR! 2025 (North Carolina, USA)
+
+At useR! 2025 (Duke University, Durham, North Carolina, USA), I presented **Generating interesting high-dimensional data structures**. High-dimensional datasets—where each observation is described by many features can contain intricate shapes such as nonlinear manifolds, clusters, and sparse patterns. Using mathematical functions and statistical distributions, we can create a wide range of structures, from spirals and donuts to complex curved surfaces. These synthetic datasets are invaluable for testing and improving dimensionality reduction, clustering, and visualisation methods. My talk will showcase techniques for generating such data and introduce the `cardinalR` package, which organises a rich collection of functions and examples.
+
+![](figures/user2025.png){width="450" height="400" fig-align="center"}
+
+[Presentation](https://jayani-user2025.netlify.app/)
+
 ## Joint Statistical Meetings (JSM), 2025 (Nashville, USA)
 
 I attended my first JSM conference and had the opportunity to present both a lightning talk and an electronic poster (E-poster). My presentation, titled **Visualise your fitted non-linear dimension reduction model in the high-dimensional data space**, focused on developing a method and software to visualise how NLDR warps the data. It was a rewarding experience to share my work and engage with the wider statistical community.
@@ -30,7 +38,7 @@ I am deeply grateful to Prof. Heike Hofmann and Yuhang (Tom) Lin for inviting me
 
 ## useR! 2024 (Salzburg, Austria)
 
-This was my first international conference, where I had the opportunity to give a talk on my R package, quollr. Presenting at useR! 2024 was an exciting experience, allowing me to share my work with the global R community and receive valuable feedback from fellow developers and users.
+This was my first international conference, where I had the opportunity to give a talk on my R package, `quollr`. Presenting at useR! 2024 was an exciting experience, allowing me to share my work with the global R community and receive valuable feedback from fellow developers and users.
 
 :::::: columns
 ::: {.column width="45%"}
