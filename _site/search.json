@@ -25,7 +25,7 @@
     "href": "Blogs.html",
     "title": "Posts",
     "section": "",
-    "text": "Discover the path to higher studies\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nJun 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nmap() in R\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nsweep() in R\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\nNo matching items"
+    "text": "My R package collection — All in One Tile\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\nAug 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nDiscover the path to higher studies\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nJun 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nmap() in R\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nsweep() in R\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\nSep 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contacts.html",
@@ -712,5 +712,12 @@
     "title": "Talks",
     "section": "",
     "text": "At useR! 2025 (Duke University, Durham, North Carolina, USA), I presented Generating interesting high-dimensional data structures. High-dimensional datasets—where each observation is described by many features can contain intricate shapes such as nonlinear manifolds, clusters, and sparse patterns. Using mathematical functions and statistical distributions, we can create a wide range of structures, from spirals and donuts to complex curved surfaces. These synthetic datasets are invaluable for testing and improving dimensionality reduction, clustering, and visualisation methods. My talk will showcase techniques for generating such data and introduce the cardinalR package, which organises a rich collection of functions and examples.\n\n\n\n\n\nPresentation"
+  },
+  {
+    "objectID": "posts/blog_5/index.html",
+    "href": "posts/blog_5/index.html",
+    "title": "My R package collection — All in One Tile",
+    "section": "",
+    "text": "Over the past few years, I’ve been building a collection of R packages that span a range of topics from data processing to sports analytics, machine learning, and visualization tools.\nTo celebrate (and to keep them visually organized), I decided to use the hexsession package to bring all my package hex stickers together into a single, beautiful tile.\nHere’s the code I used (try it out with the interactivity by clicking on hexstickers):\n\nlibrary(hexsession)\n\nmake_tile(\n  packages = c(\n    \"airpurifyr\", \n    \"cardinalR\", \n    \"DSjobtracker\", \n    \"MedLEA\", \n    \"olympics\", \n    \"quollr\"\n  ),\n  local_images = c(\n    here::here(\"hexstickers/airpurifyr.png\"),\n    here::here(\"hexstickers/cardinalR.png\"),\n    here::here(\"hexstickers/DSjobtracker.png\"),\n    here::here(\"hexstickers/MedLEA.png\"),\n    here::here(\"hexstickers/matcharoo.png\"),\n    here::here(\"hexstickers/olympics.png\"),\n    here::here(\"hexstickers/quollr.png\")\n  ),\n  local_urls = c(\n    \"https://numbats.github.io/airpurifyr/\",\n    \"https://github.com/JayaniLakshika/cardinalR\",\n    \"https://github.com/thiyangt/DSjobtracker\",\n    \"https://github.com/SMART-Research/MedLEA\",\n    \"https://github.com/JayaniLakshika/Match-a-roo\",\n    \"https://github.com/numbats/olympics\",\n    \"https://github.com/JayaniLakshika/quollr\"\n  ),\n  dark_mode = TRUE\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n  \n  \n    created with hexsession\n  \n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n🧩 What’s happening here?\n\npackages: The names of all my R packages.\nlocal_images: The paths to my hex sticker images (stored locally).\nlocal_urls: Optional — you can link the stickers to package websites or GitHub repos.\n\nWhen you run this, you get a tiled display of all your package stickers, perfect for slides, blogs, or social media.\n💡 Why I Like This\nThis kind of visual summary is a quick personal portfolio. Whether you’re introducing yourself at a conference or sharing your work on social media, having all your package logos together is eye-catching and memorable."
   }
 ]

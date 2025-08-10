@@ -1,0 +1,66 @@
+---
+title: "My R package collection — All in One Tile"
+date: "2023-08-11"
+categories:
+  - Functions
+format: 
+  html:
+    code-fold: false
+    code-copy: true
+    highlight-style: github
+---
+
+![](myhextile.png){width="500" fig-align="center"}
+
+Over the past few years, I’ve been building a collection of R packages that span a range of topics from data processing to sports analytics, machine learning, and visualization tools.
+
+To celebrate (and to keep them visually organized), I decided to use the `hexsession` package to bring all my package hex stickers together into a single, beautiful tile.
+
+Here’s the code I used (try it out with the interactivity by clicking on hexstickers):
+
+```{r}
+library(hexsession)
+
+make_tile(
+  packages = c(
+    "airpurifyr", 
+    "cardinalR", 
+    "DSjobtracker", 
+    "MedLEA", 
+    "olympics", 
+    "quollr"
+  ),
+  local_images = c(
+    here::here("hexstickers/airpurifyr.png"),
+    here::here("hexstickers/cardinalR.png"),
+    here::here("hexstickers/DSjobtracker.png"),
+    here::here("hexstickers/MedLEA.png"),
+    here::here("hexstickers/matcharoo.png"),
+    here::here("hexstickers/olympics.png"),
+    here::here("hexstickers/quollr.png")
+  ),
+  local_urls = c(
+    "https://numbats.github.io/airpurifyr/",
+    "https://github.com/JayaniLakshika/cardinalR",
+    "https://github.com/thiyangt/DSjobtracker",
+    "https://github.com/SMART-Research/MedLEA",
+    "https://github.com/JayaniLakshika/Match-a-roo",
+    "https://github.com/numbats/olympics",
+    "https://github.com/JayaniLakshika/quollr"
+  ),
+  dark_mode = TRUE
+)
+
+```
+
+### 🧩 What’s happening here?
+
+* **`packages`**: The names of all my R packages.
+* **`local_images`**: The paths to my hex sticker images (stored locally).
+* **`local_urls`**: Optional — you can link the stickers to package websites or GitHub repos.
+
+When you run this, you get a **tiled display of all your package stickers**, perfect for slides, blogs, or social media.
+
+💡 Why I Like This
+
+This kind of visual summary is a quick personal portfolio. Whether you’re introducing yourself at a conference or sharing your work on social media, having all your package logos together is eye-catching and memorable.
