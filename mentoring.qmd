@@ -1,0 +1,10 @@
+---
+title: "Mentoring"
+---
+
+## Monash Innovation Guarantee-Postgraduate (MIG-P)
+
+In July 2025, I had the privilege of serving as a coach in the Monash Innovation Guarantee Postgraduate (MIG-P) program. Over three inspiring weeks, I worked with a diverse cohort of master’s students as they tackled real-world, industry-defined challenges. It was an incredible experience to support their journey from exploration and ideation through to prototyping and pitching—witnessing their creativity, resilience, and ability to thrive in ambiguity.
+
+![](figures/mig2025.png){width="500" height="600" fig-align="center"}
+

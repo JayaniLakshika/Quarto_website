@@ -726,5 +726,152 @@
     "title": "Curriculum Vitae",
     "section": " Workshops",
     "text": "Workshops\n\n\nReproducible Reporting and Research with Quarto\n\n\nSeptember 2025\n\n\n\n\nReproducible Reporting, Academic Papers, Presentations and Theses with Quarto\n\n\nJuly 2025"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "This hands-on workshop is designed for researchers, students, and academics who want to enhance the reproducibility and professionalism of their work. Participants will be introduced to Quarto, an open-source framework for creating dynamic, reproducible academic documents and presentations.\nDuring the workshop, you will learn how to:\n\nWrite research reports and journal articles using ready-to-use templates\nBuild polished, code-integrated slide decks for presentations\nManage bibliographies and citations\nEmbed code, figures, tables, and equations seamlessly\nControl outputs across multiple formats, including HTML and PDF\n\nBy the end of the session, participants will have the skills to confidently use Quarto for producing reproducible manuscripts and dynamic, professional presentations.\n\n\n\n\n\n👉 Learn more about the event"
+  },
+  {
+    "objectID": "workshops.html#reproducible-reporting-and-research-with-quarto",
+    "href": "workshops.html#reproducible-reporting-and-research-with-quarto",
+    "title": "Workshops",
+    "section": "",
+    "text": "This hands-on workshop is designed for researchers, students, and academics who want to enhance the reproducibility and professionalism of their work. Participants will be introduced to Quarto, an open-source framework for creating dynamic, reproducible academic documents and presentations.\nDuring the workshop, you will learn how to:\n\nWrite research reports and journal articles using ready-to-use templates\nBuild polished, code-integrated slide decks for presentations\nManage bibliographies and citations\nEmbed code, figures, tables, and equations seamlessly\nControl outputs across multiple formats, including HTML and PDF\n\nBy the end of the session, participants will have the skills to confidently use Quarto for producing reproducible manuscripts and dynamic, professional presentations.\n\n\n\n\n\n👉 Learn more about the event"
+  },
+  {
+    "objectID": "workshops.html#reproducible-reporting-academic-papers-presentations-and-theses-with-quarto",
+    "href": "workshops.html#reproducible-reporting-academic-papers-presentations-and-theses-with-quarto",
+    "title": "Workshops",
+    "section": "Reproducible Reporting, Academic Papers, Presentations and Theses with Quarto",
+    "text": "Reproducible Reporting, Academic Papers, Presentations and Theses with Quarto\nIn today’s research landscape, transparency, collaboration, and reproducibility are essential for building trust and making data-driven decisions. This tutorial introduces practical tools and workflows for creating high-quality, reproducible outputs—from analysis reports and academic papers to engaging presentations.\nUsing R and Quarto, participants will learn how to:\n\nStructure projects for reproducibility\nIntegrate code and narrative seamlessly\nProduce outputs that are visually polished and methodologically transparent\n\nThese skills not only support stronger, more reliable science but also make research outputs easier to update, share, and extend—maximizing their impact.\n👉 Learn more about the event"
+  },
+  {
+    "objectID": "mentoring.html",
+    "href": "mentoring.html",
+    "title": "Mentoring",
+    "section": "",
+    "text": "In July 2025, I had the privilege of serving as a coach in the Monash Innovation Guarantee Postgraduate (MIG-P) program. Over three inspiring weeks, I worked with a diverse cohort of master’s students as they tackled real-world, industry-defined challenges. It was an incredible experience to support their journey from exploration and ideation through to prototyping and pitching—witnessing their creativity, resilience, and ability to thrive in ambiguity."
+  },
+  {
+    "objectID": "mentoring.html#user-2025-north-carolina-usa",
+    "href": "mentoring.html#user-2025-north-carolina-usa",
+    "title": "Talks",
+    "section": "",
+    "text": "At useR! 2025 (Duke University, Durham, North Carolina, USA), I presented Generating interesting high-dimensional data structures. High-dimensional datasets—where each observation is described by many features can contain intricate shapes such as nonlinear manifolds, clusters, and sparse patterns. Using mathematical functions and statistical distributions, we can create a wide range of structures, from spirals and donuts to complex curved surfaces. These synthetic datasets are invaluable for testing and improving dimensionality reduction, clustering, and visualisation methods. My talk will showcase techniques for generating such data and introduce the cardinalR package, which organises a rich collection of functions and examples.\n\n\n\n\n\nPresentation"
+  },
+  {
+    "objectID": "mentoring.html#joint-statistical-meetings-jsm-2025-nashville-usa",
+    "href": "mentoring.html#joint-statistical-meetings-jsm-2025-nashville-usa",
+    "title": "Talks",
+    "section": "Joint Statistical Meetings (JSM), 2025 (Nashville, USA)",
+    "text": "Joint Statistical Meetings (JSM), 2025 (Nashville, USA)\nI attended my first JSM conference and had the opportunity to present both a lightning talk and an electronic poster (E-poster). My presentation, titled Visualise your fitted non-linear dimension reduction model in the high-dimensional data space, focused on developing a method and software to visualise how NLDR warps the data. It was a rewarding experience to share my work and engage with the wider statistical community.\n\n\n\n\n\nPresentation"
+  },
+  {
+    "objectID": "mentoring.html#uno-data-science-club-2024-omaha-usa",
+    "href": "mentoring.html#uno-data-science-club-2024-omaha-usa",
+    "title": "Talks",
+    "section": "UNO Data Science Club, 2024 (Omaha, USA)",
+    "text": "UNO Data Science Club, 2024 (Omaha, USA)\nDuring my visit to the USA, I had the privilege of presenting our latest development of the high-d-vis algorithm on November 22, 2024, at the Data Science Club, University of Nebraska, Omaha (UNO).\nI am sincerely grateful to A/Prof. Md Mahbubul Majumder and the Data Science Club for the kind invitation and the opportunity to share my work with such an engaging and enthusiastic audience. This experience allowed me to connect with fellow data science enthusiasts and exchange ideas on cutting-edge developments in the field.\nPresentation"
+  },
+  {
+    "objectID": "mentoring.html#graphics-group-presentation-2024-nebraska-usa",
+    "href": "mentoring.html#graphics-group-presentation-2024-nebraska-usa",
+    "title": "Talks",
+    "section": "Graphics Group Presentation, 2024 (Nebraska, USA)",
+    "text": "Graphics Group Presentation, 2024 (Nebraska, USA)\nDuring my visit to the USA, I had the privilege of presenting our latest development of the high-d-vis algorithm on November 13, 2024, at the Graphics Group seminar. You can find details about the session here.\nI am deeply grateful to Prof. Heike Hofmann and Yuhang (Tom) Lin for inviting me to share my work with the group. It was an excellent opportunity to engage in meaningful discussions and receive valuable feedback from a community passionate about data visualization and analytics.\nPresentation"
+  },
+  {
+    "objectID": "mentoring.html#user-2024-salzburg-austria",
+    "href": "mentoring.html#user-2024-salzburg-austria",
+    "title": "Talks",
+    "section": "useR! 2024 (Salzburg, Austria)",
+    "text": "useR! 2024 (Salzburg, Austria)\nThis was my first international conference, where I had the opportunity to give a talk on my R package, quollr. Presenting at useR! 2024 was an exciting experience, allowing me to share my work with the global R community and receive valuable feedback from fellow developers and users.\n\n\n\n\n\n\n\n\n\nPresentation"
+  },
+  {
+    "objectID": "mentoring.html#faculty-of-buseco-three-minute-thesis-3mt-competition-2024",
+    "href": "mentoring.html#faculty-of-buseco-three-minute-thesis-3mt-competition-2024",
+    "title": "Talks",
+    "section": "Faculty of BusEco Three Minute Thesis (3MT) competition 2024",
+    "text": "Faculty of BusEco Three Minute Thesis (3MT) competition 2024\nMy first 3-minute talk experience. As a higher degree research student, this was my opportunity to raise my profile, practice my presentation skills and communicate my research to the broader community in three minutes."
+  },
+  {
+    "objectID": "mentoring.html#victorian-branch-of-the-australian-and-new-zealand-industrial-and-applied-mathematics-society-vicanziam-2024-rmit-university-melbourne-australia",
+    "href": "mentoring.html#victorian-branch-of-the-australian-and-new-zealand-industrial-and-applied-mathematics-society-vicanziam-2024-rmit-university-melbourne-australia",
+    "title": "Talks",
+    "section": "Victorian branch of the Australian and New Zealand Industrial and Applied Mathematics Society (VicANZIAM) 2024 (RMIT university, Melbourne, Australia)",
+    "text": "Victorian branch of the Australian and New Zealand Industrial and Applied Mathematics Society (VicANZIAM) 2024 (RMIT university, Melbourne, Australia)\nThis is a one-day meeting of the Australian and New Zealand Industrial and Applied Mathematics Society. I presented a research poster with a lightning talk."
+  },
+  {
+    "objectID": "mentoring.html#bioinformatics-seminar-2024",
+    "href": "mentoring.html#bioinformatics-seminar-2024",
+    "title": "Talks",
+    "section": "Bioinformatics Seminar 2024",
+    "text": "Bioinformatics Seminar 2024"
+  },
+  {
+    "objectID": "mentoring.html#australian-statistical-conference-asc-2023-wollongon-australia",
+    "href": "mentoring.html#australian-statistical-conference-asc-2023-wollongon-australia",
+    "title": "Talks",
+    "section": "Australian Statistical Conference (ASC 2023) (Wollongon, Australia)",
+    "text": "Australian Statistical Conference (ASC 2023) (Wollongon, Australia)\nMy first session talk was titled With non-linear dimension reduction, when can you believe what you see?."
+  },
+  {
+    "objectID": "mentoring.html#th--conference-of-the-asian-regional-section-of-the-international-association-for-statistical-computing-iasc-ars-2023-wollongon-australia",
+    "href": "mentoring.html#th--conference-of-the-asian-regional-section-of-the-international-association-for-statistical-computing-iasc-ars-2023-wollongon-australia",
+    "title": "Talks",
+    "section": "\\(12^{th}\\) -Conference of the Asian Regional Section of the International Association for Statistical Computing (IASC-ARS 2023) (Wollongon, Australia)",
+    "text": "\\(12^{th}\\) -Conference of the Asian Regional Section of the International Association for Statistical Computing (IASC-ARS 2023) (Wollongon, Australia)\nI gave my first invited talk on Viewing the model from non-linear dimension reduction in high-dimensional data space."
+  },
+  {
+    "objectID": "mentoring.html#higher-studies-webinar-2023",
+    "href": "mentoring.html#higher-studies-webinar-2023",
+    "title": "Talks",
+    "section": "Higher studies webinar 2023",
+    "text": "Higher studies webinar 2023\nDiscover the path to higher studies with insights from our trusted alumni at top universities!"
+  },
+  {
+    "objectID": "mentoring.html#monash-numbats-talk-2022",
+    "href": "mentoring.html#monash-numbats-talk-2022",
+    "title": "Talks",
+    "section": "Monash NUMBATs Talk 2022",
+    "text": "Monash NUMBATs Talk 2022\nNUMBATs is the name for our research group, Non-Uniform Monash Business Analytics Team, in the Econometrics and Business Statistics Department of Monash University, Australia. As a first year PhD student, I got an opportunity talk about my undergraduate research project.\nGitHub"
+  },
+  {
+    "objectID": "mentoring.html#estadistica-2021",
+    "href": "mentoring.html#estadistica-2021",
+    "title": "Talks",
+    "section": "Estadistica 2021",
+    "text": "Estadistica 2021\nEstadistica is the annual Statistics Day organized by the Statistics Society of University of Sri Jayewardenepura, Sri Lanka. As an undergraduate researcher, I got an opportunity to open up my research work and experience with the community.\nGitHub"
+  },
+  {
+    "objectID": "mentoring.html#vx-tech-talk-2021",
+    "href": "mentoring.html#vx-tech-talk-2021",
+    "title": "Talks",
+    "section": "Vx Tech Talk 2021",
+    "text": "Vx Tech Talk 2021\nVizuamatix (Pvt) Ltd. is a software development company where I completed my research internship. I was able to share my experiences of undergraduate research with Vx team.\nGitHub"
+  },
+  {
+    "objectID": "mentoring.html#th-applied-statistics-conference-solvenia-september-2021-virtual",
+    "href": "mentoring.html#th-applied-statistics-conference-solvenia-september-2021-virtual",
+    "title": "Talks",
+    "section": "17th Applied Statistics Conference, Solvenia September 2021 (virtual)",
+    "text": "17th Applied Statistics Conference, Solvenia September 2021 (virtual)\n\nResearch poster and abstract publication, presentation with named Statistical machine learning for medicinal plant leaves classification."
+  },
+  {
+    "objectID": "mentoring.html#young-scientists-conference-on-multidisciplinary-research-yscmr-2021-virtual",
+    "href": "mentoring.html#young-scientists-conference-on-multidisciplinary-research-yscmr-2021-virtual",
+    "title": "Talks",
+    "section": "Young Scientists’ Conference on Multidisciplinary Research (YSCMR), 2021 (virtual)",
+    "text": "Young Scientists’ Conference on Multidisciplinary Research (YSCMR), 2021 (virtual)\n\nThis is organised by the Young Scientists’ Association of the National Institute of Fundamental Studies, Sri Lanka (NIFS-YSA) October 2021.\nSpeed-talk presentation on Statistical machine learning for medicinal plant leaves classification.\n\n\n\n\n\n\n\nOCTAVE competition 2021 (virtual)\nI was selected as one of the nine finalists and presented my undergraduate thesis in OCTAVE Advanced Analytics Symposium in 2021."
+  },
+  {
+    "objectID": "mentoring.html#monash-innovation-guarantee-postgraduate-mig-p",
+    "href": "mentoring.html#monash-innovation-guarantee-postgraduate-mig-p",
+    "title": "Mentoring",
+    "section": "",
+    "text": "In July 2025, I had the privilege of serving as a coach in the Monash Innovation Guarantee Postgraduate (MIG-P) program. Over three inspiring weeks, I worked with a diverse cohort of master’s students as they tackled real-world, industry-defined challenges. It was an incredible experience to support their journey from exploration and ideation through to prototyping and pitching—witnessing their creativity, resilience, and ability to thrive in ambiguity."
   }
 ]

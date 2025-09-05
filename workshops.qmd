@@ -1,0 +1,35 @@
+---
+title: "Workshops"
+---
+
+## Reproducible Reporting and Research with Quarto
+
+This hands-on workshop is designed for researchers, students, and academics who want to enhance the reproducibility and professionalism of their work. Participants will be introduced to **Quarto**, an open-source framework for creating dynamic, reproducible academic documents and presentations.
+
+During the workshop, you will learn how to:
+
+* Write research reports and journal articles using ready-to-use templates
+* Build polished, code-integrated slide decks for presentations
+* Manage bibliographies and citations
+* Embed code, figures, tables, and equations seamlessly
+* Control outputs across multiple formats, including HTML and PDF
+
+By the end of the session, participants will have the skills to confidently use Quarto for producing reproducible manuscripts and dynamic, professional presentations.
+
+![](figures/tutorial-quarto.jpg){width="400" height="500" fig-align="center"}
+
+👉 [Learn more about the event](https://wombat2025.numbat.space/program/tutorials/Q3BPJZ.html)
+
+## Reproducible Reporting, Academic Papers, Presentations and Theses with Quarto
+
+In today’s research landscape, **transparency, collaboration, and reproducibility** are essential for building trust and making data-driven decisions. This tutorial introduces practical tools and workflows for creating high-quality, reproducible outputs—from analysis reports and academic papers to engaging presentations.
+
+Using **R** and **Quarto**, participants will learn how to:
+
+* Structure projects for reproducibility
+* Integrate code and narrative seamlessly
+* Produce outputs that are visually polished and methodologically transparent
+
+These skills not only support stronger, more reliable science but also make research outputs easier to update, share, and extend—maximizing their impact.
+
+👉 [Learn more about the event](https://www.statsoc.org.au/event-6250010)

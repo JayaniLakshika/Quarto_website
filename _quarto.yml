@@ -21,10 +21,14 @@ website:
         text: Projects
       - href: talks.qmd
         text: Talks
+      - href: workshops.qmd
+        text: Worskshops
       - href: visiting.qmd
         text: Visiting
       - href: teaching.qmd
         text: Teaching
+      - href: mentoring.qmd
+        text: Mentoring
       - href: Blogs.qmd
         text: Blog
       - href: Materials.qmd
