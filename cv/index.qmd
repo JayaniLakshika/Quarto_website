@@ -425,6 +425,12 @@ July 2024
 
 :::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
+[**polarisR**](https://github.com/Divendra2006/polarisR): Shiny app to compare models generated with `quollr` in high dimensions using different tour methods, featuring interactivity.
+:::
+::::
+
+:::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
 [**olympics**](https://github.com/numbats/olympics): Provide an interface to scrape Olympic data from \url{https://olympics.com/}
 :::
 ::::

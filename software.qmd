@@ -87,7 +87,8 @@ colformat_image(pkg_data, j = "hexsticker", width = 1, height = 1)|>
 # Example GitHub repositories
 github <- c("JayaniLakshika/DSjobtracker", 
             "numbats/airpurifyr",
-            "numbats/olympics")
+            "numbats/olympics",
+            "Divendra2006/polarisR")
 
 # Get metadata
 cran_github <- pkgmeta::get_meta(

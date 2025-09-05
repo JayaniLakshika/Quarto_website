@@ -389,21 +389,21 @@
     "href": "software.html",
     "title": "R packages",
     "section": "",
-    "text": "packagereleasedlast_updateversiontitledownloadshexstickercardinalR2024-04-162024-04-160.1.1Collection of Data Structures2,492quollr2024-03-052024-03-050.1.1Visualising How Nonlinear Dimension Reduction Warps Your Data2,206MedLEA2021-04-102023-03-131.0.2Morphological and Structural Features of Medicinal Leaves10,494"
+    "text": "packagereleasedlast_updateversiontitledownloadshexstickercardinalR2024-04-162025-08-210.1.10Collection of Data Structures3,283quollr2024-03-052025-07-220.3.7Visualising How Nonlinear Dimension Reduction Warps Your Data2,993MedLEA2021-04-102023-03-131.0.2Morphological and Structural Features of Medicinal Leaves11,171"
   },
   {
     "objectID": "software.html#cran",
     "href": "software.html#cran",
     "title": "R packages",
     "section": "",
-    "text": "packagereleasedlast_updateversiontitledownloadshexstickercardinalR2024-04-162024-04-160.1.1Collection of Data Structures2,492quollr2024-03-052024-03-050.1.1Visualising How Nonlinear Dimension Reduction Warps Your Data2,206MedLEA2021-04-102023-03-131.0.2Morphological and Structural Features of Medicinal Leaves10,494"
+    "text": "packagereleasedlast_updateversiontitledownloadshexstickercardinalR2024-04-162025-08-210.1.10Collection of Data Structures3,283quollr2024-03-052025-07-220.3.7Visualising How Nonlinear Dimension Reduction Warps Your Data2,993MedLEA2021-04-102023-03-131.0.2Morphological and Structural Features of Medicinal Leaves11,171"
   },
   {
     "objectID": "software.html#github",
     "href": "software.html#github",
     "title": "R packages",
     "section": "GitHub",
-    "text": "GitHub\n\n\npackagedateversiontitlehexstickerDSjobtracker2020-12-150.1.1What Skills and Qualifications are Required for Data Science Related Jobs?airpurifyr2025-03-240.0.1A clean interface to the OpenAQ Air Quality Data APIolympics2023-02-280.0.1Olympic data from olympic.com"
+    "text": "GitHub\n\n\npackagedateversiontitlehexstickerDSjobtracker2020-12-150.1.1What Skills and Qualifications are Required for Data Science Related Jobs?airpurifyr2025-03-240.0.1A clean interface to the OpenAQ Air Quality Data APIolympics2023-02-280.0.1Olympic data from olympic.compolarisR2025-09-010.1.1Non-Linear Dimensionality Reduction Visualization Tool"
   },
   {
     "objectID": "pub_n.html",
@@ -620,7 +620,7 @@
     "href": "cv/index.html#r-packages",
     "title": "Curriculum Vitae",
     "section": " R packages",
-    "text": "R packages\n\n\nairpurifyr: Provide an interface to scrape air quality data from \n\n\n\n\ncardinalR: Collection of data structures.\n\n\n\n\nquollr: Tool to visualise how non-linear dimension reduction warps your data\n\n\n\n\nolympics: Provide an interface to scrape Olympic data from \n\n\n\n\nMedLEA: Software which contains information about medicinal plants in Sri Lanka\n\n\n\n\nDSjobtracker: Software which contains what skills and qualifications are required for data science related jobs"
+    "text": "R packages\n\n\nairpurifyr: Provide an interface to scrape air quality data from \n\n\n\n\ncardinalR: Collection of data structures.\n\n\n\n\nquollr: Tool to visualise how non-linear dimension reduction warps your data\n\n\n\n\npolarisR: Shiny app to compare models generated with quollr in high dimensions using different tour methods, featuring interactivity.\n\n\n\n\nolympics: Provide an interface to scrape Olympic data from \n\n\n\n\nMedLEA: Software which contains information about medicinal plants in Sri Lanka\n\n\n\n\nDSjobtracker: Software which contains what skills and qualifications are required for data science related jobs"
   },
   {
     "objectID": "cv/index.html#visiting",
