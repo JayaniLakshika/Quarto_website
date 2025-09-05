@@ -27,7 +27,7 @@ Now you have universities and your research interests. Then, you can visit the u
 
 | Country | University | Department | Supervisor | Research interests | email address | IELTS or any of English test requirements | Time difference |
 |---------|---------|---------|---------|---------|---------|---------|---------|
-|         |            |            |            |                    |               |                                           |                 |
+|  |  |  |  |  |  |  |  |
 
 This information is beneficial when you are writing to supervisors. You don't need to go back and forth to find them again.
 

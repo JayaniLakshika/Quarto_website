@@ -97,7 +97,7 @@ Thesis title: Interactive and Dynamic Graphics for Studying Non-linear Dimension
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-July 2022 ---
+July 2022 --- January 2026
 :::
 :::::
 
@@ -447,6 +447,26 @@ July 2024
 
 ::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
+\[ETC5242\] **Statistical thinking**
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2025
+:::
+:::::
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+\[ETC2420\] **Statistical thinking**
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2025
+:::
+:::::
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
 \[ETC5510\] **Introduction to data analysis**
 :::
 
@@ -625,6 +645,28 @@ July 2024
 :::
 :::::
 
+## {{<fa chalkboard>}} Workshops
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+[**Reproducible Reporting and Research with Quarto**](https://wombat2025.numbat.space/program/tutorials/Q3BPJZ.html)
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+September 2025
+:::
+:::::
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+[**Reproducible Reporting, Academic Papers, Presentations and Theses with Quarto**](https://www.statsoc.org.au/event-6250010)
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+July 2025
+:::
+:::::
+
 ## {{<fa award>}} Awards
 
 ::::: {.cols data-latex=""}
@@ -698,11 +740,11 @@ Team member of the winners at inter university quiz competition organized by the
 ::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
 **NUMBATs seminar organizer**\
-Monash University, Austria
+Monash University, Australia
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-Semester 1, 2025
+2025
 :::
 :::::
 
