@@ -741,7 +741,19 @@ Team member of the winners at inter university quiz competition organized by the
 :::
 :::::
 
+
 ## {{<fa comments>}} Academic Service & Community Engagment
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**Monash Innovation Guarantee-Postgraduate (MIG-P)**--- Mentor\
+Monash University, Australia
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+June 2025
+:::
+:::::
 
 ::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
