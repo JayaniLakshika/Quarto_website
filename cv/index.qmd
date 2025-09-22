@@ -1137,7 +1137,7 @@ University of Sri Jayewardenepura (USJ), Sri Lanka
 
 :::::: {.columns}
 ::: {.column width="50%"}
-**Prof. Dianne Cook**  
+**Prof Dianne Cook**  
 [dicook@monash.edu](mailto:dicook@monash.edu)  
 [https://www.dicook.org/](https://www.dicook.org/)  
 Professor  
@@ -1147,7 +1147,17 @@ Monash University, Australia
 :::
 
 ::: {.column width="50%"}
-**Dr. Thiyanga S. Talagala**  
+**Dr Michael Lydeamore**  
+[michael.lydeamore@monash.edu](mailto:michael.lydeamore@monash.edu)  
+[https://www.michaellydeamore.com/](https://www.michaellydeamore.com/)  
+Senior Lecturer  
+Department of Econometrics and Business Statistics  
+Faculty of Business and Economics  
+Monash University, Australia
+:::
+
+::: {.column width="50%"}
+**Dr Thiyanga S. Talagala**  
 [ttalagala@sjp.ac.lk](mailto:ttalagala@sjp.ac.lk)  
 [https://thiyanga.netlify.com](https://thiyanga.netlify.com)  
 Senior Lecturer  
