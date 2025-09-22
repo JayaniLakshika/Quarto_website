@@ -93,7 +93,7 @@ LinkedIn: https://www.linkedin.com/in/jayani-lakshika-9a0297162
 ::: {.col data-latex="{0.85\\textwidth}"}
 **PhD candidate - Statistics**\
 Faculty of Business & Economics, Monash University, Australia\
-Thesis title: Interactive and Dynamic Graphics for Studying Non-linear Dimension Reduction Models of High-dimensional Data
+Thesis title: New Interactive Visual Tools and Statistical Methodology for Selecting and Evaluating Non-linear Dimension Reduction Layouts of High-dimensional Data
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
