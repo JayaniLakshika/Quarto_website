@@ -1104,7 +1104,17 @@ University of Sri Jayewardenepura (USJ), Sri Lanka
 
 ::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-**Statistical Society of Australias (SSA)**\
+**American Statistical Association (ASA)**\
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2025--
+:::
+:::::
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**Statistical Society of Australia (SSA)**\
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
