@@ -324,7 +324,8 @@ cat(paste0(formatted), sep = "\n")
 presentations <- tribble(
     ~title, ~extra, ~event, ~year,
     "Visualise your fitted non-linear reduction model in high-dimensional space", NA, "Australian Statistical Conference (ASC 2025) (Perth, Western Australia)", 2025,
-    "Visualise your fitted non-linear reduction model in high-dimensional space", NA, "Biometrics in the Bush Capital (BIBC2025) (Canberra, Australia)", 2025,    
+    "Visualise your fitted non-linear reduction model in high-dimensional space", NA, "Biometrics in the Bush Capital (BIBC2025) (Canberra, Australia)", 2025,
+    "Visualise your fitted non-linear reduction model in high-dimensional space", NA, "Monash EBS PhD Contest in International Day of Women in Statistics and Data Science (IDWSDS) (online)", 2025,
     "Visualise your fitted non-linear reduction model in high-dimensional space", NA, "2025 Joint Statistical Meetings, Nashville, Tennessee, USA", 2025,
     "Generating interesting high-dimensional data structures", NA, "UseR! 2025, Penn Pavilion, Duke University, Durham, North Carolina, USA", 2025, 
     "Visualise your fitted non-linear reduction model in high-dimensional space", NA, "Data Science Club, University of Nebraska, Omaha (UNO), USA", 2024, 
