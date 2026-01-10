@@ -198,6 +198,10 @@ January --- June 2020
 
 ### Papers
 
+Gamage, J. P., Cook, D., Harrison, P., Lydeamore, M., & Talagala, T. S. (2025). cardinalR: Generating Interesting High-Dimensional Data Structures. arXiv preprint [arXiv:2512.18172](https://arxiv.org/abs/2512.18172). (**Submit, The R Journal**)
+
+Gamage, J. P., Cook, D., Harrison, P., Lydeamore, M., & Talagala, T. S. (2025). quollr: An R Package for Visualizing 2-D Models from Nonlinear Dimension Reductions in High-Dimensional Space. arXiv preprint [arXiv:2512.18166](https://arxiv.org/abs/2512.18166). (**Submit, The R Journal**)
+
 Gamage, J. P., Cook, D., Harrison, P., & Lydeamore, M. (2025). Stop Lying to Me: New Visual Tools to Choose the Most Honest Nonlinear Dimension Reduction. arXiv preprint [arXiv:2506.22051](https://arxiv.org/abs/2506.22051) (**Revise & Resubmit, JCGS**)
 
 Lakshika, J. P., & Talagala, T. S. (2021). Computer-aided Interpretable Features for Leaf Image Classification. arXiv preprint [arXiv:2106.08077](https://arxiv.org/abs/2106.08077)
