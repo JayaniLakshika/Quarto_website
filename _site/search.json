@@ -710,8 +710,8 @@
     "objectID": "talks.html#user-2025-north-carolina-usa",
     "href": "talks.html#user-2025-north-carolina-usa",
     "title": "Talks",
-    "section": "",
-    "text": "At useR! 2025 (Duke University, Durham, North Carolina, USA), I presented Generating interesting high-dimensional data structures. High-dimensional datasets—where each observation is described by many features can contain intricate shapes such as nonlinear manifolds, clusters, and sparse patterns. Using mathematical functions and statistical distributions, we can create a wide range of structures, from spirals and donuts to complex curved surfaces. These synthetic datasets are invaluable for testing and improving dimensionality reduction, clustering, and visualisation methods. My talk will showcase techniques for generating such data and introduce the cardinalR package, which organises a rich collection of functions and examples.\n\n\n\n\n\nPresentation"
+    "section": "useR! 2025 (North Carolina, USA)",
+    "text": "useR! 2025 (North Carolina, USA)\nAt useR! 2025 (Duke University, Durham, North Carolina, USA), I presented Generating interesting high-dimensional data structures. High-dimensional datasets—where each observation is described by many features can contain intricate shapes such as nonlinear manifolds, clusters, and sparse patterns. Using mathematical functions and statistical distributions, we can create a wide range of structures, from spirals and donuts to complex curved surfaces. These synthetic datasets are invaluable for testing and improving dimensionality reduction, clustering, and visualisation methods. My talk will showcase techniques for generating such data and introduce the cardinalR package, which organises a rich collection of functions and examples.\n\n\n\n\n\nPresentation"
   },
   {
     "objectID": "posts/blog_5/index.html",
@@ -873,5 +873,12 @@
     "title": "Mentoring",
     "section": "",
     "text": "In July 2025, I had the privilege of serving as a coach in the Monash Innovation Guarantee Postgraduate (MIG-P) program. Over three inspiring weeks, I worked with a diverse cohort of master’s students as they tackled real-world, industry-defined challenges. It was an incredible experience to support their journey from exploration and ideation through to prototyping and pitching—witnessing their creativity, resilience, and ability to thrive in ambiguity."
+  },
+  {
+    "objectID": "talks.html#biometrics-in-the-bush-capital-bibc2025-canberra-australia",
+    "href": "talks.html#biometrics-in-the-bush-capital-bibc2025-canberra-australia",
+    "title": "Talks",
+    "section": "Biometrics in the Bush Capital (BIBC2025) (Canberra, Australia)",
+    "text": "Biometrics in the Bush Capital (BIBC2025) (Canberra, Australia)"
   }
 ]

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,18 +32,19 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-11f3425d579001b38d71e5003ccd9107.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-150dc72a5dc17d78eb6e796c957c258c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-11f3425d579001b38d71e5003ccd9107.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-298776bb3e46960ccea9af2cb903c7ac.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-577ae82e9bf15f44ad7f08bf28757f74.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-298776bb3e46960ccea9af2cb903c7ac.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -86,7 +87,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -274,6 +275,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Jayani Lakshika</span>
     </a>
@@ -349,7 +352,9 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#user-2025-north-carolina-usa" id="toc-user-2025-north-carolina-usa" class="nav-link active" data-scroll-target="#user-2025-north-carolina-usa">useR! 2025 (North Carolina, USA)</a></li>
+  <li><a href="#australian-statistical-conference-asc-2025-perth-western-australia" id="toc-australian-statistical-conference-asc-2025-perth-western-australia" class="nav-link active" data-scroll-target="#australian-statistical-conference-asc-2025-perth-western-australia">Australian Statistical Conference (ASC 2025) (Perth, Western Australia)</a></li>
+  <li><a href="#biometrics-in-the-bush-capital-bibc2025-canberra-australia" id="toc-biometrics-in-the-bush-capital-bibc2025-canberra-australia" class="nav-link" data-scroll-target="#biometrics-in-the-bush-capital-bibc2025-canberra-australia">Biometrics in the Bush Capital (BIBC2025) (Canberra, Australia)</a></li>
+  <li><a href="#user-2025-north-carolina-usa" id="toc-user-2025-north-carolina-usa" class="nav-link" data-scroll-target="#user-2025-north-carolina-usa">useR! 2025 (North Carolina, USA)</a></li>
   <li><a href="#joint-statistical-meetings-jsm-2025-nashville-usa" id="toc-joint-statistical-meetings-jsm-2025-nashville-usa" class="nav-link" data-scroll-target="#joint-statistical-meetings-jsm-2025-nashville-usa">Joint Statistical Meetings (JSM), 2025 (Nashville, USA)</a></li>
   <li><a href="#uno-data-science-club-2024-omaha-usa" id="toc-uno-data-science-club-2024-omaha-usa" class="nav-link" data-scroll-target="#uno-data-science-club-2024-omaha-usa">UNO Data Science Club, 2024 (Omaha, USA)</a></li>
   <li><a href="#graphics-group-presentation-2024-nebraska-usa" id="toc-graphics-group-presentation-2024-nebraska-usa" class="nav-link" data-scroll-target="#graphics-group-presentation-2024-nebraska-usa">Graphics Group Presentation, 2024 (Nebraska, USA)</a></li>
@@ -394,6 +399,22 @@ window.Quarto = {
 </header>
 
 
+<section id="australian-statistical-conference-asc-2025-perth-western-australia" class="level2">
+<h2 class="anchored" data-anchor-id="australian-statistical-conference-asc-2025-perth-western-australia">Australian Statistical Conference (ASC 2025) (Perth, Western Australia)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/asc2025.jpeg" class="quarto-figure quarto-figure-center figure-img" width="280" height="400"></p>
+</figure>
+</div>
+</section>
+<section id="biometrics-in-the-bush-capital-bibc2025-canberra-australia" class="level2">
+<h2 class="anchored" data-anchor-id="biometrics-in-the-bush-capital-bibc2025-canberra-australia">Biometrics in the Bush Capital (BIBC2025) (Canberra, Australia)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/bibc2025.jpeg" class="quarto-figure quarto-figure-center figure-img" width="250" height="350"></p>
+</figure>
+</div>
+</section>
 <section id="user-2025-north-carolina-usa" class="level2">
 <h2 class="anchored" data-anchor-id="user-2025-north-carolina-usa">useR! 2025 (North Carolina, USA)</h2>
 <p>At useR! 2025 (Duke University, Durham, North Carolina, USA), I presented <strong>Generating interesting high-dimensional data structures</strong>. High-dimensional datasets—where each observation is described by many features can contain intricate shapes such as nonlinear manifolds, clusters, and sparse patterns. Using mathematical functions and statistical distributions, we can create a wide range of structures, from spirals and donuts to complex curved surfaces. These synthetic datasets are invaluable for testing and improving dimensionality reduction, clustering, and visualisation methods. My talk will showcase techniques for generating such data and introduce the <code>cardinalR</code> package, which organises a rich collection of functions and examples.</p>
@@ -613,13 +634,14 @@ window.Quarto = {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
