@@ -70,11 +70,12 @@ pkg_data <- pkg_data |>
   #mutate(pkglink = glue("[{package}]({url})")) |> 
   select(package, released, last_update, version, title, #authors, 
          downloads, hexsticker, url) |>
+  rename(c("Package" = "package", "Released" = "released", "Last update" = "last_update", "Version" = "version", "Title" = "title", "Downloads" = "downloads", "Hexsticker" = "hexsticker", "URL" = "url")) |>
   flextable(cwidth = 2) 
 
-colformat_image(pkg_data, j = "hexsticker", width = 1, height = 1)|>
-  compose(j = 1, value = as_paragraph( hyperlink_text(x = package, url = url, props = fp_text(color = "#376C98")))) |>
-    delete_columns(j = c("url")) 
+colformat_image(pkg_data, j = "Hexsticker", width = 1, height = 1)|>
+  compose(j = 1, value = as_paragraph( hyperlink_text(x = Package, url = URL, props = fp_text(color = "#376C98")))) |>
+    delete_columns(j = c("URL")) 
 
 ```
 
@@ -99,21 +100,22 @@ cran_github <- pkgmeta::get_meta(
   as_tibble() |>
   mutate(hexsticker = paste0("hexstickers/", package, ".png")) |>
   filter(is.na(downloads)) |>
-  select(package, date, version, title, hexsticker, url)
+  select(package, date, version, title, hexsticker, url) |>
+  rename(c("Package" = "package", "Date" = "date", "Version" = "version", "Title" = "title", "Hexsticker" = "hexsticker", "URL" = "url"))
 
 # Create a flextable
 ft <- flextable(cran_github, cwidth = 2)
 
 # Apply clickable hyperlinks to package column
-ft <- compose(ft, j = "package", value = as_paragraph(
-  hyperlink_text(x = cran_github$package, url = cran_github$url, props = fp_text(color = "#376C98"))
+ft <- compose(ft, j = "Package", value = as_paragraph(
+  hyperlink_text(x = cran_github$Package, url = cran_github$URL, props = fp_text(color = "#376C98"))
 ))
 
 # Remove the url column if not needed
-ft <- delete_columns(ft, j = "url")
+ft <- delete_columns(ft, j = "URL")
 
 # Format hexsticker column to display images
-ft <- colformat_image(ft, j = "hexsticker", width = 1, height = 1)
+ft <- colformat_image(ft, j = "Hexsticker", width = 1, height = 1)
 
 # Print the flextable
 ft

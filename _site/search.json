@@ -81,7 +81,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "title\nyear\njournal\n\n\n\n\nStop Lying to Me: New Visual Tools to Choose the Most Honest Nonlinear Dimension Reduction\n2025\nArXiv\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nNational Institute of Fundamental Studies\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nStatistical Society of Slovenia\n\n\nComputer-aided Interpretable Features for Leaf Image Classification\n2021\nArXiv"
+    "text": "Title\nYear\nJournal\n\n\n\n\nStop Lying to Me: New Visual Tools to Choose the Most Honest Nonlinear Dimension Reduction\n2025\nArXiv\n\n\ncardinalR: Generating Interesting High-Dimensional Data Structures\n2025\nArXiv\n\n\nquollr: An R Package for Visualizing 2-D Models from Nonlinear Dimension Reductions in High-Dimensional Space\n2025\nArXiv\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nNational Institute of Fundamental Studies\n\n\nStatistical machine learning for medicinal plant leaves classification\n2021\nStatistical Society of Slovenia\n\n\nComputer-aided Interpretable Features for Leaf Image Classification\n2021\nArXiv"
   },
   {
     "objectID": "talks.html",
@@ -389,21 +389,21 @@
     "href": "software.html",
     "title": "R packages",
     "section": "",
-    "text": "packagereleasedlast_updateversiontitledownloadshexstickercardinalR2024-04-162025-08-210.1.10Collection of Data Structures3,283quollr2024-03-052025-07-220.3.7Visualising How Nonlinear Dimension Reduction Warps Your Data2,993MedLEA2021-04-102023-03-131.0.2Morphological and Structural Features of Medicinal Leaves11,171"
+    "text": "PackageReleasedLast updateVersionTitleDownloadsHexstickercardinalR2024-04-162025-12-181.0.6Collection of Data Structures4,433quollr2024-03-052025-12-181.0.6Visualising How Nonlinear Dimension Reduction Warps Your Data5,197polarisR2025-09-152025-09-230.1.4Non-Linear Dimensionality Reduction Visualization Tool906MedLEA2021-04-102023-03-131.0.2Morphological and Structural Features of Medicinal Leaves12,034"
   },
   {
     "objectID": "software.html#cran",
     "href": "software.html#cran",
     "title": "R packages",
     "section": "",
-    "text": "packagereleasedlast_updateversiontitledownloadshexstickercardinalR2024-04-162025-08-210.1.10Collection of Data Structures3,283quollr2024-03-052025-07-220.3.7Visualising How Nonlinear Dimension Reduction Warps Your Data2,993MedLEA2021-04-102023-03-131.0.2Morphological and Structural Features of Medicinal Leaves11,171"
+    "text": "PackageReleasedLast updateVersionTitleDownloadsHexstickercardinalR2024-04-162025-12-181.0.6Collection of Data Structures4,433quollr2024-03-052025-12-181.0.6Visualising How Nonlinear Dimension Reduction Warps Your Data5,197polarisR2025-09-152025-09-230.1.4Non-Linear Dimensionality Reduction Visualization Tool906MedLEA2021-04-102023-03-131.0.2Morphological and Structural Features of Medicinal Leaves12,034"
   },
   {
     "objectID": "software.html#github",
     "href": "software.html#github",
     "title": "R packages",
     "section": "GitHub",
-    "text": "GitHub\n\n\npackagedateversiontitlehexstickerDSjobtracker2020-12-150.1.1What Skills and Qualifications are Required for Data Science Related Jobs?airpurifyr2025-03-240.0.1A clean interface to the OpenAQ Air Quality Data APIolympics2023-02-280.0.1Olympic data from olympic.compolarisR2025-09-010.1.1Non-Linear Dimensionality Reduction Visualization Tool"
+    "text": "GitHub\n\n\nPackageDateVersionTitleHexstickerDSjobtracker2020-12-150.1.1What Skills and Qualifications are Required for Data Science Related Jobs?airpurifyr2025-03-240.0.1A clean interface to the OpenAQ Air Quality Data APIolympics2023-02-280.0.1Olympic data from olympic.com"
   },
   {
     "objectID": "pub_n.html",
@@ -550,7 +550,7 @@
     "href": "cv/index.html#appointments-held",
     "title": "Curriculum Vitae",
     "section": " Appointments Held",
-    "text": "Appointments Held\n\n\nTeaching Associate\nDepartment of Econometrics and Business Statistics, Monash University, Australia\n\n\nJanuary 2023 —\n\n\n\n\nTeaching Assistant (Temporary Instructor)\nUniversity of Sri Jayewardenepura (USJ), Sri Lanka\n\n\nJuly 2021 — July 2022\n\n\n\n\nAssociate Data Analyst\nVizuamatix (Pvt) Ltd, Sri Lanka\n\n\nJanuary — November 2021\n\n\n\n\nTrainee Data Analyst\nVizuamatix (Pvt) Ltd, Sri Lanka\n\n\nJuly—December 2020\n\n\n\n\nResearch Internship\nVizuamatix (Pvt) Ltd, Sri Lanka\nIndustrial training as a fulfillment of the degree B.Sc. (Honours) in Statistics\n\n\nJanuary — June 2020"
+    "text": "Appointments Held\n\n\nTeaching Associate\nDepartment of Econometrics and Business Statistics, Monash University, Australia\n\n\nJanuary 2023 —\n\n\n\n\nTeaching Assistant (Temporary Instructor)\nUniversity of Sri Jayewardenepura (USJ), Sri Lanka\n\n\nJuly 2021 — July 2022\n\n\n\n\nAssociate Data Analyst\nVizuamatix (Pvt) Ltd, Sri Lanka\n\n\nJanuary — November 2021\n\n\n\n\nTrainee Data Analyst\nVizuamatix (Pvt) Ltd, Sri Lanka\n\n\nJuly 2020 —January 2021\n\n\n\n\nResearch Internship\nVizuamatix (Pvt) Ltd, Sri Lanka\nIndustrial training as a fulfillment of the degree B.Sc. (Honours) in Statistics\n\n\nJanuary — July 2020"
   },
   {
     "objectID": "cv/index.html#education",

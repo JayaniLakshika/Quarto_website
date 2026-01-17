@@ -177,7 +177,7 @@ Vizuamatix (Pvt) Ltd, Sri Lanka
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-July---December 2020
+July 2020 ---January 2021
 :::
 :::::
 
@@ -189,7 +189,7 @@ Industrial training as a fulfillment of the degree B.Sc. (Honours) in Statistics
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-January --- June 2020
+January --- July 2020
 :::
 :::::
 ::::::::::::::::::::::::::::::
