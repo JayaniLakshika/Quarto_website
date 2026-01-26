@@ -751,6 +751,28 @@ Team member of the winners at inter university quiz competition organized by the
 
 ::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
+**Monash Innovation Guarantee-Undergraduate (MIG-UG)**--- Mentor\
+Monash University, Australia
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+January 2026
+:::
+:::::
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
+**ASC Session Chair**\
+Australian Statistical Conference in Perth, Australia
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2025
+:::
+:::::
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
 **Monash Innovation Guarantee-Postgraduate (MIG-P)**--- Mentor\
 Monash University, Australia
 :::

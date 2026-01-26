@@ -24,7 +24,7 @@ about:
       href: mailto:jayanilakshika76@gmail.com
 ---
 
-I am a third year PhD student in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs) supervised by [Professor Dianne Cook](http://www.dicook.org/), [Dr. Michael Lydeamore](https://research.monash.edu/en/persons/michael-lydeamore), [Dr. Thiyanga S. Talagala](https://thiyanga.netlify.app/), and [Dr. Paul Harrison](https://research.monash.edu/en/persons/paul-harrison).
+I am a PhD candidate in the Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs). I have submitted my doctoral thesis and it is currently under examination. My research was supervised by [Professor Dianne Cook](http://www.dicook.org/), [Dr. Michael Lydeamore](https://research.monash.edu/en/persons/michael-lydeamore), [Dr. Thiyanga S. Talagala](https://thiyanga.netlify.app/), and [Dr. Paul Harrison](https://research.monash.edu/en/persons/paul-harrison).
 
 I am part of [Monash NUMBATs](https://numbat.space/). Currently, I am also working as a Teaching Associate in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs).
 
