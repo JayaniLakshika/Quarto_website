@@ -17,7 +17,7 @@ about:
     - icon: link
       href: https://orcid.org/my-orcid?orcid=0000-0002-6265-6481
     - icon: linkedin
-      href: www.linkedin.com/in/jayani-lakshika-9a0297162/
+      href: https://www.linkedin.com/in/jayani-lakshika-9a0297162/
     - icon: rss
       href: https://bsky.app/profile/jayanigamage.bsky.social
     - icon: envelope
