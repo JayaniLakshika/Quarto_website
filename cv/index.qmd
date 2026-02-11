@@ -458,6 +458,16 @@ July 2024
 
 ::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
+\[ETC2440\] **Mathematics for economics and business**
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+2026
+:::
+:::::
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
 \[ETC5242\] **Statistical thinking**
 :::
 
@@ -482,7 +492,7 @@ July 2024
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-2024
+2024, 2026
 :::
 :::::
 
@@ -502,7 +512,7 @@ July 2024
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-2023 --- 2024
+2023 --- 2024, 2026
 :::
 :::::
 
@@ -512,7 +522,7 @@ July 2024
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-2023 --- 2025
+2023 --- 2026
 :::
 :::::
 

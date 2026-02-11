@@ -2,6 +2,12 @@
 title: "Teaching"
 ---
 
+# ETC2440 - Mathematics for economics and business
+
+[Handbook entry](https://handbook.monash.edu/2026/units/ETC2440)
+
+-   Semester 1 2026
+
 # ETC2420 - Statistical thinking
 
 [Handbook entry](https://handbook.monash.edu/2025/units/ETC2420?year=2025)
@@ -16,8 +22,9 @@ title: "Teaching"
 
 # ETC5510 - Introduction to data analysis
 
-[Handbook entry](https://handbook.monash.edu/2024/units/ETC5510?year=2024)
+[Handbook entry](https://handbook.monash.edu/2024/units/ETC5510)
 
+-   Semester 1 2026
 -   Semester 2 2024
 
 # ETC5521 - Exploratory data analysis
@@ -30,13 +37,15 @@ title: "Teaching"
 
 [Handbook entry](https://handbook.monash.edu/2024/units/ETC3250)
 
+-   Semester 1 2026
 -   Semester 1 2024
 -   Semester 1 2023
 
 # ETC5250 - Introduction to machine learning
 
-[Handbook entry](https://handbook.monash.edu/2023/units/ETC5250?year=2024)
+[Handbook entry](https://handbook.monash.edu/2023/units/ETC5250)
 
+-   Semester 1 2026
 -   Semester 1 2025
 -   Semester 1 2024
 -   Semester 1 2023
