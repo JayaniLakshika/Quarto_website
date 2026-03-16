@@ -139,6 +139,17 @@ December 2015 --- September 2016
 
 ::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
+**Research Assistant**\
+Department of Econometrics and Business Statistics, Monash University, Australia
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+March 2026 ---
+:::
+:::::
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
 **Teaching Associate**\
 Department of Econometrics and Business Statistics, Monash University, Australia
 :::

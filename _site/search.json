@@ -550,7 +550,7 @@
     "href": "cv/index.html#appointments-held",
     "title": "Curriculum Vitae",
     "section": " Appointments Held",
-    "text": "Appointments Held\n\n\nTeaching Associate\nDepartment of Econometrics and Business Statistics, Monash University, Australia\n\n\nJanuary 2023 —\n\n\n\n\nTeaching Assistant (Temporary Instructor)\nUniversity of Sri Jayewardenepura (USJ), Sri Lanka\n\n\nJuly 2021 — July 2022\n\n\n\n\nAssociate Data Analyst\nVizuamatix (Pvt) Ltd, Sri Lanka\n\n\nJanuary — November 2021\n\n\n\n\nTrainee Data Analyst\nVizuamatix (Pvt) Ltd, Sri Lanka\n\n\nJuly 2020 —January 2021\n\n\n\n\nResearch Internship\nVizuamatix (Pvt) Ltd, Sri Lanka\nIndustrial training as a fulfillment of the degree B.Sc. (Honours) in Statistics\n\n\nJanuary — July 2020"
+    "text": "Appointments Held\n\n\nResearch Assistant\nDepartment of Econometrics and Business Statistics, Monash University, Australia\n\n\nMarch 2026 —\n\n\n\n\nTeaching Associate\nDepartment of Econometrics and Business Statistics, Monash University, Australia\n\n\nJanuary 2023 —\n\n\n\n\nTeaching Assistant (Temporary Instructor)\nUniversity of Sri Jayewardenepura (USJ), Sri Lanka\n\n\nJuly 2021 — July 2022\n\n\n\n\nAssociate Data Analyst\nVizuamatix (Pvt) Ltd, Sri Lanka\n\n\nJanuary — November 2021\n\n\n\n\nTrainee Data Analyst\nVizuamatix (Pvt) Ltd, Sri Lanka\n\n\nJuly 2020 —January 2021\n\n\n\n\nResearch Internship\nVizuamatix (Pvt) Ltd, Sri Lanka\nIndustrial training as a fulfillment of the degree B.Sc. (Honours) in Statistics\n\n\nJanuary — July 2020"
   },
   {
     "objectID": "cv/index.html#education",
@@ -753,7 +753,7 @@
     "href": "mentoring.html",
     "title": "Mentoring",
     "section": "",
-    "text": "In July 2025, I had the privilege of serving as a coach in the Monash Innovation Guarantee Postgraduate (MIG-P) program. Over three inspiring weeks, I worked with a diverse cohort of master’s students as they tackled real-world, industry-defined challenges. It was an incredible experience to support their journey from exploration and ideation through to prototyping and pitching—witnessing their creativity, resilience, and ability to thrive in ambiguity."
+    "text": "In February 2025, I had the opportunity to serve as a coach in the Monash Innovation Guarantee – Undergraduate (MIG-U) program. During the program, I worked with a multidisciplinary team of undergraduate students as they explored real-world challenges and developed innovative solutions. It was inspiring to support them through the process—from early-stage problem exploration and ideation to refining their concepts and presenting their final pitches. Witnessing their curiosity, teamwork, and willingness to experiment was incredibly rewarding. I was especially proud that the team I mentored was awarded the Best Pitch, recognising the strength of their idea and the clarity with which they communicated their solution."
   },
   {
     "objectID": "mentoring.html#user-2025-north-carolina-usa",
@@ -871,8 +871,8 @@
     "objectID": "mentoring.html#monash-innovation-guarantee-postgraduate-mig-p",
     "href": "mentoring.html#monash-innovation-guarantee-postgraduate-mig-p",
     "title": "Mentoring",
-    "section": "",
-    "text": "In July 2025, I had the privilege of serving as a coach in the Monash Innovation Guarantee Postgraduate (MIG-P) program. Over three inspiring weeks, I worked with a diverse cohort of master’s students as they tackled real-world, industry-defined challenges. It was an incredible experience to support their journey from exploration and ideation through to prototyping and pitching—witnessing their creativity, resilience, and ability to thrive in ambiguity."
+    "section": "Monash Innovation Guarantee-Postgraduate (MIG-P)",
+    "text": "Monash Innovation Guarantee-Postgraduate (MIG-P)\nIn July 2025, I had the privilege of serving as a coach in the Monash Innovation Guarantee Postgraduate (MIG-P) program. Over three inspiring weeks, I worked with a diverse cohort of master’s students as they tackled real-world, industry-defined challenges. It was an incredible experience to support their journey from exploration and ideation through to prototyping and pitching—witnessing their creativity, resilience, and ability to thrive in ambiguity."
   },
   {
     "objectID": "talks.html#biometrics-in-the-bush-capital-bibc2025-canberra-australia",
@@ -887,5 +887,12 @@
     "title": "Talks",
     "section": "",
     "text": "I attended my second ASC Conference, where I had the opportunity to present my research and engage in thoughtful discussions with fellow statisticians. My presentation, “Visualise your fitted non-linear dimension reduction model in the high-dimensional data space”, showcased a methodological and software-based approach for examining how non-linear dimension reduction (NLDR) techniques reshape high-dimensional data. The experience was both intellectually stimulating and professionally rewarding.\n\n\n\n\n\nPresentation"
+  },
+  {
+    "objectID": "mentoring.html#monash-innovation-guarantee-undergraduate-mig-ug",
+    "href": "mentoring.html#monash-innovation-guarantee-undergraduate-mig-ug",
+    "title": "Mentoring",
+    "section": "",
+    "text": "In February 2025, I had the opportunity to serve as a coach in the Monash Innovation Guarantee – Undergraduate (MIG-U) program. During the program, I worked with a multidisciplinary team of undergraduate students as they explored real-world challenges and developed innovative solutions. It was inspiring to support them through the process—from early-stage problem exploration and ideation to refining their concepts and presenting their final pitches. Witnessing their curiosity, teamwork, and willingness to experiment was incredibly rewarding. I was especially proud that the team I mentored was awarded the Best Pitch, recognising the strength of their idea and the clarity with which they communicated their solution."
   }
 ]
