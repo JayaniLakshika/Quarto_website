@@ -15,6 +15,8 @@ pubs <- tibble(title = b$title.title.value,
                journal = b$`journal-title.value`,
                doi = b$url.value) |>
   arrange(desc(year))
+
+pubs[6, 4] <- "https://arxiv.org/abs/2106.08077"
 save(pubs, file="pubs.rda")
 ```
 
