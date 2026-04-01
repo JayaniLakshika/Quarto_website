@@ -1217,7 +1217,7 @@ Monash University, Australia
 ::: {.column width="50%"}
 **Dr Thiyanga S. Talagala**  
 [ttalagala@sjp.ac.lk](mailto:ttalagala@sjp.ac.lk)  
-[https://thiyanga.netlify.com](https://thiyanga.netlify.com)  
+[https://thiyanga.netlify.app](https://thiyanga.netlify.app)  
 Senior Lecturer  
 Department of Statistics  
 Faculty of Applied Sciences  
