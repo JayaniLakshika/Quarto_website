@@ -91,7 +91,7 @@ LinkedIn: https://www.linkedin.com/in/jayani-lakshika-9a0297162
 
 ::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
-**PhD candidate - Statistics**\
+**PhD in Mathematics and Statistics**\
 Faculty of Business & Economics, Monash University, Australia\
 Thesis title: New Interactive Visual Tools and Statistical Methodology for Selecting and Evaluating Non-linear Dimension Reduction Layouts of High-dimensional Data
 :::
@@ -209,7 +209,7 @@ January --- July 2020
 
 ### Papers
 
-Gamage, J. P., Cook, D., Harrison, P., Lydeamore, M., & Talagala, T. S. (2025). cardinalR: Generating Interesting High-Dimensional Data Structures. arXiv preprint [arXiv:2512.18172](https://arxiv.org/abs/2512.18172). (**Submit, The R Journal**)
+Gamage, J. P., Cook, D., Harrison, P., Lydeamore, M., & Talagala, T. S. (2025). cardinalR: Generating Interesting High-Dimensional Data Structures. arXiv preprint [arXiv:2512.18172](https://arxiv.org/abs/2512.18172). (**Revise & Resubmit, The R Journal**)
 
 Gamage, J. P., Cook, D., Harrison, P., Lydeamore, M., & Talagala, T. S. (2025). quollr: An R Package for Visualizing 2-D Models from Nonlinear Dimension Reductions in High-Dimensional Space. arXiv preprint [arXiv:2512.18166](https://arxiv.org/abs/2512.18166). (**Submit, The R Journal**)
 
