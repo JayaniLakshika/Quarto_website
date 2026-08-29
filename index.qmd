@@ -24,9 +24,11 @@ about:
       href: mailto:jayanilakshika76@gmail.com
 ---
 
+I am currently a Postdoctoral Research Associate at the [Centre for Crop and Disease Management (CCDM)](https://www.ccdm.com.au/) at Curtin University in Western Australia, working under the supervision of [Associate Professor Julia Easton](https://www.ccdm.com.au/people/julia-easton/) and [Professor Adam Spark](https://www.ccdm.com.au/people/adam-sparks/).
+
 I obtained my PhD in Mathematics and Statistics from the Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs) in 2026 under the supervision [Professor Dianne Cook](http://www.dicook.org/), [Dr. Michael Lydeamore](https://research.monash.edu/en/persons/michael-lydeamore), [Dr. Thiyanga S. Talagala](https://thiyanga.netlify.app/), and [Dr. Paul Harrison](https://research.monash.edu/en/persons/paul-harrison). My doctoral thesis can be found in [https://jayani-lakshika-phd-thesis.netlify.app/](https://jayani-lakshika-phd-thesis.netlify.app/).
 
-I am part of [Monash NUMBATs](https://numbat.space/). Currently, I am also working as a Teaching Associate and Research Assistant in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs).
+I was part of [Monash NUMBATs](https://numbat.space/). Previously, I am worked as a Teaching Associate and Research Assistant in Department of Econometrics and Business Statistics at the [Monash University, Australia](https://www.monash.edu/business/ebs).
 
 ::::: columns
 ::: {.column width="40%"}
@@ -46,7 +48,7 @@ I am part of [Monash NUMBATs](https://numbat.space/). Currently, I am also worki
 ::: {.column width="60%"}
 ## Education
 
-##### {{< fa graduation-cap >}} PhD student, Present
+##### {{< fa graduation-cap >}} PhD in Mathematics and Statistics, 2026
 
 ###### Monash University, Australia {style="color: gray"}
 

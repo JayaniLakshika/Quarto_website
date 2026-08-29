@@ -139,12 +139,23 @@ December 2015 --- September 2016
 
 ::::: {.cols data-latex=""}
 ::: {.col data-latex="{0.85\\textwidth}"}
+**Postdoctoral Research Associate**\
+Centre for Crop and Disease Management (CCDM), Curtin University, Western Australia
+:::
+
+::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
+July 2026
+:::
+:::::
+
+::::: {.cols data-latex=""}
+::: {.col data-latex="{0.85\\textwidth}"}
 **Research Assistant**\
 Department of Econometrics and Business Statistics, Monash University, Australia
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-March 2026 ---
+March 2026 --- July 2026
 :::
 :::::
 
@@ -155,7 +166,7 @@ Department of Econometrics and Business Statistics, Monash University, Australia
 :::
 
 ::: {.rightcol .flushright data-latex="{0.15\\textwidth}"}
-January 2023 ---
+January 2023 --- July 2026
 :::
 :::::
 
@@ -211,7 +222,7 @@ January --- July 2020
 
 Gamage, J. P., Cook, D., Harrison, P., Lydeamore, M., & Talagala, T. S. (2025). cardinalR: Generating Interesting High-Dimensional Data Structures. arXiv preprint [arXiv:2512.18172](https://arxiv.org/abs/2512.18172). (**Revise & Resubmit, The R Journal**)
 
-Gamage, J. P., Cook, D., Harrison, P., Lydeamore, M., & Talagala, T. S. (2025). quollr: An R Package for Visualizing 2-D Models from Nonlinear Dimension Reductions in High-Dimensional Space. arXiv preprint [arXiv:2512.18166](https://arxiv.org/abs/2512.18166). (**Submit, The R Journal**)
+Gamage, J. P., Cook, D., Harrison, P., Lydeamore, M., & Talagala, T. S. (2025). quollr: An R Package for Visualizing 2-D Models from Nonlinear Dimension Reductions in High-Dimensional Space. arXiv preprint [arXiv:2512.18166](https://arxiv.org/abs/2512.18166). (**Revise & Resubmit, The R Journal**)
 
 Gamage, J. P., Cook, D., Harrison, P., & Lydeamore, M. (2025). Stop Lying to Me: New Visual Tools to Choose the Most Honest Nonlinear Dimension Reduction. arXiv preprint [arXiv:2506.22051](https://arxiv.org/abs/2506.22051) (**Revise & Resubmit, JCGS**)
 
